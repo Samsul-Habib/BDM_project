@@ -1,6 +1,7 @@
 # BDM_project
 
 **Seasonal Sales Optimization and Competitive Pricing Strategy**
+
 ⭐ A Business Data Management Capstone Project
 This project focuses on providing data-driven solutions for a small B2C pharmacy, Jibon Clinic, located in rural West Bengal. By analyzing one year's worth of purchase data, this report addresses critical business challenges to foster growth, optimize inventory, and enhance profitability.
 
@@ -33,5 +34,6 @@ Recommendations:
 2) Implement Targeted Discounts: Utilize a price elasticity analysis to offer strategic discounts without harming overall profitability. A 10% discount is recommended for moderate-demand, high-profit medicines, and a 15% discount for low-demand, high-profit segments to attract customers and move less popular stock.
 
 ➕ Project Outcomes
+
 This project provides a clear roadmap for Jibon Clinic to transition from intuition-based to data-driven decision-making. By implementing these recommendations, the pharmacy can effectively mitigate seasonal sales dips, strengthen its competitive position, and establish a loyal customer base for long-term growth.
 
