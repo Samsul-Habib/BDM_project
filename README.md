@@ -1,2 +1,3 @@
 # BDM_project
-A repository containing everything Business Data Management project
+A repository of Business Data Management project
+
