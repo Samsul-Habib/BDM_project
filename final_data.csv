@@ -1,0 +1,458 @@
+Date,Medicine name,Form of medicine,Medicine Class,Qty,Whole sale pharmacy,MRP,buying disc (%),final buying price,Pharma Company,Profit margin,Months until expiry,Month Name,Seasons
+2023-11-29,Huminsulin 30/70 INJ 40IU,injection,Antidiabetic Medications,1,Frank Ross Pharmacy,174.0,17.0,144.42,Eli Lilly and company India Pvt Ltd,0.17,17.0,November,Winter
+2023-11-29,Naprosyn 500+ tab,tablet,NSAIDs / Analgesics,1,Frank Ross Pharmacy,86.85,18.0,71.217,RPG lifesciences Ltd,0.18,23.0,November,Winter
+2024-06-30,Stemetil MD tab,tablet,Antiemetics,1,Sarkar Medicine Agency,172.7,23.0,133.0,Abbott,0.2298784019,13.0,June,Summer
+2024-06-30,Gemer P2,tablet,Antidiabetic Medications,1,Sarkar Medicine Agency,192.0,23.0,147.84,Sun Pharmaceutical Industries Ltd,0.23,20.0,June,Summer
+2024-07-09,Betadine Lotion,antiseptic solution,Antiseptics,1,Zaman Medicine Agency,107.52,16.0,90.32,Win-Medicare Pvt Ltd,0.1599702381,21.0,July,Monsoon
+2024-07-09,Lizomac tab,tablet,Antibiotics,1,Zaman Medicine Agency,399.39,22.39,309.98,Macleods Pharmaceuticals Pvt Ltd,0.2238663963,29.0,July,Monsoon
+2024-07-09,Dalacin C 300mg,capsule,Antibiotics,1,Zaman Medicine Agency,297.0,15.33,251.48,Pfizer Ltd,0.1532659933,51.0,July,Monsoon
+2024-06-21,Glycomet-GP 1,tablet,Antidiabetic Medications,2,Sarkar Medicine Agency,122.0,28.57,87.15,USV Ltd,0.2856557377,18.0,June,Summer
+2024-08-19,Acemiz Plus,tablet,NSAIDs / Analgesics,5,Zaman Medicine Agency,99.5,84.92,15.0,Lupin Ltd,0.8492462312,18.0,August,Monsoon
+2024-08-19,Cetil Dry syp,syrup,Antibiotics,1,Zaman Medicine Agency,177.0,22.21,137.68,Lupin Ltd,0.2221468927,10.0,August,Monsoon
+2024-08-19,Lizolid 600 mg tab,tablet,Antibiotics,1,Zaman Medicine Agency,399.0,22.4,309.63,Integrace Pvt Ltd,0.2239849624,20.0,August,Monsoon
+2024-08-19,Ascoril D junior,syrup,Cough Syrup,2,Zaman Medicine Agency,107.0,27.57,77.5,Glenmark Pharmaceuticals Ltd,0.2757009346,11.0,August,Monsoon
+2024-08-19,Moxclav BD syp ,syrup,Antibiotics,2,Zaman Medicine Agency,67.53,22.38,52.42,Sun Pharmaceutical Industries Ltd,0.2237524063,14.0,August,Monsoon
+2024-08-19,Medisalic Oint,cream,Antibiotics,2,Zaman Medicine Agency,159.0,65.41,55.0,Torque Pharmaceuticals Pvt Ltd,0.6540880503,18.0,August,Monsoon
+2024-08-19,Cepodem 200mg tab,tablet,Antibiotics,1,Zaman Medicine Agency,199.0,30.16,138.99,Sun Pharmaceutical Industries Ltd,0.3015577889,25.0,August,Monsoon
+2024-08-19,Drotin DS tab,tablet,NSAIDs / Analgesics,1,Zaman Medicine Agency,246.79,22.4,191.51,Walter Bushnell,0.2239961101,19.0,August,Monsoon
+2024-08-19,Drotin 15 tab,tablet,NSAIDs / Analgesics,1,Zaman Medicine Agency,139.96,22.4,108.61,Walter Bushnell,0.2239925693,18.0,August,Monsoon
+2024-08-19,Socril,capsule,Nutritional supplement,1,Zaman Medicine Agency,234.0,21.6,183.46,Sun Pharmaceutical Industries Ltd,0.215982906,9.0,August,Monsoon
+2024-08-19,Gemer D5 2 tab,tablet,Antidiabetic Medications,1,Zaman Medicine Agency,213.0,21.6,167.0,Sun Pharmaceutical Industries Ltd,0.2159624413,19.0,August,Monsoon
+2024-08-19,Zentel Syp 10ml,syrup,Anthelmintics,4,Zaman Medicine Agency,20.05,22.39,15.56,Glaxo SmithKline Pharmaceuticals Ltd,0.2239401496,29.0,August,Monsoon
+2024-08-19,Ceposem 100 syp,syrup,Antibiotics,4,Zaman Medicine Agency,199.0,30.16,138.99,Sun Pharmaceutical Industries Ltd,0.3015577889,12.0,August,Monsoon
+2024-08-19,Gas O Fast jeera,granule powder,Antacid,10,Zaman Medicine Agency,10.0,35.4,6.46,Mankind Pharma Ltd,0.354,17.0,August,Monsoon
+2024-08-19,Glyciphase 500,tablet,Antidiabetic Medications,1,Zaman Medicine Agency,41.65,22.4,32.32,Franco-Indian Pharmaceuticals Pvt Ltd,0.2240096038,28.0,August,Monsoon
+2024-08-19,Betnovate GM,cream,Antibiotics,2,Zaman Medicine Agency,41.15,21.6,32.26,Glaxo SmithKline Pharmaceuticals Ltd,0.2160388821,12.0,August,Monsoon
+2024-08-19,Citralma Syp,syrup,Antibiotics,1,Zaman Medicine Agency,115.0,22.4,89.24,Pfizer Ltd,0.224,10.0,August,Monsoon
+2024-08-19,Ambrodil S Syp,syrup,Cough Syrup,2,Zaman Medicine Agency,36.15,30.12,25.26,Aristo Pharmaceuticals Pvt Ltd,0.3012448133,25.0,August,Monsoon
+2024-08-19,Pyrigesic 1000 tab,tablet,NSAIDs / Analgesics,1,Zaman Medicine Agency,37.0,30.08,25.87,East India Pharmaceutical Works Ltd,0.3008108108,27.0,August,Monsoon
+2024-08-19,Dakson Oral,syrup,Nutritional supplement,1,Zaman Medicine Agency,31.5,22.41,24.44,Emcee Pharmaceuticals Pvt Ltd,0.2241269841,15.0,August,Monsoon
+2024-08-19,Sucralfate O syp,syrup,Anti-ulcer Agents,1,Zaman Medicine Agency,230.0,73.04,62.0,Strassenburg Pharmaceuticals.Ltd,0.7304347826,13.0,August,Monsoon
+2024-08-19,Zuvendine Solution IP,antiseptic solution,Antiseptics,2,Zaman Medicine Agency,44.23,38.96,27.0,Zuventus Healthcare Ltd,0.3895546009,13.0,August,Monsoon
+2024-08-19,Scaboma plus lotion,lotion,Antibiotics,2,Zaman Medicine Agency,60.35,53.6,28.0,Glenmark Pharmaceuticals Ltd,0.536039768,16.0,August,Monsoon
+2024-08-02,Mefkind DF syp,syrup,NSAIDs / Analgesics,2,Zaman Medicine Agency,50.57,35.34,32.7,Mankind Pharma Ltd,0.3533715642,15.0,August,Monsoon
+2024-08-02,Calpol 500 mg,tablet,NSAIDs / Analgesics,4,Zaman Medicine Agency,14.95,26.22,11.03,Glaxo SmithKline Pharmaceuticals Ltd,0.2622073579,18.0,August,Monsoon
+2024-08-02,Cetil 500 mg,tablet,Antibiotics,1,Zaman Medicine Agency,576.0,22.4,446.99,Lupin Ltd,0.2239756944,18.0,August,Monsoon
+2024-08-02,Glencoff D,syrup,Cough Syrup,3,Zaman Medicine Agency,118.0,64.41,42.0,Glenmark Pharmaceuticals Ltd,0.6440677966,7.0,August,Monsoon
+2024-08-02,Ambrodil S Syp,syrup,Cough Syrup,2,Zaman Medicine Agency,36.15,30.12,25.26,Aristo Pharmaceuticals Pvt Ltd,0.3012448133,24.0,August,Monsoon
+2024-08-02,Ascoril D junior,syrup,Cough Syrup,1,Zaman Medicine Agency,107.0,27.57,77.5,Glenmark Pharmaceuticals Ltd,0.2757009346,11.0,August,Monsoon
+2024-08-02,Flumont-LC,syrup,Cold & Allergy Medicine,2,Zaman Medicine Agency,140.0,82.14,25.0,Aristo Pharmaceuticals Pvt Ltd,0.8214285714,15.0,August,Monsoon
+2024-08-02,Cepodem 100,syrup,Antibiotics,1,Zaman Medicine Agency,199.0,30.16,138.99,Sun Pharmaceutical Industries Ltd,0.3015577889,12.0,August,Monsoon
+2024-08-02,Mega CV forte,syrup,Antibiotics,1,Zaman Medicine Agency,153.0,35.33,98.95,Aristo Pharmaceuticals Pvt Ltd,0.3532679739,10.0,August,Monsoon
+2024-08-02,Galirex,syrup,Nutritional supplement,2,Zaman Medicine Agency,100.0,67.99,32.01,Leeford Healthcare Ltd,0.6799,9.0,August,Monsoon
+2024-08-02,Omnacortil,syrup,Steroids,3,Zaman Medicine Agency,32.92,22.39,25.55,Macleods Pharmaceuticals Pvt Ltd,0.2238760632,25.0,August,Monsoon
+2024-08-02,Mega CV,drop,Antibiotics,1,Zaman Medicine Agency,82.0,35.33,53.03,Aristo Pharmaceuticals Pvt Ltd,0.3532926829,11.0,August,Monsoon
+2024-08-02,Nor Metrogyl-O-Syp,syrup,Antibiotics,3,Zaman Medicine Agency,52.86,33.79,35.0,J B Chemicals and Pharmaceuticals Ltd,0.3378736285,6.0,August,Monsoon
+2024-08-02,XL-90 syp,syrup,Cough Syrup,1,Zaman Medicine Agency,115.0,29.45,81.13,DWD Pharmaceuticals Ltd,0.2945217391,15.0,August,Monsoon
+2024-08-02,Chericof,syrup,Cough Syrup,1,Zaman Medicine Agency,118.0,28.86,83.95,Sun Pharmaceutical Industries Ltd,0.288559322,17.0,August,Monsoon
+2024-08-02,Calciway,syrup,Nutritional supplement,1,Zaman Medicine Agency,130.0,65.54,44.8,Garwychem Healthcare,0.6553846154,10.0,August,Monsoon
+2024-08-02,R Loc,tablet,Antacid,2,Zaman Medicine Agency,45.0,35.33,29.1,Zydus Cadila,0.3533333333,24.0,August,Monsoon
+2024-07-25,Pan D,capsule,Antacid,1,Zaman Medicine Agency,231.0,22.4,179.25,Alkem Laboratories Ltd,0.224025974,20.0,July,Monsoon
+2024-07-25,Cafragin,tablet,Antimigraine Agents,5,Zaman Medicine Agency,50.0,42.8,28.6,Agrosaf Pharmaceuticals,0.428,19.0,July,Monsoon
+2024-07-25,Cepodem 50 mg,syrup,Antibiotics,2,Zaman Medicine Agency,96.0,30.17,67.04,Sun Pharmaceutical Industries Ltd,0.3016666667,11.0,July,Monsoon
+2024-07-25,Colimex DF,drop,Antispasmodic,1,Zaman Medicine Agency,74.5,21.58,58.42,Wallace Pharmaceuticals Pvt Ltd,0.2158389262,16.0,July,Monsoon
+2024-07-25,Cepodem 100,syrup,Antibiotics,1,Zaman Medicine Agency,199.0,30.16,138.99,Sun Pharmaceutical Industries Ltd,0.3015577889,13.0,July,Monsoon
+2024-07-25,Mupivate oint,cream,Antibiotics,5,Zaman Medicine Agency,113.62,72.72,31.0,Alkem Laboratories Ltd,0.7271607111,15.0,July,Monsoon
+2024-07-25,Zerotuss D syp,syrup,Cough Syrup,1,Zaman Medicine Agency,89.0,22.4,69.06,Aristo Pharmaceuticals Pvt Ltd,0.2240449438,5.0,July,Monsoon
+2024-07-25,Zocef Dry syp,syrup,Antibiotics,1,Zaman Medicine Agency,173.78,22.4,134.85,Alkem Laboratories Ltd,0.2240188744,11.0,July,Monsoon
+2024-07-25,Dart 10 tab,tablet,NSAIDs / Analgesics,1,Zaman Medicine Agency,59.25,35.31,38.33,Juggat Pharma,0.3530801688,27.0,July,Monsoon
+2024-07-25,Linzomek-600,tablet,Antibiotics,1,Zaman Medicine Agency,356.27,73.33,95.0,Macleods Pharmaceuticals Pvt Ltd,0.7333483033,12.0,July,Monsoon
+2024-07-25,Cetritreat LM,tablet,Cold & Allergy Medicine,10,Zaman Medicine Agency,110.0,84.73,16.8,Smartways Wellness,0.8472727273,17.0,July,Monsoon
+2024-07-26,Hemoway syp,syrup,Nutritional supplement,1,Zaman Medicine Agency,160.0,54.5,72.8,Smartways Wellness,0.545,14.0,July,Monsoon
+2024-07-26,Apwell syp,syrup,Nutritional supplement,3,Zaman Medicine Agency,131.0,76.34,31.0,Ajanta Pharma Ltd,0.7633587786,20.0,July,Monsoon
+2024-07-26,Pan MPS syp,syrup,Antacid,1,Zaman Medicine Agency,114.0,30.15,79.63,Alkem Laboratories Ltd,0.3014912281,32.0,July,Monsoon
+2024-07-26,Pantodac IV,injection,Antacid,5,Zaman Medicine Agency,56.5,60.58,22.27,Zydus Cadila,0.605840708,17.0,July,Monsoon
+2024-07-26,Genoplex L,syrup,Nutritional supplement,1,Zaman Medicine Agency,96.75,30.17,67.56,Geno Pharmaceuticals Ltd,0.3017054264,2.0,July,Monsoon
+2024-07-26,Zentel Syp 10ml,syrup,Anthelmintics,2,Zaman Medicine Agency,20.05,22.39,15.56,Glaxo SmithKline Pharmaceuticals Ltd,0.2239401496,31.0,July,Monsoon
+2024-07-26,Bevon syp,syrup,Nutritional supplement,1,Zaman Medicine Agency,201.4,35.33,130.24,Zuventus Healthcare Ltd,0.353326713,14.0,July,Monsoon
+2024-07-26,Cypon Syp,syrup,Appetite Stimulant,1,Zaman Medicine Agency,136.0,30.15,95.0,Geno Pharmaceuticals Ltd,0.3014705882,33.0,July,Monsoon
+2024-07-26,Surfaz SN,cream,Antifungals,1,Zaman Medicine Agency,96.0,29.95,67.25,Franco-Indian Pharmaceuticals Pvt Ltd,0.2994791667,9.0,July,Monsoon
+2024-07-26,Betnovate GM,cream,Antibiotics,2,Zaman Medicine Agency,41.15,21.6,32.26,Glaxo SmithKline Pharmaceuticals Ltd,0.2160388821,13.0,July,Monsoon
+2024-07-26,Betnovate C,cream,Steroids,2,Zaman Medicine Agency,64.45,21.6,50.53,Glaxo SmithKline Pharmaceuticals Ltd,0.2159813809,18.0,July,Monsoon
+2024-07-26,Rantac Infant syp,syrup,Antacid,2,Zaman Medicine Agency,48.5,22.39,37.64,J B Chemicals and Pharmaceuticals Ltd,0.2239175258,15.0,July,Monsoon
+2024-07-26,Ondem syp,syrup,Antiemetics,2,Zaman Medicine Agency,42.19,30.13,29.48,Alkem Laboratories Ltd,0.3012562219,21.0,July,Monsoon
+2024-07-26,Sumo-L drop,syrup,NSAIDs / Analgesics,2,Zaman Medicine Agency,33.0,28.64,23.55,Alkem Laboratories Ltd,0.2863636364,21.0,July,Monsoon
+2024-07-26,Maxtra drop,syrup,Cold & Allergy Medicine,2,Zaman Medicine Agency,100.0,34.94,65.06,Zuventus Healthcare Ltd,0.3494,19.0,July,Monsoon
+2024-07-26,Nasoclear drop,drop,Cold & Allergy Medicine,2,Zaman Medicine Agency,64.35,28.61,45.94,Zydus Cadila,0.2860916861,30.0,July,Monsoon
+2024-07-26,Topifort-NX,lotion,Antibiotics,1,Zaman Medicine Agency,80.0,21.74,62.61,Franco-Indian Pharmaceuticals Pvt Ltd,0.217375,13.0,July,Monsoon
+2024-07-26,Colimex,syrup,Antispasmodic,2,Zaman Medicine Agency,61.0,22.36,47.36,Wallace Pharmaceuticals Pvt Ltd,0.2236065574,30.0,July,Monsoon
+2024-07-26,Ambrodil S Syp,syrup,Cough Syrup,2,Zaman Medicine Agency,36.15,30.12,25.26,Aristo Pharmaceuticals Pvt Ltd,0.3012448133,25.0,July,Monsoon
+2024-07-26,Multiflow syp,syrup,Nutritional supplement,2,Zaman Medicine Agency,130.0,65.51,44.84,Smart Laboratories Pvt Ltd,0.6550769231,12.0,July,Monsoon
+2024-07-16,Delpocure 50 syp,syrup,Antibiotics,1,Zaman Medicine Agency,87.5,34.67,57.16,Delcure Life Sciences,0.3467428571,7.0,July,Monsoon
+2024-07-16,Cepodem 100 syp,syrup,Antibiotics,1,Zaman Medicine Agency,189.0,30.15,132.01,Sun Pharmaceutical Industries Ltd,0.3015343915,5.0,July,Monsoon
+2024-07-16,Moxclav BD syp ,syrup,Antibiotics,2,Zaman Medicine Agency,67.53,22.4,52.4,Sun Pharmaceutical Industries Ltd,0.224048571,9.0,July,Monsoon
+2024-07-16,Moxclav 156.25 syp,syrup,Antibiotics,1,Zaman Medicine Agency,68.88,22.42,53.44,Sun Pharmaceutical Industries Ltd,0.2241579559,10.0,July,Monsoon
+2024-07-16,Moxclav Drop 10 ml,drop,Antibiotics,1,Zaman Medicine Agency,101.0,22.4,78.38,Sun Pharmaceutical Industries Ltd,0.223960396,11.0,July,Monsoon
+2024-07-16,Mega CV forte,syrup,Antibiotics,2,Zaman Medicine Agency,153.0,35.33,98.95,Aristo Pharmaceuticals Pvt Ltd,0.3532679739,12.0,July,Monsoon
+2024-07-16,Zocef Dry syp,syrup,Antibiotics,1,Zaman Medicine Agency,173.78,22.4,134.85,Alkem Laboratories Ltd,0.2240188744,11.0,July,Monsoon
+2024-07-16,Potrate MB6,syrup,Kidney Health,1,Zaman Medicine Agency,244.0,22.4,189.34,Intas Pharmaceuticals Ltd,0.2240163934,13.0,July,Monsoon
+2024-07-16,Cepodem 50 mg,syrup,Antibiotics,2,Zaman Medicine Agency,96.0,30.17,67.04,Sun Pharmaceutical Industries Ltd,0.3016666667,11.0,July,Monsoon
+2024-07-16,Cystone 60,tablet,Kidney Health,1,Zaman Medicine Agency,200.0,25.31,149.38,Himalaya Wellness Company,0.2531,32.0,July,Monsoon
+2024-07-16,Famocid 40 mg,tablet,Antacid,6,Zaman Medicine Agency,10.5,22.38,8.15,Sun Pharmaceutical Industries Ltd,0.2238095238,30.0,July,Monsoon
+2024-07-16,Volini spray 40 gm,spray,NSAIDs / Analgesics,1,Zaman Medicine Agency,187.0,22.41,145.1,Sun Pharmaceutical Industries Ltd,0.2240641711,20.0,July,Monsoon
+2024-07-16,Pyrigesic syp 60 ml,syrup,NSAIDs / Analgesics,1,Zaman Medicine Agency,36.29,30.15,25.35,East India Pharmaceutical Works Ltd,0.3014604574,22.0,July,Monsoon
+2024-07-16,Omnacortil drops 10 ml,syrup,Steroids,2,Zaman Medicine Agency,44.25,21.58,34.7,Macleods Pharmaceuticals Pvt Ltd,0.215819209,26.0,July,Monsoon
+2024-07-16,Niftas 100 tab,tablet,Antibiotics,1,Zaman Medicine Agency,127.01,22.34,98.63,Intas Pharmaceuticals Ltd,0.2234469727,31.0,July,Monsoon
+2024-07-16,Esam 2.5 10 tab,tablet,Antihypertensives,1,Zaman Medicine Agency,82.55,21.6,64.72,Torrent Pharmaceuticals Ltd,0.2159903089,15.0,July,Monsoon
+2024-07-16,Flumont-LC,syrup,Cold & Allergy Medicine,2,Zaman Medicine Agency,140.0,82.14,25.0,Aristo Pharmaceuticals Pvt Ltd,0.8214285714,16.0,July,Monsoon
+2024-07-16,Betnovate GM 20 gm,cream,Antibiotics,2,Zaman Medicine Agency,41.15,21.6,32.26,Glaxo SmithKline Pharmaceuticals Ltd,0.2160388821,13.0,July,Monsoon
+2024-07-16,Cataspa tab,tablet,NSAIDs / Analgesics,5,Zaman Medicine Agency,43.2,21.6,33.87,USV Ltd,0.2159722222,21.0,July,Monsoon
+2024-07-16,Relikast-LC tab,tablet,Cold & Allergy Medicine,3,Zaman Medicine Agency,130.0,78.46,28.0,Leeford Healthcare Ltd,0.7846153846,17.0,July,Monsoon
+2024-07-16,Clofresh dusting powder,powder,Antifungals,3,Zaman Medicine Agency,110.0,57.57,46.67,Smart Laboratories Pvt Ltd,0.5757272727,32.0,July,Monsoon
+2024-07-16,Drep ear drop,drop,Ear Care,1,Zaman Medicine Agency,96.0,29.43,67.75,DWD Pharmaceuticals Ltd,0.2942708333,12.0,July,Monsoon
+2024-07-16,Drep wax,drop,Ear Care,2,Zaman Medicine Agency,112.0,22.4,86.91,DWD Pharmaceuticals Ltd,0.2240178571,18.0,July,Monsoon
+2024-07-16,Drotin 15 tab,tablet,NSAIDs / Analgesics,1,Zaman Medicine Agency,139.96,22.4,108.61,Walter Bushnell,0.2239925693,22.0,July,Monsoon
+2024-07-19,Zerodol P,tablet,NSAIDs / Analgesics,2,B.S Medical Hall,73.0,22.4,56.65,Ipca Laboratories Ltd,0.2239726027,19.0,July,Monsoon
+2024-07-19,Socril,tablet,Nutritional supplement,1,B.S Medical Hall,234.0,22.4,181.59,Sun Pharmaceutical Industries Ltd,0.223974359,8.0,July,Monsoon
+2024-07-19,Calpol 650,tablet,NSAIDs / Analgesics,6,B.S Medical Hall,33.6,35.33,21.73,Glaxo SmithKline Pharmaceuticals Ltd,0.3532738095,19.0,July,Monsoon
+2024-07-19,Taxim OF,tablet,Antibiotics,2,B.S Medical Hall,175.0,22.38,135.83,Alkem Laboratories Ltd,0.2238285714,18.0,July,Monsoon
+2024-07-19,Cefiwok O,tablet,Antibiotics,2,B.S Medical Hall,175.0,60.0,70.0,Dr Reddy's Laboratories Ltd,0.6,17.0,July,Monsoon
+2024-07-19,Neurobion forte,tablet,Neuropathy Agents,2,B.S Medical Hall,41.91,18.54,34.14,Procter & Gamble Health Ltd,0.1853972799,13.0,July,Monsoon
+2024-07-19,Criz-M,tablet,Cold & Allergy Medicine,2,B.S Medical Hall,173.0,30.14,120.86,Alkem Laboratories Ltd,0.3013872832,19.0,July,Monsoon
+2024-07-19,ATM 500mg,tablet,Antibiotics,2,B.S Medical Hall,131.94,35.28,85.39,Indoco Remedies Ltd,0.3528118842,18.0,July,Monsoon
+2024-07-19,Zerodol SP,tablet,NSAIDs / Analgesics,2,B.S Medical Hall,130.1,22.4,100.96,Ipca Laboratories Ltd,0.2239815527,23.0,July,Monsoon
+2024-07-19,Mega CV forte,syrup,Antibiotics,1,B.S Medical Hall,153.0,35.33,98.95,Aristo Pharmaceuticals Pvt Ltd,0.3532679739,12.0,July,Monsoon
+2024-07-19,Genoplex L,syrup,Nutritional supplement,1,B.S Medical Hall,96.75,30.17,67.56,Geno Pharmaceuticals Ltd,0.3017054264,8.0,July,Monsoon
+2024-07-19,Doxt-SL,capsule,Antibiotics,1,B.S Medical Hall,133.0,30.15,92.9,Dr Reddy's Laboratories Ltd,0.3015037594,18.0,July,Monsoon
+2024-07-19,Clenora gel,gel,NSAIDs / Analgesics,1,B.S Medical Hall,108.0,22.4,83.81,DWD Pharmaceuticals Ltd,0.2239814815,18.0,July,Monsoon
+2024-07-19,Rantac,tablet,Antacid,3,B.S Medical Hall,49.0,29.8,34.4,J B Chemicals and Pharmaceuticals Ltd,0.2979591837,14.0,July,Monsoon
+2024-07-19,Pan D,capsule,Antacid,1,B.S Medical Hall,231.0,22.4,179.25,Alkem Laboratories Ltd,0.224025974,19.0,July,Monsoon
+2024-07-19,Eltroxin 25 mcg,tablet,Thyroid Hormone Replacement,1,B.S Medical Hall,193.54,22.39,150.2,Glaxo SmithKline Pharmaceuticals Ltd,0.2239330371,9.0,July,Monsoon
+2024-07-19,Omizac-D,capsule,Antacid,4,B.S Medical Hall,125.0,80.8,24.0,Torrent Pharmaceuticals Ltd,0.808,20.0,July,Monsoon
+2024-07-19,Etodash TH,tablet,NSAIDs / Analgesics,2,B.S Medical Hall,150.0,62.67,56.0,Olamic Healthcare,0.6266666667,2.0,July,Monsoon
+2024-07-19,Cefuway 250,tablet,Antibiotics,2,B.S Medical Hall,175.0,52.0,84.0,Smartways Wellness,0.52,17.0,July,Monsoon
+2024-07-19,Cefuway 500,tablet,Antibiotics,1,B.S Medical Hall,330.0,49.66,166.13,Smartways Wellness,0.4965757576,18.0,July,Monsoon
+2024-07-19,Zentel 400 mg,tablet,Anthelmintics,10,B.S Medical Hall,9.09,22.33,7.06,Glaxo SmithKline Pharmaceuticals Ltd,0.2233223322,31.0,July,Monsoon
+2024-07-19,Nor Metrogyl TZ,tablet,Antibiotics,2,B.S Medical Hall,106.37,69.91,32.01,J B Chemicals and Pharmaceuticals Ltd,0.6990692865,100.0,July,Monsoon
+2024-07-19,Amlokind At 10,tablet,Antihypertensives,1,B.S Medical Hall,53.95,28.84,38.39,Mankind Pharma Ltd,0.2884151993,18.0,July,Monsoon
+2024-07-19,Ambrodil S Syp,syrup,Cough Syrup,2,B.S Medical Hall,36.15,30.12,25.26,Aristo Pharmaceuticals Pvt Ltd,0.3012448133,25.0,July,Monsoon
+2024-07-19,HH Linctus syp,syrup,Cough Syrup,1,B.S Medical Hall,109.0,22.4,84.58,Hegde and Hegde Pharmaceutical LLP,0.2240366972,14.0,July,Monsoon
+2024-07-19,Asthakind DX,syrup,Cold & Allergy Medicine,1,B.S Medical Hall,102.5,35.34,66.28,Mankind Pharma Ltd,0.3533658537,17.0,July,Monsoon
+2024-07-19,Chericof,syrup,Cough Syrup,1,B.S Medical Hall,118.0,22.39,91.58,Sun Pharmaceutical Industries Ltd,0.2238983051,18.0,July,Monsoon
+2024-07-19,V-wash plus,liquid,Antiseptics,1,B.S Medical Hall,180.0,19.16,145.51,Hindustan Unilever Ltd,0.1916111111,10.0,July,Monsoon
+2024-07-10,Cefiwok O,tablet,Antibiotics,4,Zaman Medicine Agency,175.0,57.71,74.0,Dr Reddy's Laboratories Ltd,0.5771428571,17.0,July,Monsoon
+2024-07-10,Omee Alkem,capsule,Antacid,3,Zaman Medicine Agency,64.29,61.11,25.0,Alkem Laboratories Ltd,0.6111370353,15.0,July,Monsoon
+2024-07-10,Omepraz D,capsule,Antacid,3,Zaman Medicine Agency,200.0,85.0,30.0,Alkem Laboratories Ltd,0.85,15.0,July,Monsoon
+2024-07-10,Rantac,tablet,Antacid,2,Zaman Medicine Agency,49.0,29.8,34.4,J B Chemicals and Pharmaceuticals Ltd,0.2979591837,14.0,July,Monsoon
+2024-07-10,Ciplox eye drop,drop,Ear Care,2,Zaman Medicine Agency,17.13,21.95,13.37,Cipla Ltd,0.2194979568,30.0,July,Monsoon
+2024-07-10,Clenora gel,gel,NSAIDs / Analgesics,1,Zaman Medicine Agency,108.0,21.59,84.68,DWD Pharmaceuticals Ltd,0.2159259259,18.0,July,Monsoon
+2024-07-10,Drep ear drop,drop,Ear Care,1,Zaman Medicine Agency,96.0,29.43,67.75,DWD Pharmaceuticals Ltd,0.2942708333,16.0,July,Monsoon
+2024-07-10,Meftal spas,tablet,NSAIDs / Analgesics,2,Zaman Medicine Agency,50.0,30.14,34.93,Blue Cross Laboratories Ltd,0.3014,31.0,July,Monsoon
+2024-07-10,Linzomek-600,tablet,Antibiotics,1,Zaman Medicine Agency,356.27,73.33,95.0,Macleods Pharmaceuticals Pvt Ltd,0.7333483033,12.0,July,Monsoon
+2024-07-04,Zentel 400 mg,tablet,Anthelmintics,10,M/S Jeevan Deep,9.09,22.33,7.06,Glaxo SmithKline Pharmaceuticals Ltd,0.2233223322,23.0,July,Monsoon
+2024-07-04,Nock 2 mg,tablet,NSAIDs / Analgesics,2,M/S Jeevan Deep,71.25,35.31,46.09,Wanbury Ltd,0.353122807,28.0,July,Monsoon
+2024-07-04,ATM 500 mg,tablet,Antibiotics,2,M/S Jeevan Deep,131.94,35.28,85.39,Indoco Remedies Ltd,0.3528118842,18.0,July,Monsoon
+2024-07-04,Criz-M,tablet,Cold & Allergy Medicine,2,M/S Jeevan Deep,173.0,30.16,120.83,Alkem Laboratories Ltd,0.3015606936,12.0,July,Monsoon
+2024-07-04,Atarax 10,tablet,Anxiolytics,1,M/S Jeevan Deep,52.5,22.4,40.74,Dr Reddy's Laboratories Ltd,0.224,13.0,July,Monsoon
+2024-07-04,Calpol 500 mg,tablet,NSAIDs / Analgesics,3,M/S Jeevan Deep,14.95,22.41,11.6,Glaxo SmithKline Pharmaceuticals Ltd,0.2240802676,18.0,July,Monsoon
+2024-07-04,Zyrcold syp,syrup,Cough Syrup,1,M/S Jeevan Deep,105.0,21.83,82.08,Dr Reddy's Laboratories Ltd,0.2182857143,11.0,July,Monsoon
+2024-07-04,Asthakind DX,syrup,Cold & Allergy Medicine,2,M/S Jeevan Deep,102.5,30.16,71.59,Mankind Pharma Ltd,0.3015609756,17.0,July,Monsoon
+2024-07-04,Chericof,syrup,Cold & Allergy Medicine,1,M/S Jeevan Deep,107.0,22.39,83.04,Sun Pharmaceutical Industries Ltd,0.2239252336,3.0,July,Monsoon
+2024-07-04,Azithral XL,syrup,Antibiotics,1,M/S Jeevan Deep,114.24,22.4,88.65,Alembic Pharmaceuticals Ltd,0.2240021008,18.0,July,Monsoon
+2024-07-04,Montas-L,tablet,Cold & Allergy Medicine,5,M/S Jeevan Deep,151.0,86.75,20.0,Intas Pharmaceuticals Ltd,0.8675496689,17.0,July,Monsoon
+2024-07-04,Cypon Syp,syrup,Appetite Stimulant,1,M/S Jeevan Deep,124.0,30.16,86.6,Geno Pharmaceuticals Ltd,0.3016129032,30.0,July,Monsoon
+2024-07-04,Pan MPS syp,syrup,Antacid,1,M/S Jeevan Deep,114.0,35.33,73.72,Alkem Laboratories Ltd,0.3533333333,32.0,July,Monsoon
+2024-07-04,Cepodem 100,syrup,Antibiotics,1,M/S Jeevan Deep,189.0,30.15,132.01,Sun Pharmaceutical Industries Ltd,0.3015343915,5.0,July,Monsoon
+2024-07-04,Zofer MD,tablet,Antiemetics,2,M/S Jeevan Deep,57.45,22.4,44.58,Sun Pharmaceutical Industries Ltd,0.2240208877,17.0,July,Monsoon
+2024-07-04,Stemetil injection,injection,Antiemetics,4,M/S Jeevan Deep,24.78,22.36,19.24,Abbott,0.2235673931,31.0,July,Monsoon
+2024-07-04,Emty,syrup,Laxatives,1,M/S Jeevan Deep,129.15,22.38,100.25,Alkem Laboratories Ltd,0.2237708091,20.0,July,Monsoon
+2024-08-06,Alkasol,syrup,NSAIDs / Analgesics,1,Zaman Medicine Agency,349.9,22.4,271.53,Stadmed Pvt Ltd,0.2239782795,27.0,August,Monsoon
+2024-08-06,Clavam,tablet,Antibiotics,1,Zaman Medicine Agency,204.94,35.33,132.54,Alkem Laboratories Ltd,0.353274129,13.0,August,Monsoon
+2024-08-06,Stemetil MD tab,tablet,Antiemetics,1,Zaman Medicine Agency,172.7,22.4,134.02,Abbott,0.2239722061,12.0,August,Monsoon
+2024-08-06,Veloz D,tablet,Antacid,1,Zaman Medicine Agency,225.0,22.23,174.98,Torrent Pharmaceuticals Ltd,0.2223111111,16.0,August,Monsoon
+2024-08-06,Ondem syp,syrup,Antiemetics,2,Zaman Medicine Agency,42.19,30.13,29.48,Alkem Laboratories Ltd,0.3012562219,20.0,August,Monsoon
+2024-08-06,Taxim OF,tablet,Antibiotics,1,Zaman Medicine Agency,175.0,30.15,122.23,Alkem Laboratories Ltd,0.3015428571,17.0,August,Monsoon
+2024-08-06,Moxclav BD syp ,syrup,Antibiotics,2,Zaman Medicine Agency,67.53,22.38,52.42,Sun Pharmaceutical Industries Ltd,0.2237524063,14.0,August,Monsoon
+2024-08-06,Karpin,lotion,Antifungals,1,Zaman Medicine Agency,66.0,21.61,51.74,Deys Medical,0.2160606061,16.0,August,Monsoon
+2024-08-06,Volini active,cream,NSAIDs / Analgesics,10,Zaman Medicine Agency,10.0,29.4,7.06,Sun Pharmaceutical Industries Ltd,0.294,18.0,August,Monsoon
+2024-06-09,Pan D,capsule,Antacid,1,Sarkar Medicine Agency,231.0,23.2,177.4,Alkem Laboratories Ltd,0.232034632,19.0,June,Summer
+2024-06-09,R Loc,tablet,Antacid,5,Sarkar Medicine Agency,45.0,33.31,30.01,Zydus Cadila,0.3331111111,20.0,June,Summer
+2024-06-09,Omez DSR,capsule,Antacid,1,Sarkar Medicine Agency,204.0,23.01,157.05,Dr Reddy's Laboratories Ltd,0.2301470588,11.0,June,Summer
+2024-06-09,Cypon Syp,syrup,Appetite Stimulant,1,Sarkar Medicine Agency,124.0,30.87,85.72,Geno Pharmaceuticals Ltd,0.3087096774,32.0,June,Summer
+2024-06-09,Famocid 40 mg,tablet,Antacid,6,Sarkar Medicine Agency,10.5,23.24,8.06,Sun Pharmaceutical Industries Ltd,0.2323809524,29.0,June,Summer
+2024-05-11,Duphalac,syrup,Laxatives,1,Sarkar Medicine Agency,193.72,20.0,154.98,Abbott,0.1999793516,21.0,May,Summer
+2024-05-11,Colimex,syrup,Antispasmodic,1,Sarkar Medicine Agency,61.0,20.02,48.79,Wallace Pharmaceuticals Pvt Ltd,0.2001639344,30.0,May,Summer
+2024-05-21,Criz-M,tablet,Cold & Allergy Medicine,2,Sarkar Medicine Agency,173.0,27.99,124.57,Alkem Laboratories Ltd,0.2799421965,19.0,May,Summer
+2024-05-21,Hemfer,syrup,Nutritional supplement,1,Sarkar Medicine Agency,178.0,36.0,113.92,Alkem Laboratories Ltd,0.36,11.0,May,Summer
+2024-05-21,Pan D,capsule,Antacid,1,Sarkar Medicine Agency,210.0,23.2,161.29,Alkem Laboratories Ltd,0.231952381,19.0,May,Summer
+2024-05-21,Taxim OF,tablet,Antibiotics,1,Sarkar Medicine Agency,175.0,28.0,126.0,Alkem Laboratories Ltd,0.28,19.0,May,Summer
+2024-05-21,Foracort,inhaler,Cold & Allergy Medicine,1,Sarkar Medicine Agency,510.72,20.0,408.58,Cipla Ltd,0.1999921679,31.0,May,Summer
+2024-05-21,Zerodol SP,tablet,NSAIDs / Analgesics,1,Sarkar Medicine Agency,130.1,19.99,104.09,Ipca Laboratories Ltd,0.199923136,22.0,May,Summer
+2024-05-21,Augpen HS,syrup,Antibiotics,2,Sarkar Medicine Agency,67.87,27.98,48.88,Zuventus Healthcare Ltd,0.2797996169,12.0,May,Summer
+2024-05-21,Moxclav DS,syrup,Antibiotics,1,Sarkar Medicine Agency,159.0,33.33,106.01,Sun Pharmaceutical Industries Ltd,0.3332704403,19.0,May,Summer
+2024-05-21,Nasoclear drop,drop,Cold & Allergy Medicine,2,Sarkar Medicine Agency,64.35,26.65,47.2,Zydus Cadila,0.2665112665,31.0,May,Summer
+2024-05-16,Supracal,tablet,Nutritional supplement,1,Sarkar Medicine Agency,197.0,20.01,157.59,Pharmed Ltd,0.2000507614,16.0,May,Summer
+2024-05-16,Predmet 8,tablet,Steroids,1,Sarkar Medicine Agency,104.0,19.99,83.21,Sun Pharmaceutical Industries Ltd,0.1999038462,31.0,May,Summer
+2024-05-16,Nexpro-40,tablet,Antacid,1,Sarkar Medicine Agency,174.0,19.99,139.21,Torrent Pharmaceuticals Ltd,0.1999425287,20.0,May,Summer
+2024-07-28,Moxiford eye drop,drop,Antibiotics,3,Zaman Medicine Agency,66.0,69.7,20.0,Leeford Healthcare Ltd,0.696969697,18.0,July,Monsoon
+2024-07-28,Tormoxin Clave,tablet,Antibiotics,3,Zaman Medicine Agency,220.0,63.64,80.0,Torrent Pharmaceuticals Ltd,0.6363636364,16.0,July,Monsoon
+2024-07-28,Famocid 20 mg,tablet,Antacid,6,Zaman Medicine Agency,5.9,22.37,4.58,Sun Pharmaceutical Industries Ltd,0.2237288136,31.0,July,Monsoon
+2024-07-28,Glyciphase 500,tablet,Antidiabetic Medications,1,Zaman Medicine Agency,41.65,22.4,32.32,Franco-Indian Pharmaceuticals Pvt Ltd,0.2240096038,27.0,July,Monsoon
+2024-04-03,Rexipra Lite,tablet,Anxiolytics,1,Haque Medicine Supply,178.0,22.4,138.13,Intas Pharmaceuticals Ltd,0.223988764,18.0,April,Summer
+2024-04-03,Diovol mango flavour,syrup,Nutritional supplement,1,Haque Medicine Supply,150.6,22.4,116.86,Wallace Pharmaceuticals Pvt Ltd,0.2240371846,29.0,April,Summer
+2024-04-03,Pan L,capsule,Antacid,1,Haque Medicine Supply,262.0,22.4,203.31,Alkem Laboratories Ltd,0.2240076336,10.0,April,Summer
+2024-04-03,Vertin 16,tablet,Ear Care,1,Haque Medicine Supply,325.34,22.4,252.45,Abbott,0.2240425401,28.0,April,Summer
+2024-04-03,Stemetil MD tab,tablet,Antiemetics,1,Haque Medicine Supply,172.7,22.4,134.01,Abbott,0.22403011,12.0,April,Summer
+2023-12-13,Providac,capsule,Nutritional supplement,1,Mazumdar Enterprise,437.65,28.57,312.61,Zydus Cadila,0.2857077573,13.0,December,Winter
+2023-12-13,Stamlo,tablet,Antihypertensives,1,Mazumdar Enterprise,83.9,28.57,59.93,Dr Reddy's Laboratories Ltd,0.2856972586,32.0,December,Winter
+2023-12-13,Vegaz OD,tablet,Gastrointestinal Agents,1,Mazumdar Enterprise,412.5,28.57,294.64,Dr Reddy's Laboratories Ltd,0.2857212121,18.0,December,Winter
+2023-12-13,Raciraft,syrup,Antacid,1,Rup Enterprise,199.0,28.57,142.14,Sun Pharmaceutical Industries Ltd,0.2857286432,20.0,December,Winter
+2023-11-06,Cetzine,tablet,Cold & Allergy Medicine,2,B.S Medical Hall,31.5,19.97,25.21,Dr Reddy's Laboratories Ltd,0.1996825397,32.0,November,Winter
+2023-11-06,Citizd,tablet,Cold & Allergy Medicine,10,B.S Medical Hall,16.6,87.95,2.0,Medley Pharmaceuticals,0.8795180723,19.0,November,Winter
+2023-11-06,Thyrox 50,tablet,Thyroid Hormone Replacement,1,B.S Medical Hall,123.64,20.0,98.91,Macleods Pharmaceuticals Pvt Ltd,0.200016176,14.0,November,Winter
+2023-11-06,KT 5 derm,cream,Antifungals,2,B.S Medical Hall,105.0,84.76,16.0,Laborate Pharmaceuticals India Ltd,0.8476190476,14.0,November,Winter
+2023-11-06,Neo Clobenate GM,cream,Antifungals,2,B.S Medical Hall,76.8,86.98,10.0,Ind Swift Laboratories Ltd,0.8697916667,17.0,November,Winter
+2023-11-06,Cafragin,tablet,Antimigraine Agents,3,B.S Medical Hall,50.0,42.78,28.61,Agrosaf Pharmaceuticals,0.4278,14.0,November,Winter
+2023-11-06,Anafortan,syrup,NSAIDs / Analgesics,1,B.S Medical Hall,101.73,20.0,81.38,Abbott,0.2000393198,11.0,November,Winter
+2023-11-06,Drep ear drop,drop,Ear Care,1,B.S Medical Hall,92.0,27.24,66.94,DWD Pharmaceuticals Ltd,0.2723913043,14.0,November,Winter
+2023-11-06,Glynase MF,tablet,Antidiabetic Medications,2,B.S Medical Hall,20.35,20.0,16.28,USV Ltd,0.2,13.0,November,Winter
+2023-11-06,Ketofly,shampoo,Antifungals,1,B.S Medical Hall,190.0,63.16,70.0,Leeford Healthcare Ltd,0.6315789474,9.0,November,Winter
+2023-11-06,Augmentin DDS,syrup,Antibiotics,1,Zaman Medicine Agency,173.0,27.27,125.82,Glaxo SmithKline Pharmaceuticals Ltd,0.272716763,10.0,November,Winter
+2023-11-06,Augmentin duo,syrup,Antibiotics,2,Zaman Medicine Agency,67.2,27.26,48.88,Glaxo SmithKline Pharmaceuticals Ltd,0.2726190476,4.0,November,Winter
+2023-11-06,Fourderm 5,cream,Antibiotics,2,Zaman Medicine Agency,56.65,77.07,12.99,Cipla Ltd,0.7706972639,14.0,November,Winter
+2023-11-06,Fourderm 10,cream,Antibiotics,2,Zaman Medicine Agency,107.25,77.62,24.0,Cipla Ltd,0.7762237762,12.0,November,Winter
+2023-11-06,Nock 2 mg,tablet,NSAIDs / Analgesics,2,Zaman Medicine Agency,71.25,33.32,47.51,Wanbury Ltd,0.3331929825,22.0,November,Winter
+2023-11-06,Augpen HS,syrup,Antibiotics,2,Zaman Medicine Agency,67.54,28.0,48.63,Zuventus Healthcare Ltd,0.2799822328,13.0,November,Winter
+2023-11-06,Atarax drops,drop,Anxiolytics,1,Zaman Medicine Agency,69.75,20.0,55.8,Dr Reddy's Laboratories Ltd,0.2,8.0,November,Winter
+2023-11-06,Zentel 400 mg,tablet,Anthelmintics,10,Zaman Medicine Agency,9.09,23.87,6.92,Glaxo SmithKline Pharmaceuticals Ltd,0.2387238724,31.0,November,Winter
+2023-11-06,Omez 20 mg,capsule,Antacid,2,Zaman Medicine Agency,64.2,23.19,49.31,Dr Reddy's Laboratories Ltd,0.2319314642,32.0,November,Winter
+2023-11-06,Rantac MPS,syrup,Antacid,1,Zaman Medicine Agency,143.74,33.33,95.83,J B Chemicals and Pharmaceuticals Ltd,0.3333101433,19.0,November,Winter
+2023-11-13,Dermadew baby lotion,lotion,Infant Skin Care,1,Pal Medical Agency,140.0,32.2,94.92,Hegde and Hegde Pharmaceutical LLP,0.322,17.0,November,Winter
+2023-11-13,Gaspaz,capsule,Antacid,2,Pal Medical Agency,26.54,42.88,15.16,Biological E Ltd,0.428786737,7.0,November,Winter
+2023-11-13,Augmentin duo,syrup,Antibiotics,1,Pal Medical Agency,67.54,35.36,43.66,Glaxo SmithKline Pharmaceuticals Ltd,0.3535682558,11.0,November,Winter
+2023-11-13,Junior lanzol 30,tablet,Antacid,1,Pal Medical Agency,191.63,28.57,136.88,Cipla Ltd,0.2857068309,14.0,November,Winter
+2023-11-13,Chericof 12,syrup,Cough Syrup,1,Pal Medical Agency,107.0,28.57,76.43,Sun Pharmaceutical Industries Ltd,0.2857009346,10.0,November,Winter
+2023-11-13,Decolic,drop,Antacid,1,Pal Medical Agency,73.0,28.58,52.14,Kontest Chemicals Ltd,0.2857534247,42.0,November,Winter
+2023-11-10,Gelusil MPS,liquid,Antacid,1,Pal Medical Agency,139.13,35.71,89.44,Pfizer Ltd,0.3571479911,6.0,November,Winter
+2023-11-10,Liv 52 DS,syrup,Nutritional supplement,1,Pal Medical Agency,275.0,31.24,189.1,Himalaya Wellness Company,0.3123636364,24.0,November,Winter
+2023-11-10,Lupidine,liquid,Antiseptics,1,Pal Medical Agency,48.15,52.36,22.94,Lupin Ltd,0.5235721703,16.0,November,Winter
+2023-11-10,Duphalac,syrup,Laxatives,1,Pal Medical Agency,193.72,23.8,147.61,Abbott,0.2380239521,16.0,November,Winter
+2023-11-10,Livercool UD,tablet,Gastrointestinal Agents,1,Pal Medical Agency,350.0,23.81,266.67,Therapia Sanjeevani,0.2380857143,14.0,November,Winter
+2023-11-10,Neurobion forte,tablet,Neuropathy Agents,1,Pal Medical Agency,38.1,24.96,28.59,Procter & Gamble Health Ltd,0.2496062992,11.0,November,Winter
+2023-11-10,Digene (O),tablet,Antacid,3,Pal Medical Agency,24.14,35.58,15.55,Abbott,0.3558409279,23.0,November,Winter
+2023-11-16,Cheri ,syrup,Nutritional supplement,1,Pal Medical Agency,180.0,45.06,98.9,Indchemie Health Specialities Pvt Ltd,0.4505555556,7.0,November,Winter
+2023-11-16,Cepodem XP 325,tablet,Antibiotics,1,Pal Medical Agency,364.0,28.57,260.0,Sun Pharmaceutical Industries Ltd,0.2857142857,8.0,November,Winter
+2023-11-16,Ceftum 500,capsule,Antibiotics,2,Pal Medical Agency,230.14,28.57,164.39,Glaxo SmithKline Pharmaceuticals Ltd,0.2856956635,19.0,November,Winter
+2023-11-16,Gabapin Me,tablet,Neuropathy Agents,2,Pal Medical Agency,327.0,28.57,233.58,Intas Pharmaceuticals Ltd,0.2856880734,12.0,November,Winter
+2023-11-16,Rabelin D,capsule,Antacid,2,Pal Medical Agency,102.0,28.57,72.86,Linux Laboratories,0.2856862745,12.0,November,Winter
+2023-11-16,Lasilactone 50,tablet,Antihypertensives,2,Pal Medical Agency,58.94,28.57,42.1,Sanofi India Ltd,0.2857142857,24.0,November,Winter
+2023-11-16,Atril DS,tablet,Anxiolytics,2,Pal Medical Agency,52.9,28.58,37.78,Laxian Healthcare,0.2858223062,12.0,November,Winter
+2023-11-16,Asprito 5,tablet,Antipsychotics,2,Pal Medical Agency,135.0,28.57,96.43,Intas Pharmaceuticals Ltd,0.2857037037,28.0,November,Winter
+2023-11-16,Aciloc RD,tablet,Antacid,1,Pal Medical Agency,168.6,35.04,109.52,Cadila Pharmaceuticals Ltd,0.3504151839,19.0,November,Winter
+2023-11-24,Follihair,tablet,Nutritional supplement,1,Pal Medical Agency,371.0,32.2,251.53,Abbott,0.3220215633,12.0,November,Winter
+2023-11-23,Otrivin (adult),spray,Cold & Allergy Medicine,1,Pal Medical Agency,106.48,27.66,77.03,Glaxo SmithKline Pharmaceuticals Ltd,0.2765777611,25.0,November,Winter
+2023-11-23,Omnacortil syrup,syrup,Steroids,2,Pal Medical Agency,32.92,28.55,23.52,Macleods Pharmaceuticals Pvt Ltd,0.2855407047,24.0,November,Winter
+2023-11-23,Augmentin DDS,syrup,Antibiotics,1,Pal Medical Agency,173.0,28.57,123.57,Glaxo SmithKline Pharmaceuticals Ltd,0.2857225434,10.0,November,Winter
+2023-11-23,Mefkind DS,syrup,NSAIDs / Analgesics,2,Pal Medical Agency,50.57,40.48,30.1,Mankind Pharma Ltd,0.4047854459,18.0,November,Winter
+2023-11-23,Zentel,tablet,Anthelmintics,10,Pal Medical Agency,9.09,28.6,6.49,Glaxo SmithKline Pharmaceuticals Ltd,0.2860286029,27.0,November,Winter
+2023-11-23,Zentel,syrup,Anthelmintics,2,Pal Medical Agency,20.05,28.58,14.32,Glaxo SmithKline Pharmaceuticals Ltd,0.2857855362,28.0,November,Winter
+2023-11-23,Stayfree XL,sanitary pad,Antiseptics,2,Pal Medical Agency,42.0,14.29,36.0,Johnson & Johnson Pvt LTD,0.1428571429,18.0,November,Winter
+2023-11-17,Betadine 5% sol,antiseptic solution,Antiseptics,1,Frank Ross Pharmacy,240.8,16.94,200.0,Win-Medicare Pvt Ltd,0.1694352159,20.0,November,Winter
+2023-11-19,Centilin plus,tablet,Cognitive Enhancers,1,Pal Medical Agency,725.0,21.6,568.42,Lyceum Life Sciences Pvt Ltd,0.2159724138,15.0,November,Winter
+2023-11-19,Ecosprin AV,capsule,Antiplatelets,1,Pal Medical Agency,60.65,17.64,49.95,USV Ltd,0.176422094,13.0,November,Winter
+2023-12-09,CTD T AM,tablet,Antihypertensives,1,Pal Medical Agency,229.15,21.6,179.65,Ipca Laboratories Ltd,0.2160157102,15.0,December,Winter
+2023-12-09,Storvas CV,capsule,Antiplatelets,1,Pal Medical Agency,270.0,21.6,211.67,Sun Pharmaceutical Industries Ltd,0.216037037,9.0,December,Winter
+2023-12-09,Met XL,tablet,Antihypertensives,1,Pal Medical Agency,130.81,21.6,102.55,Ajanta Pharma Ltd,0.2160385292,27.0,December,Winter
+2023-12-09,Obetohep 10,tablet,Gastrointestinal Agents,1,Pal Medical Agency,396.0,21.6,310.46,Alkem Laboratories Ltd,0.216010101,16.0,December,Winter
+2023-12-09,Ranolaz,tablet,Antihypertensives,1,Pal Medical Agency,274.25,21.6,215.01,Torrent Pharmaceuticals Ltd,0.2160072926,2.0,December,Winter
+2023-12-09,T-Bact ointment,cream,Antibiotics,1,Pal Medical Agency,113.62,21.6,89.08,Glaxo SmithKline Pharmaceuticals Ltd,0.2159831016,10.0,December,Winter
+2023-12-09,Mupivate ointment,cream,Antibiotics,2,Pal Medical Agency,140.0,77.2,31.92,Alkem Laboratories Ltd,0.772,9.0,December,Winter
+2023-12-09,Rantac dom,tablet,Antacid,2,Pal Medical Agency,67.12,27.55,48.63,J B Chemicals and Pharmaceuticals Ltd,0.275476758,13.0,December,Winter
+2023-12-09,Alkasol,syrup,Gastrointestinal Agents,1,Pal Medical Agency,134.23,21.6,105.24,Stadmed Pvt Ltd,0.2159725844,27.0,December,Winter
+2023-12-09,Kit Kat 6,tablet,Anthelmintics,3,Pal Medical Agency,21.83,31.47,14.96,Mapra Laboratories Pvt Ltd,0.314704535,21.0,December,Winter
+2023-12-09,Sitaday M 1000,tablet,Antidiabetic Medications,1,Pal Medical Agency,163.5,21.6,128.19,Mankind Pharma Ltd,0.2159633028,7.0,December,Winter
+2023-12-15,Loxof,tablet,Antibiotics,10,Frank Ross Pharmacy,53.98,17.0,44.8034,Sun Pharmaceutical Industries Ltd,0.17,15.0,December,Winter
+2023-12-15,Gemer P2,tablet,Antidiabetic Medications,10,Frank Ross Pharmacy,192.0,18.0,157.44,Sun Pharmaceutical Industries Ltd,0.18,19.0,December,Winter
+2023-12-15,Montek AB,tablet,Cold & Allergy Medicine,10,Frank Ross Pharmacy,268.0,18.0,219.76,Sun Pharmaceutical Industries Ltd,0.18,22.0,December,Winter
+2024-01-25,Similac 2,dried powder,Nutritional supplement,1,Rishav Medical Agency,546.0,2.0,535.08,Abbott,0.02,13.0,January,Winter
+2024-01-25,Horlicks,dried powder,Nutritional supplement,2,Rishav Medical Agency,434.0,1.94,425.565,Hindustan Unilever Limited,0.01943548387,13.0,January,Winter
+2024-01-06,Zyrcold syp,syrup,Cough Syrup,1,Zaman Medicine Agency,96.25,34.06,63.47,Dr Reddy's Laboratories Ltd,0.3405714286,16.0,January,Winter
+2023-11-17,Augmentin,syrup,Nutritional supplement,1,Haque Medicine Supply,191.8,22.17,149.28,Zuventus Healthcare Ltd,0.2216892596,13.0,November,Winter
+2023-11-17,A to Z,syrup,Nutritional supplement,1,Haque Medicine Supply,99.0,29.45,69.84,Alkem Laboratories Ltd,0.2945454545,13.0,November,Winter
+2023-11-17,Yees D,capsule,Antacid,1,Haque Medicine Supply,128.0,22.4,99.33,Alkem Laboratories Ltd,0.223984375,17.0,November,Winter
+2023-11-17,Roles D,capsule,Antacid,1,Haque Medicine Supply,146.0,22.4,113.3,Sun Pharmaceutical Industries Ltd,0.2239726027,18.0,November,Winter
+2023-11-17,Dolonex DT,tablet,NSAIDs / Analgesics,1,Haque Medicine Supply,196.22,22.39,152.28,Pfizer Ltd,0.2239323209,13.0,November,Winter
+2023-11-17,Golbi SR,tablet,Gastrointestinal Agents,1,Haque Medicine Supply,779.5,22.4,604.88,Intas Pharmaceuticals Ltd,0.2240153945,17.0,November,Winter
+2023-11-17,Medrol,tablet,Steroids,1,Haque Medicine Supply,52.59,22.4,40.81,Pfizer Ltd,0.2239969576,49.0,November,Winter
+2023-11-17,Lizolid,tablet,Antibiotics,1,Haque Medicine Supply,399.0,22.4,309.63,Integrace Pvt Ltd,0.2239849624,20.0,November,Winter
+2023-12-18,Pregaba M,capsule,Neuropathy Agents,1,Frank Ross Pharmacy,319.9,18.1,262.0,Torrent Pharmaceuticals Ltd,0.1809940606,12.0,December,Winter
+2023-12-18,Maxtra,syrup,Cold & Allergy Medicine,1,Pal Medical Agency,105.55,33.33,70.37,Zuventus Healthcare Ltd,0.3333017527,17.0,December,Winter
+2023-12-18,Mefkind DS,syrup,NSAIDs / Analgesics,1,Pal Medical Agency,50.57,33.32,33.72,Mankind Pharma Ltd,0.3332015029,17.0,December,Winter
+2023-12-18,Omnacortil,syrup,Steroids,1,Pal Medical Agency,32.92,21.6,25.81,Macleods Pharmaceuticals Pvt Ltd,0.2159781288,23.0,December,Winter
+2023-12-18,Nasivion (PAED),spray,Cold & Allergy Medicine,1,Pal Medical Agency,88.5,26.09,65.41,Procter & Gamble Health Ltd,0.2609039548,26.0,December,Winter
+2023-12-18,Moxclav DS,syrup,Antibiotics,1,Pal Medical Agency,155.0,33.33,103.34,Sun Pharmaceutical Industries Ltd,0.3332903226,13.0,December,Winter
+2023-12-18,Augmentin DDS,syrup,Antibiotics,1,Pal Medical Agency,173.0,28.01,124.55,Glaxo SmithKline Pharmaceuticals Ltd,0.2800578035,1.0,December,Winter
+2023-12-18,Clobeta GM,cream,Antifungals,2,Pal Medical Agency,73.75,85.57,10.64,Laborate Pharmaceuticals India Ltd,0.8557288136,14.0,December,Winter
+2023-12-18,Dinogest,tablet,NSAIDs / Analgesics,2,Pal Medical Agency,602.8,21.6,472.6,Koye Pharmaceuticals Pvt ltd,0.2159920372,11.0,December,Winter
+2023-12-18,Sitaday DM Forte,tablet,Antidiabetic Medications,1,Pal Medical Agency,358.5,21.41,281.75,Mankind Pharma Ltd,0.2140864714,18.0,December,Winter
+2024-08-16,Zerodol SP,tablet,NSAIDs / Analgesics,2,Sarkar Medicine Agency,130.1,23.19,99.93,Ipca Laboratories Ltd,0.2318985396,20.0,August,Monsoon
+2024-08-16,Moxiford D eye drop,drop,Antibiotics,3,Sarkar Medicine Agency,90.0,73.33,24.0,Leeford Healthcare Ltd,0.7333333333,11.0,August,Monsoon
+2024-08-16,O2 suspension,syrup,Antibiotics,2,Sarkar Medicine Agency,75.5,35.32,48.83,Medley Pharmaceuticals,0.3532450331,18.0,August,Monsoon
+2024-08-16,Citralka liquid,syrup,Gastrointestinal Agents,1,Sarkar Medicine Agency,115.0,30.16,80.32,Pfizer Ltd,0.3015652174,13.0,August,Monsoon
+2024-08-16,Nexito plus,tablet,Antidepressants,1,Sarkar Medicine Agency,124.0,20.01,99.19,Sun Pharmaceutical Industries Ltd,0.2000806452,18.0,August,Monsoon
+2024-08-16,Moxclav BD syp,syrup,Antibiotics,2,Sarkar Medicine Agency,67.53,23.19,51.87,Sun Pharmaceutical Industries Ltd,0.2318969347,10.0,August,Monsoon
+2024-08-16,Colimex,syrup,Antispasmodic,2,Sarkar Medicine Agency,61.0,23.2,46.85,Wallace Pharmaceuticals Pvt Ltd,0.2319672131,29.0,August,Monsoon
+2024-08-16,NS saline,liquid,IV Fluids,6,Sarkar Medicine Agency,39.04,43.65,22.0,Baxter India Pvt Ltd,0.4364754098,21.0,August,Monsoon
+2024-08-16,Tyza cream,cream,Antifungals,1,Sarkar Medicine Agency,88.2,22.39,68.45,Abbott,0.2239229025,21.0,August,Monsoon
+2024-08-16,Amoxyclav 375,tablet,Antibiotics,3,Sarkar Medicine Agency,356.92,76.15,85.12,Abbott,0.7615151855,3.0,August,Monsoon
+2024-08-16,Darolac mini,liquid,Nutritional supplement,6,Sarkar Medicine Agency,37.5,23.17,28.81,Aristo Pharmaceuticals Pvt Ltd,0.2317333333,3.0,August,Monsoon
+2024-08-16,Mefkind DS,syrup,NSAIDs / Analgesics,2,Sarkar Medicine Agency,55.62,35.33,35.97,Mankind Pharma Ltd,0.3532901834,21.0,August,Monsoon
+2024-08-16,Pan 40 Injection,injection,Antacid,5,Sarkar Medicine Agency,56.5,59.98,22.61,Alkem Laboratories Ltd,0.5998230088,15.0,August,Monsoon
+2024-08-16,Sumo L,drop,NSAIDs / Analgesics,2,Sarkar Medicine Agency,33.0,22.39,25.61,Alkem Laboratories Ltd,0.2239393939,16.0,August,Monsoon
+2024-08-16,Xone,injection,Antibiotics,6,Sarkar Medicine Agency,69.87,59.98,27.96,Alkem Laboratories Ltd,0.5998282525,25.0,August,Monsoon
+2024-08-16,Pan D,capsule,Antacid,1,Sarkar Medicine Agency,231.0,23.2,177.41,Alkem Laboratories Ltd,0.231991342,17.0,August,Monsoon
+2024-08-16,Taxim Injection,injection,Antibiotics,6,Sarkar Medicine Agency,44.75,30.15,31.26,Alkem Laboratories Ltd,0.301452514,23.0,August,Monsoon
+2024-08-16,Taxim OF,tablet,Antibiotics,2,Sarkar Medicine Agency,175.0,30.15,122.23,Alkem Laboratories Ltd,0.3015428571,16.0,August,Monsoon
+2024-08-16,Meftal spas,tablet,NSAIDs / Analgesics,4,Sarkar Medicine Agency,50.0,30.14,34.93,Blue Cross Laboratories Ltd,0.3014,30.0,August,Monsoon
+2024-08-16,RL,liquid,IV Fluids,6,Sarkar Medicine Agency,54.44,53.43,25.35,Shree KrishnaKeshav Laboratories Ltd,0.5343497428,36.0,August,Monsoon
+2024-08-16,Stamlo,tablet,Antihypertensives,1,Sarkar Medicine Agency,83.9,23.21,64.43,Dr Reddy's Laboratories Ltd,0.2320619785,25.0,August,Monsoon
+2024-08-16,Surfaz SN,cream,Antifungals,1,Sarkar Medicine Agency,96.3,28.87,68.5,Franco-Indian Pharmaceuticals Pvt Ltd,0.2886812046,14.5,August,Monsoon
+2024-08-16,Rams Infusion Set,infusion set,IV Fluids,5,Sarkar Medicine Agency,162.0,88.94,17.92,Romsons Scientific & Surgical Pvt Ltd,0.889382716,51.0,August,Monsoon
+2024-08-16,Hexigel,gel,Antiseptics,1,Sarkar Medicine Agency,68.75,22.39,53.36,Icpa Health Products Ltd,0.2238545455,18.0,August,Monsoon
+2024-08-24,Feriwave Red,syrup,Nutritional supplement,1,Zaman Medicine Agency,165.0,59.27,67.2,Smart Laboratories Pvt Ltd,0.5927272727,21.0,August,Monsoon
+2024-08-24,Cheri,syrup,Nutritional supplement,1,Zaman Medicine Agency,190.0,45.15,104.22,Indchemie Health Specialities Pvt Ltd,0.4514736842,16.0,August,Monsoon
+2024-08-24,Calpol 250 mg,syrup,NSAIDs / Analgesics,2,Zaman Medicine Agency,45.02,28.85,32.03,Glaxo SmithKline Pharmaceuticals Ltd,0.2885384274,10.0,August,Monsoon
+2024-08-24,Mefkind DS,syrup,NSAIDs / Analgesics,2,Zaman Medicine Agency,55.62,35.33,35.97,Mankind Pharma Ltd,0.3532901834,21.0,August,Monsoon
+2024-08-24,Kit Kat,syrup,Anthelmintics,2,Zaman Medicine Agency,28.56,30.99,19.71,Mapra Laboratories Pvt Ltd,0.3098739496,29.0,August,Monsoon
+2024-08-24,Genoplex L 60 ml,syrup,Nutritional supplement,1,Zaman Medicine Agency,46.0,23.65,35.12,Geno Pharmaceuticals Ltd,0.2365217391,13.0,August,Monsoon
+2024-08-24,Genoplex L 200 ml,syrup,Nutritional supplement,1,Zaman Medicine Agency,96.7,30.08,67.61,Geno Pharmaceuticals Ltd,0.3008273009,7.0,August,Monsoon
+2024-08-24,Omizac-D,capsule,Antacid,1,Zaman Medicine Agency,125.0,81.6,23.0,Torrent Pharmaceuticals Ltd,0.816,15.0,August,Monsoon
+2024-08-24,Moxclav DS,syrup,Antibiotics,2,Zaman Medicine Agency,159.0,33.33,106.0,Sun Pharmaceutical Industries Ltd,0.3333333333,19.0,August,Monsoon
+2024-08-24,Pan D,capsule,Antacid,1,Zaman Medicine Agency,231.0,22.4,179.25,Alkem Laboratories Ltd,0.224025974,20.0,August,Monsoon
+2024-08-24,Nor Metrogyl O,syrup,Antibiotics,2,Zaman Medicine Agency,52.86,33.79,35.0,J B Chemicals and Pharmaceuticals Ltd,0.3378736285,6.0,August,Monsoon
+2024-08-24,Pyrigesic,syrup,NSAIDs / Analgesics,2,Zaman Medicine Agency,40.99,30.15,28.63,East India Pharmaceutical Works Ltd,0.3015369602,15.0,August,Monsoon
+2024-08-24,Cepodem,syrup,Antibiotics,1,Zaman Medicine Agency,199.0,30.16,138.99,Sun Pharmaceutical Industries Ltd,0.3015577889,13.0,August,Monsoon
+2024-08-24,ATM 100,syrup,Antibiotics,1,Zaman Medicine Agency,57.29,30.16,40.01,Indoco Remedies Ltd,0.30162332,17.0,August,Monsoon
+2024-08-24,ATM XL,syrup,Antibiotics,1,Zaman Medicine Agency,114.24,29.95,80.03,Indoco Remedies Ltd,0.2994572829,15.0,August,Monsoon
+2024-08-24,Drep wax,drop,Ear Care,1,Zaman Medicine Agency,112.0,22.39,86.92,DWD Pharmaceuticals Ltd,0.2239285714,18.0,August,Monsoon
+2024-08-24,Telvas 3D,tablet,Antihypertensives,1,Zaman Medicine Agency,114.0,22.39,88.47,Aristo Pharmaceuticals Pvt Ltd,0.2239473684,18.0,August,Monsoon
+2024-08-24,Pan MPS syp,syrup,Antacid,1,Zaman Medicine Agency,114.0,35.33,73.72,Alkem Laboratories Ltd,0.3533333333,33.0,August,Monsoon
+2024-08-24,Aculip H 20,tablet,Antidepressants,1,Zaman Medicine Agency,97.4,21.6,76.36,Shine Pharmaceuticals Ltd,0.2160164271,27.0,August,Monsoon
+2024-08-24,Tricutis 200,capsule,Antifungals,2,Zaman Medicine Agency,247.74,61.65,95.01,Torrent Pharmaceuticals Ltd,0.6164930976,12.0,August,Monsoon
+2024-08-27,Cefuway 500,tablet,Antibiotics,2,Zaman Medicine Agency,330.0,49.66,166.13,Smartway Wellness,0.4965757576,21.0,August,Monsoon
+2024-08-27,Cefuway 250,tablet,Antibiotics,2,Zaman Medicine Agency,175.0,52.0,84.0,Smartway Wellness,0.52,16.0,August,Monsoon
+2024-08-27,Podoxim 200,tablet,Antibiotics,3,Zaman Medicine Agency,189.7,57.83,80.0,Smartway Wellness,0.5782814971,14.0,August,Monsoon
+2024-08-27,Cefkem OF,tablet,Antibiotics,4,Zaman Medicine Agency,165.0,55.76,73.0,Alkem Laboratories Ltd,0.5575757576,3.0,August,Monsoon
+2024-08-27,Feriwave Red,syrup,Nutritional supplement,1,Zaman Medicine Agency,165.0,59.27,67.2,Smart Laboratories Pvt Ltd,0.5927272727,21.0,August,Monsoon
+2024-08-27,Etodash TH,tablet,NSAIDs / Analgesics,2,Zaman Medicine Agency,150.0,62.67,56.0,Olamic Healthcare,0.6266666667,1.0,August,Monsoon
+2024-08-27,Nasoclear drop,drop,Cold & Allergy Medicine,2,Zaman Medicine Agency,64.35,28.61,45.94,Zydus Cadila,0.2860916861,29.0,August,Monsoon
+2024-08-27,Zerodol CR 10,tablet,NSAIDs / Analgesics,2,Zaman Medicine Agency,100.0,21.85,78.15,Ipca Laboratories Ltd,0.2185,15.0,August,Monsoon
+2024-08-27,Pan D,capsule,Antacid,1,Zaman Medicine Agency,231.0,22.4,179.25,Alkem Laboratories Ltd,0.224025974,20.0,August,Monsoon
+2024-08-27,Sevista 60,tablet,Oral Contraceptives,1,Zaman Medicine Agency,472.0,21.6,370.04,Torrent Pharmaceuticals Ltd,0.2160169492,21.0,August,Monsoon
+2024-08-27,Lizomac,tablet,Antibiotics,1,Zaman Medicine Agency,399.39,22.38,310.0,Macleods Pharmaceuticals Pvt Ltd,0.2238163199,31.0,August,Monsoon
+2024-08-27,Bilasure M,tablet,Cold & Allergy Medicine,1,Zaman Medicine Agency,189.0,22.4,146.67,Sun Pharmaceutical Industries Ltd,0.223968254,19.0,August,Monsoon
+2024-08-27,Citizd,tablet,Cold & Allergy Medicine,10,Zaman Medicine Agency,16.6,87.95,2.0,Medley Pharmaceuticals,0.8795180723,20.0,August,Monsoon
+2024-08-07,Taxim injection,injection,Antibiotics,3,Zaman Medicine Agency,44.75,30.19,31.24,Alkem Laboratories Ltd,0.3018994413,24.0,August,Monsoon
+2024-08-07,Taxim injection,injection,Antibiotics,3,Zaman Medicine Agency,18.8,26.6,13.8,Alkem Laboratories Ltd,0.2659574468,24.0,August,Monsoon
+2024-08-07,Moxclav 156.25,syrup,Antibiotics,2,Zaman Medicine Agency,68.88,18.03,56.46,Sun Pharmaceutical Industries Ltd,0.1803135889,9.0,August,Monsoon
+2024-08-07,Cypon Syp,syrup,Appetite Stimulant,1,Zaman Medicine Agency,136.0,30.15,94.99,Geno Pharmaceuticals Ltd,0.3015441176,31.0,August,Monsoon
+2024-08-07,Biogesic-AP,syrup,NSAIDs / Analgesics,6,Zaman Medicine Agency,80.15,80.04,16.0,Biochem Pharmaceutical Industries,0.8003742982,6.0,August,Monsoon
+2024-08-07,Zerodol P,tablet,NSAIDs / Analgesics,2,Zaman Medicine Agency,73.0,22.4,56.65,Ipca Laboratories Ltd,0.2239726027,18.0,August,Monsoon
+2024-08-07,Gerbisa,tablet,Laxatives,5,Zaman Medicine Agency,13.1,22.44,10.16,Zydus Cadila,0.2244274809,16.0,August,Monsoon
+2024-08-07,Azithral XL,syrup,Antibiotics,1,Zaman Medicine Agency,114.56,22.4,88.9,Alembic Pharmaceuticals Ltd,0.2239874302,16.0,August,Monsoon
+2024-08-07,Metrogyl DG,gel,Antibiotics,1,Zaman Medicine Agency,74.76,22.38,58.03,J B Chemicals and Pharmaceuticals Ltd,0.2237827715,19.0,August,Monsoon
+2024-08-07,Thrombophob gel,gel,Anticoagulants,1,Zaman Medicine Agency,207.6,22.4,161.1,Zydus Cadila,0.2239884393,32.0,August,Monsoon
+2024-08-07,Omez,capsule,Antacid,2,Zaman Medicine Agency,64.2,23.19,49.31,Dr Reddy's Laboratories Ltd,0.2319314642,31.0,August,Monsoon
+2024-08-07,Evion 400,capsule,Nutritional supplement,2,Zaman Medicine Agency,86.87,22.39,67.42,Procter & Gamble Health Ltd,0.2238977783,22.0,August,Monsoon
+2024-08-07,Ibugesic plus,syrup,NSAIDs / Analgesics,2,Zaman Medicine Agency,39.44,30.17,27.54,Cipla Ltd,0.3017241379,26.0,August,Monsoon
+2024-08-07,Zyrcold syp,syrup,Cough Syrup,1,Zaman Medicine Agency,105.0,21.83,82.08,Dr Reddy's Laboratories Ltd,0.2182857143,10.0,August,Monsoon
+2024-08-07,Mefkind DS,syrup,NSAIDs / Analgesics,2,Zaman Medicine Agency,50.57,35.34,32.7,Mankind Pharma Ltd,0.3533715642,15.0,August,Monsoon
+2024-08-07,Ambrodil S,syrup,Cough Syrup,2,Zaman Medicine Agency,36.15,30.12,25.26,Aristo Pharmaceuticals Pvt Ltd,0.3012448133,24.0,August,Monsoon
+2024-08-10,Multiblist,syrup,Nutritional supplement,3,Zaman Medicine Agency,140.0,61.23,54.28,Smartway Wellness,0.6122857143,11.0,August,Monsoon
+2024-08-10,Cyprovita,syrup,Appetite Stimulant,3,Zaman Medicine Agency,140.0,63.2,51.52,Biocare Remedies,0.632,18.0,August,Monsoon
+2024-08-10,Nor Metrogyl TZ,tablet,Antibiotics,2,Zaman Medicine Agency,106.37,69.91,32.01,J B Chemicals and Pharmaceuticals Ltd,0.6990692865,99.0,August,Monsoon
+2024-08-10,Liv 52 DS,syrup,Gastrointestinal Agents,1,Zaman Medicine Agency,195.0,25.31,145.65,Himalaya Wellness Company,0.2530769231,28.0,August,Monsoon
+2024-08-10,O2 suspension,syrup,Antibiotics,2,Zaman Medicine Agency,75.0,34.91,48.82,Medley Pharmaceuticals,0.3490666667,19.0,August,Monsoon
+2024-08-10,Liv 52 drop,drop,Gastrointestinal Agents,1,Zaman Medicine Agency,125.0,25.32,93.35,Himalaya Wellness Company,0.2532,24.0,August,Monsoon
+2024-08-10,Maxtra,drop,Cold & Allergy Medicine,2,Zaman Medicine Agency,100.0,34.94,65.06,Zuventus Healthcare Ltd,0.3494,18.0,August,Monsoon
+2024-08-10,Socril,tablet,Nutritional supplement,1,Zaman Medicine Agency,234.0,21.6,183.46,Sun Pharmaceutical Industries Ltd,0.215982906,9.0,August,Monsoon
+2024-08-10,Sumo L,drop,NSAIDs / Analgesics,2,Zaman Medicine Agency,33.0,28.64,23.55,Alkem Laboratories Ltd,0.2863636364,20.0,August,Monsoon
+2024-08-10,Mucolite,drop,Cough Syrup,2,Zaman Medicine Agency,40.98,22.38,31.81,Dr Reddy's Laboratories Ltd,0.2237676916,16.0,August,Monsoon
+2024-08-10,Omnacortil drop,drop,Steroids,2,Zaman Medicine Agency,44.25,21.58,34.7,Macleods Pharmaceuticals Pvt Ltd,0.215819209,25.0,August,Monsoon
+2024-08-10,Cefiwok O,tablet,Antibiotics,3,Zaman Medicine Agency,175.0,57.71,74.0,Dr Reddy's Laboratories Ltd,0.5771428571,16.0,August,Monsoon
+2024-08-10,Cetritreat LM,tablet,Cold & Allergy Medicine,10,Zaman Medicine Agency,110.0,84.73,16.8,Smartway Wellness,0.8472727273,16.0,August,Monsoon
+2024-08-10,Zenovit,capsule,Nutritional supplement,2,Zaman Medicine Agency,120.0,87.49,15.01,Zen Labs India,0.8749166667,14.0,August,Monsoon
+2024-08-10,Clobeta GM,cream,Antifungals,3,Zaman Medicine Agency,67.0,85.07,10.0,Laborate Pharmaceuticals India Ltd,0.8507462687,15.0,August,Monsoon
+2024-08-10,Nock 2 mg,tablet,NSAIDs / Analgesics,2,Zaman Medicine Agency,71.25,34.65,46.56,Wanbury Ltd,0.3465263158,26.0,August,Monsoon
+2024-08-10,Cepodem,syrup,Antibiotics,1,Zaman Medicine Agency,102.0,30.16,71.24,Sun Pharmaceutical Industries Ltd,0.3015686275,12.0,August,Monsoon
+2024-08-10,Toba eye drop,drop,Antibiotics,1,Zaman Medicine Agency,125.0,21.6,98.0,Sun Pharmaceutical Industries Ltd,0.216,18.0,August,Monsoon
+2024-08-10,Ascoril D junior,syrup,Cough Syrup,1,Zaman Medicine Agency,107.0,27.57,77.5,Glenmark Pharmaceuticals Ltd,0.2757009346,11.0,August,Monsoon
+2024-08-10,Methergin,tablet,Anticoagulants,1,Zaman Medicine Agency,100.0,21.6,78.4,Dr Reddy's Laboratories Ltd,0.216,26.0,August,Monsoon
+2024-08-10,Nebracin,cream,Antibiotics,1,Zaman Medicine Agency,62.0,20.0,49.6,Sunways India Pvt Ltd,0.2,9.0,August,Monsoon
+2024-08-10,Sternon G,gel,Antibiotics,1,Zaman Medicine Agency,103.0,20.01,82.39,Palsons Derma Pvt Ltd,0.2000970874,17.0,August,Monsoon
+2024-08-10,Baby wipes,wipes,Infant Skin Care,1,Zaman Medicine Agency,99.0,22.84,76.39,Piramal,0.2283838384,13.0,August,Monsoon
+2024-08-10,Drep ear drop,drop,Ear Care,2,Zaman Medicine Agency,96.0,29.43,67.75,DWD Pharmaceuticals Ltd,0.2942708333,13.0,August,Monsoon
+2024-08-10,Drep wax,drop,Ear Care,2,Zaman Medicine Agency,112.0,22.4,86.91,DWD Pharmaceuticals Ltd,0.2240178571,18.0,August,Monsoon
+2024-10-23,Pan D,capsule,Antacid,1,Sarkar Medicine Agency,231.0,23.2,177.41,Alkem Laboratories Ltd,0.231991342,17.0,October,Monsoon
+2024-10-23,Sorbiline syrup,syrup,Lipid-Lowering Agents,1,Sarkar Medicine Agency,168.0,28.65,119.87,Franco-Indian Pharmaceuticals Pvt Ltd,0.2864880952,29.0,October,Monsoon
+2024-10-23,Hepamerz,tablet,Hepatoprotective Agents,1,Sarkar Medicine Agency,267.0,22.4,207.19,Win-Medicare Pvt Ltd,0.2240074906,14.0,October,Monsoon
+2024-10-08,Ambrodil S,syrup,Cough Syrup,3,Zaman Medicine Agency,36.15,27.99,26.03,Aristo Pharmaceuticals Pvt Ltd,0.279944675,23.0,October,Monsoon
+2024-10-08,Moxclav BD syp,syrup,Antibiotics,2,Zaman Medicine Agency,67.53,22.38,52.42,Sun Pharmaceutical Industries Ltd,0.2237524063,8.0,October,Monsoon
+2024-10-08,Moxclav 156.25,syrup,Antibiotics,1,Zaman Medicine Agency,68.88,22.42,53.44,Sun Pharmaceutical Industries Ltd,0.2241579559,7.0,October,Monsoon
+2024-10-08,Metrogyl 400,tablet,Anthelmintics,1,Zaman Medicine Agency,34.04,16.42,28.45,J B Chemicals and Pharmaceuticals Ltd,0.1642185664,44.0,October,Monsoon
+2024-10-08,Volini,gel,NSAIDs / Analgesics,1,Zaman Medicine Agency,44.0,16.07,36.93,Sun Pharmaceutical Industries Ltd,0.1606818182,17.0,October,Monsoon
+2024-10-08,Diprobate plus,cream,Steroids,1,Zaman Medicine Agency,83.0,22.4,64.41,Mepromax Life Sciences Pvt Ltd,0.2239759036,14.0,October,Monsoon
+2024-10-08,Acera D,capsule,Antacid,1,Zaman Medicine Agency,143.0,22.29,111.12,Ipca Laboratories Ltd,0.2229370629,11.0,October,Monsoon
+2024-10-08,Zerodol SP,tablet,NSAIDs / Analgesics,1,Zaman Medicine Agency,139.0,22.39,107.88,Ipca Laboratories Ltd,0.2238848921,26.0,October,Monsoon
+2024-10-08,Chlormist cool eye drop,drop,Cold & Allergy Medicine,2,Zaman Medicine Agency,75.0,68.89,23.33,Smart Laboratories Pvt Ltd,0.6889333333,14.0,October,Monsoon
+2024-10-08,Cepodem XP 100,syrup,Antibiotics,1,Zaman Medicine Agency,205.0,22.4,159.08,Sun Pharmaceutical Industries Ltd,0.224,9.0,October,Monsoon
+2024-10-08,Cepodem XP 50,syrup,Antibiotics,1,Zaman Medicine Agency,130.0,22.41,100.87,Sun Pharmaceutical Industries Ltd,0.2240769231,8.0,October,Monsoon
+2024-10-11,Pan D,capsule,Antacid,2,Zaman Medicine Agency,231.0,22.4,179.26,Alkem Laboratories Ltd,0.223982684,20.0,October,Monsoon
+2024-10-11,Cypon drop,drop,Appetite Stimulant,2,Zaman Medicine Agency,67.0,30.16,46.79,Geno Pharmaceuticals Ltd,0.301641791,31.0,October,Monsoon
+2024-10-11,Sevista 30,tablet,Oral Contraceptives,1,Zaman Medicine Agency,141.79,22.41,110.02,Torrent Pharmaceuticals Ltd,0.2240637563,15.0,October,Monsoon
+2024-10-11,T T Vial (DANO),injection,Antiseptics,2,Zaman Medicine Agency,26.8,2.99,26.0,Dano Vaccines & Biologicals Pvt Ltd,0.02985074627,23.0,October,Monsoon
+2024-10-11,Primosa boost softgel,capsule,Nutritional supplement,10,Frank Ross Pharmacy,381.0,18.0,312.42,Universal NutriScience,0.18,17.0,October,Monsoon
+2024-10-11,Budetrol inhaler,inhaler,Cold & Allergy Medicine,1,Frank Ross Pharmacy,394.57,18.0,323.5474,Macleods Pharmaceuticals Pvt Ltd,0.18,25.0,October,Monsoon
+2024-03-28,Taxim vial,injection,Antibiotics,10,Zaman Medicine Agency,27.86,28.03,20.05,Alkem Laboratories Ltd,0.2803302225,36.0,March,Summer
+2024-03-28,Cepodem,tablet,Antibiotics,1,Zaman Medicine Agency,205.0,30.2,143.1,Sun Pharmaceutical Industries Ltd,0.3019512195,37.0,March,Summer
+2024-03-28,Augpen HS,syrup,Antibiotics,2,Zaman Medicine Agency,67.87,30.04,47.48,Zuventus Healthcare Ltd,0.3004272875,23.0,March,Summer
+2024-03-28,Lizolid 600,tablet,Antibiotics,1,Zaman Medicine Agency,399.0,27.6,288.88,Integrace Pvt Ltd,0.2759899749,32.0,March,Summer
+2024-03-28,Gemer DS 2,tablet,Antidiabetic Medications,1,Zaman Medicine Agency,225.0,22.4,174.59,Sun Pharmaceutical Industries Ltd,0.2240444444,30.0,March,Summer
+2024-03-28,T Bact,cream,Antibiotics,1,Zaman Medicine Agency,113.62,22.4,88.17,Glaxo SmithKline Pharmaceuticals Ltd,0.2239922549,23.0,March,Summer
+2024-03-28,Mupivate,cream,Antibiotics,3,Zaman Medicine Agency,113.0,75.13,28.1,Alkem Laboratories Ltd,0.7513274336,21.0,March,Summer
+2024-03-28,Zocef Dry,syrup,Antibiotics,1,Zaman Medicine Agency,173.78,22.4,134.85,Alkem Laboratories Ltd,0.2240188744,25.0,March,Summer
+2024-03-28,Clavam ES dry,syrup,Antibiotics,1,Zaman Medicine Agency,206.0,22.88,158.86,Alkem Laboratories Ltd,0.2288349515,26.0,March,Summer
+2024-03-28,Maxtra,syrup,Cold & Allergy Medicine,1,Zaman Medicine Agency,116.0,35.33,75.02,Zuventus Healthcare Ltd,0.3532758621,30.0,March,Summer
+2024-03-06,Pan D,capsule,Antacid,1,Zaman Medicine Agency,231.0,22.4,179.25,Alkem Laboratories Ltd,0.224025974,31.0,March,Summer
+2024-03-06,Maxtra,syrup,Cold & Allergy Medicine,2,Zaman Medicine Agency,116.0,80.16,23.02,Zuventus Healthcare Ltd,0.8015517241,29.0,March,Summer
+2024-03-06,Delpoclav,syrup,Antibiotics,2,Zaman Medicine Agency,66.6,30.17,46.51,Delcure Life Sciences,0.3016516517,25.0,March,Summer
+2024-03-06,Taxim O forte,syrup,Antibiotics,1,Zaman Medicine Agency,80.24,59.78,32.27,Alkem Laboratories Ltd,0.5978315055,25.0,March,Summer
+2024-03-06,Nasoclear,drop,Cold & Allergy Medicine,2,Zaman Medicine Agency,64.34,28.6,45.94,Zydus Cadila,0.2859807274,43.0,March,Summer
+2024-03-06,Cepodem,syrup,Antibiotics,1,Zaman Medicine Agency,199.0,30.13,139.04,Sun Pharmaceutical Industries Ltd,0.3013065327,20.0,March,Summer
+2024-03-06,Cetritreat LM,syrup,Cold & Allergy Medicine,5,Zaman Medicine Agency,90.0,70.97,26.13,Smartway Wellness,0.7096666667,31.0,March,Summer
+2024-03-06,Hemfer 225,syrup,Nutritional supplement,1,Zaman Medicine Agency,195.0,37.91,121.07,Alkem Laboratories Ltd,0.3791282051,22.0,March,Summer
+2024-03-06,Alday kid,syrup,Cold & Allergy Medicine,1,Zaman Medicine Agency,93.55,35.14,60.68,S H Pharmaceuticals Ltd,0.3513629075,29.0,March,Summer
+2024-03-06,Taxim O dry,syrup,Antibiotics,1,Zaman Medicine Agency,54.62,22.28,42.45,Alkem Laboratories Ltd,0.2228121567,30.0,March,Summer
+2024-03-09,Choliv L,syrup,Gastrointestinal Agents,1,Zaman Medicine Agency,145.58,30.16,101.68,Caplet India Pvt Ltd,0.301552411,36.0,March,Summer
+2024-03-09,Alpino syrup,syrup,Laxatives,2,Zaman Medicine Agency,100.0,65.0,35.0,Alkem Laboratories Ltd,0.65,26.0,March,Summer
+2024-03-09,Omnacortil forte,syrup,Steroids,1,Zaman Medicine Agency,57.74,19.92,46.24,Macleods Pharmaceuticals Pvt Ltd,0.1991686872,40.0,March,Summer
+2024-03-09,Dicoliv gel,gel,NSAIDs / Analgesics,3,Zaman Medicine Agency,37.95,73.54,10.04,Ind Swift Laboratories Ltd,0.7354413702,24.0,March,Summer
+2024-02-04,Etoshine MR,tablet,NSAIDs / Analgesics,1,Zaman Medicine Agency,299.0,22.4,232.02,Sun Pharmaceutical Industries Ltd,0.2240133779,18.0,February,Winter
+2024-02-04,Thyronorm,tablet,Thyroid Hormone Replacement,1,Zaman Medicine Agency,192.89,22.4,149.69,Abbott,0.2239618435,10.0,February,Winter
+2024-02-04,Volitra gel,gel,NSAIDs / Analgesics,1,Zaman Medicine Agency,148.0,26.95,108.11,Sun Pharmaceutical Industries Ltd,0.269527027,2.0,February,Winter
+2024-02-04,Rzole DSR,capsule,Antacid,2,Zaman Medicine Agency,105.87,83.94,17.0,Abbott,0.8394257108,7.0,February,Winter
+2024-02-03,Cheri syrup,syrup,Nutritional supplement,1,Zaman Medicine Agency,190.0,40.93,112.24,Indchemie Health Specialities Pvt Ltd,0.4092631579,4.0,February,Winter
+2024-02-03,Multiblist,syrup,Nutritional supplement,2,Zaman Medicine Agency,140.0,61.23,54.28,Smartway Wellness,0.6122857143,18.0,February,Winter
+2024-02-03,Bevon,syrup,Nutritional supplement,1,Zaman Medicine Agency,201.4,35.33,130.24,Zuventus Healthcare Ltd,0.353326713,8.0,February,Winter
+2024-02-03,Surcalfate O,syrup,Antacid,1,Zaman Medicine Agency,230.0,73.04,62.0,Strassenburg Pharmaceuticals.Ltd,0.7304347826,7.0,February,Winter
+2024-02-03,Augpen HS,syrup,Antibiotics,2,Zaman Medicine Agency,67.87,30.16,47.4,Zuventus Healthcare Ltd,0.3016060115,14.0,February,Winter
+2024-02-03,Omnacortil,syrup,Steroids,2,Zaman Medicine Agency,32.92,22.39,25.55,Macleods Pharmaceuticals Pvt Ltd,0.2238760632,25.0,February,Winter
+2024-02-03,Nor metrogyl O,syrup,Antibiotics,2,Zaman Medicine Agency,58.11,39.77,35.0,J B Chemicals and Pharmaceuticals Ltd,0.3976940286,12.0,February,Winter
+2024-02-03,Naxdom 500,tablet,Antimigraine Agents,1,Zaman Medicine Agency,171.0,22.4,132.7,Sun Pharmaceutical Industries Ltd,0.2239766082,29.0,February,Winter
+2024-02-03,Metlin NT,tablet,Neuropathy Agents,1,Zaman Medicine Agency,398.61,19.99,318.94,Alteus Biogenics Pvt Ltd,0.1998695467,17.0,February,Winter
+2024-02-03,Calguard D3 max,capsule,Nutritional supplement,1,Zaman Medicine Agency,230.0,19.99,184.03,Sycap Pharma,0.1998695652,15.0,February,Winter
+2024-02-03,Ovral L 21,tablet,Oral Contraceptives,1,Zaman Medicine Agency,66.5,16.39,55.6,Pfizer Ltd,0.1639097744,15.0,February,Winter
+2024-02-03,Migrabeta Plus,tablet,Antiplatelets,1,Zaman Medicine Agency,155.0,21.6,121.52,Alkem Laboratories Ltd,0.216,4.0,February,Winter
+2024-02-03,Aztor 20,tablet,Antiplatelets,2,Zaman Medicine Agency,210.84,22.4,163.61,Sun Pharmaceutical Industries Ltd,0.224008727,30.0,February,Winter
+2024-02-03,Cogmentin 5,tablet,Cognitive Enhancers,1,Zaman Medicine Agency,289.41,20.0,231.52,Alteus Biogenics Pvt Ltd,0.2000276424,18.0,February,Winter
+2024-02-03,Amaryl 1mg,tablet,Antidiabetic Medications,1,Zaman Medicine Agency,124.32,21.61,97.46,Sanofi India Ltd,0.2160553411,27.0,February,Winter
+2024-02-03,Amaryl 2mg,tablet,Antidiabetic Medications,1,Zaman Medicine Agency,194.54,21.6,152.52,Sanofi India Ltd,0.2159967102,29.0,February,Winter
+2024-02-03,Calcidoc 500,tablet,Nutritional supplement,1,Zaman Medicine Agency,105.0,90.47,10.01,Morepen Laboratories Ltd,0.9046666667,16.0,February,Winter
+2024-02-03,P 40 DSR,capsule,Antacid,2,Zaman Medicine Agency,175.0,90.29,17.0,Cachet Pharmaceuticals Pvt Ltd,0.9028571429,7.0,February,Winter
+2024-02-01,Alkaston B6,syrup,Gastrointestinal Agents,1,Zaman Medicine Agency,229.55,21.6,179.96,Ipca Laboratories Ltd,0.2160313657,11.0,February,Winter
+2024-02-01,Calpol 650 mg,tablet,NSAIDs / Analgesics,6,Zaman Medicine Agency,33.6,30.15,23.47,Glaxo SmithKline Pharmaceuticals Ltd,0.3014880952,17.0,February,Winter
+2024-02-01,Darkroom Chocolate ultrathin,condom,Barrier Contraceptives,3,Zaman Medicine Agency,30.0,55.0,13.5,Smart Laboratories Pvt Ltd,0.55,25.0,February,Winter
+2024-02-01,Moxclav drop,drop,Antibiotics,2,Zaman Medicine Agency,101.0,22.4,78.38,Sun Pharmaceutical Industries Ltd,0.223960396,10.0,February,Winter
+2024-02-01,Tixylix,syrup,Cough Syrup,2,Zaman Medicine Agency,112.53,22.39,87.33,Abbott,0.2239402826,13.0,February,Winter
+2024-02-01,Criz-M,syrup,Cold & Allergy Medicine,1,Zaman Medicine Agency,106.0,30.15,74.04,Alkem Laboratories Ltd,0.301509434,20.0,February,Winter
+2024-02-01,Calcidoc 500,tablet,Nutritional supplement,1,Zaman Medicine Agency,105.0,90.47,10.01,Morepen Laboratories Ltd,0.9046666667,16.0,February,Winter

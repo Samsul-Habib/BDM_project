@@ -1,0 +1,579 @@
+Date,Medicine name,Form of medicine,Medicine Description,Medicine Class,Qty,Whole sale pharmacy,Exp date,MRP,buying disc (%),final buying price,Pharma Company,Profit margin
+29/11/2023,Huminsulin 30/70 INJ 40IU,injection,premixed insulin injection for blood sugar control in diabetes,Antidiabetic Medications,1,Frank Ross Pharmacy,04/25,174,17.00,144.42,Eli Lilly and company India Pvt Ltd,0.17
+29/11/2023,Naprosyn 500+ tab,tablet,a nonsteroidal anti-inflammatory drug used to relieve pain and inflammation.,NSAIDs / Analgesics,1,Frank Ross Pharmacy,10/25,86.85,18.00,71.217,RPG lifesciences Ltd,0.18
+30/06/2024,Stemetil MD tab,tablet,"used to treat nausea, vomiting, and dizziness.",Antiemetics,1,Sarkar Medicine Agency,07/25,172.7,23.00,133,Abbott,0.2298784019
+30/06/2024,Nestum 2 rice dal veg,baby food,"nutritious baby food made with rice, dal, and vegetables",Infant Nutrition / Baby Food,1,Sarkar Medicine Agency,,209,8.00,192.28,Nestle,0.08
+30/06/2024,Gemer P2,tablet,used to manage blood sugar levels in people with type 2 diabetes,Antidiabetic Medications,1,Sarkar Medicine Agency,02/26,192,23.00,147.84,Sun Pharmaceutical Industries Ltd,0.23
+09/07/2024,Betadine Lotion,antiseptic solution,antiseptic solution used to clean and disinfect minor wounds,Antiseptics,1,Zaman Medicine Agency,04/26,107.52,16.00,90.32,Win-Medicare Pvt Ltd,0.1599702381
+09/07/2024,Lizomac tab,tablet,"antibiotic used to treat bacterial infections, commonly prescribed for respiratory and gastrointestinal infections",Antibiotics,1,Zaman Medicine Agency,12/26,399.39,22.39,309.98,Macleods Pharmaceuticals Pvt Ltd,0.2238663963
+09/07/2024,Dalacin C 300mg,capsule,"antibiotic used to treat various bacterial infections, including skin, respiratory, and dental infections.",Antibiotics,1,Zaman Medicine Agency,10/28,297,15.33,251.48,Pfizer Ltd,0.1532659933
+21/06/2024,Glycomet-GP 1,tablet,used to manage blood sugar levels in people with type 2 diabetes,Antidiabetic Medications,2,Sarkar Medicine Agency,12/25,122,28.57,87.15,USV Ltd,0.2856557377
+19/08/2024,Acemiz Plus,tablet,Pain reliever for inflammation,NSAIDs / Analgesics,5,Zaman Medicine Agency,02/26,99.5,84.92,15,Lupin Ltd,0.8492462312
+19/08/2024,Cetil Dry syp,syrup,Antibiotic for bacterial infections in children,Antibiotics,1,Zaman Medicine Agency,06/25,177,22.21,137.68,Lupin Ltd,0.2221468927
+19/08/2024,Lizolid 600 mg tab,tablet,Antibiotic for severe bacterial infections.,Antibiotics,1,Zaman Medicine Agency,04/26,399,22.40,309.63,Integrace Pvt Ltd,0.2239849624
+19/08/2024,Ascoril D junior,syrup,Cough syrup for dry cough in children.,Cough Syrup,2,Zaman Medicine Agency,07/25,107,27.57,77.5,Glenmark Pharmaceuticals Ltd,0.2757009346
+19/08/2024,Moxclav BD syp ,syrup,Antibiotic for bacterial infections in kids.,Antibiotics,2,Zaman Medicine Agency,10/25,67.53,22.38,52.42,Sun Pharmaceutical Industries Ltd,0.2237524063
+19/08/2024,Medisalic Oint,cream,Cream for skin infections and inflammation.,Antibiotics,2,Zaman Medicine Agency,02/26,159,65.41,55,Torque Pharmaceuticals Pvt Ltd,0.6540880503
+19/08/2024,Cepodem 200mg tab,tablet,Antibiotic for bacterial infections.,Antibiotics,1,Zaman Medicine Agency,09/26,199,30.16,138.99,Sun Pharmaceutical Industries Ltd,0.3015577889
+19/08/2024,Drotin DS tab,tablet,Relieves abdominal pain and cramps.,NSAIDs / Analgesics,1,Zaman Medicine Agency,03/26,246.79,22.40,191.51,Walter Bushnell,0.2239961101
+19/08/2024,Drotin 15 tab,tablet,Used for muscle spasms and pain relief.,NSAIDs / Analgesics,1,Zaman Medicine Agency,02/26,139.96,22.40,108.61,Walter Bushnell,0.2239925693
+19/08/2024,Socril,capsule,Multivitamin supplement for overall health.,Nutritional supplement,1,Zaman Medicine Agency,05/25,234,21.60,183.46,Sun Pharmaceutical Industries Ltd,0.215982906
+19/08/2024,Gemer D5 2 tab,tablet,Controls blood sugar in diabetes.,Antidiabetic Medications,1,Zaman Medicine Agency,03/26,213,21.60,167,Sun Pharmaceutical Industries Ltd,0.2159624413
+19/08/2024,Zentel Syp 10ml,syrup,Deworming medicine for intestinal worms.,Anthelmintics,4,Zaman Medicine Agency,01/27,20.05,22.39,15.56,Glaxo SmithKline Pharmaceuticals Ltd,0.2239401496
+19/08/2024,Ceposem 100 syp,syrup,Antibiotic for bacterial infections in children.,Antibiotics,4,Zaman Medicine Agency,08/25,199,30.16,138.99,Sun Pharmaceutical Industries Ltd,0.3015577889
+19/08/2024,Gas O Fast jeera,granule powder,Antacid for quick relief from acidity.,Antacid,10,Zaman Medicine Agency,01/26,10,35.40,6.46,Mankind Pharma Ltd,0.354
+19/08/2024,Glyciphase 500,tablet,Used to manage blood sugar in diabetes.,Antidiabetic Medications,1,Zaman Medicine Agency,12/26,41.65,22.40,32.32,Franco-Indian Pharmaceuticals Pvt Ltd,0.2240096038
+19/08/2024,Betnovate GM,cream,Cream for skin allergies and infections.,Antibiotics,2,Zaman Medicine Agency,08/25,41.15,21.60,32.26,Glaxo SmithKline Pharmaceuticals Ltd,0.2160388821
+19/08/2024,Citralma Syp,syrup,Used for urinary tract issues.,Antibiotics,1,Zaman Medicine Agency,06/25,115,22.40,89.24,Pfizer Ltd,0.224
+19/08/2024,Ambrodil S Syp,syrup,Cough syrup for mucus relief.,Cough Syrup,2,Zaman Medicine Agency,09/26,36.15,30.12,25.26,Aristo Pharmaceuticals Pvt Ltd,0.3012448133
+19/08/2024,Pyrigesic 1000 tab,tablet,Painkiller and fever reducer.,NSAIDs / Analgesics,1,Zaman Medicine Agency,11/26,37,30.08,25.87,East India Pharmaceutical Works Ltd,0.3008108108
+19/08/2024,Dakson Oral,syrup,Nutritional supplement for overall health.,Nutritional supplement,1,Zaman Medicine Agency,11/25,31.5,22.41,24.44,Emcee Pharmaceuticals Pvt Ltd,0.2241269841
+19/08/2024,Sucralfate O syp,syrup,Protects stomach lining and treats ulcers.,Anti-ulcer Agents,1,Zaman Medicine Agency,09/25,230,73.04,62,Strassenburg Pharmaceuticals.Ltd,0.7304347826
+19/08/2024,Zuvendine Solution IP,antiseptic solution,Antiseptic for wound cleaning.,Antiseptics,2,Zaman Medicine Agency,09/25,44.23,38.96,27,Zuventus Healthcare Ltd,0.3895546009
+19/08/2024,Scaboma plus lotion,lotion,Treats scabies and skin infections.,Antibiotics,2,Zaman Medicine Agency,12/25,60.35,53.60,28,Glenmark Pharmaceuticals Ltd,0.536039768
+02/08/2024,Mefkind DF syp,syrup,Pain and fever relief.,NSAIDs / Analgesics,2,Zaman Medicine Agency,11/25,50.57,35.34,32.7,Mankind Pharma Ltd,0.3533715642
+02/08/2024,Calpol 500 mg,tablet,Fever and pain reliever.,NSAIDs / Analgesics,4,Zaman Medicine Agency,02/26,14.95,26.22,11.03,Glaxo SmithKline Pharmaceuticals Ltd,0.2622073579
+02/08/2024,Cetil 500 mg,tablet,Antibiotic for infections.,Antibiotics,1,Zaman Medicine Agency,02/26,576,22.40,446.99,Lupin Ltd,0.2239756944
+02/08/2024,Glencoff D,syrup,Cough and cold syrup.,Cough Syrup,3,Zaman Medicine Agency,03/25,118,64.41,42,Glenmark Pharmaceuticals Ltd,0.6440677966
+02/08/2024,Ambrodil S Syp,syrup,Mucus-relieving cough syrup.,Cough Syrup,2,Zaman Medicine Agency,08/26,36.15,30.12,25.26,Aristo Pharmaceuticals Pvt Ltd,0.3012448133
+02/08/2024,Ascoril D junior,syrup,Dry cough relief syrup.,Cough Syrup,1,Zaman Medicine Agency,07/25,107,27.57,77.5,Glenmark Pharmaceuticals Ltd,0.2757009346
+02/08/2024,Flumont-LC,syrup,Allergy and cold medicine.,Cold & Allergy Medicine,2,Zaman Medicine Agency,11/25,140,82.14,25,Aristo Pharmaceuticals Pvt Ltd,0.8214285714
+02/08/2024,Cepodem 100,syrup,Antibiotic for infections.,Antibiotics,1,Zaman Medicine Agency,08/25,199,30.16,138.99,Sun Pharmaceutical Industries Ltd,0.3015577889
+02/08/2024,Mega CV forte,syrup,Antibiotic for bacterial infections.,Antibiotics,1,Zaman Medicine Agency,06/25,153,35.33,98.95,Aristo Pharmaceuticals Pvt Ltd,0.3532679739
+02/08/2024,Galirex,syrup,Nutritional supplement.,Nutritional supplement,2,Zaman Medicine Agency,05/25,100,67.99,32.01,Leeford Healthcare Ltd,0.6799
+02/08/2024,Omnacortil,syrup,Steroid for inflammation.,Steroids,3,Zaman Medicine Agency,09/26,32.92,22.39,25.55,Macleods Pharmaceuticals Pvt Ltd,0.2238760632
+02/08/2024,Mega CV,drop,Antibiotic for infections.,Antibiotics,1,Zaman Medicine Agency,07/25,82,35.33,53.03,Aristo Pharmaceuticals Pvt Ltd,0.3532926829
+02/08/2024,Nor Metrogyl-O-Syp,syrup,Treats bacterial and parasitic infections.,Antibiotics,3,Zaman Medicine Agency,02/25,52.86,33.79,35,J B Chemicals and Pharmaceuticals Ltd,0.3378736285
+02/08/2024,XL-90 syp,syrup,Used for cough relief.,Cough Syrup,1,Zaman Medicine Agency,11/25,115,29.45,81.13,DWD Pharmaceuticals Ltd,0.2945217391
+02/08/2024,Chericof,syrup,Cough relief syrup.,Cough Syrup,1,Zaman Medicine Agency,01/26,118,28.86,83.95,Sun Pharmaceutical Industries Ltd,0.288559322
+02/08/2024,Calciway,syrup,Calcium supplement.,Nutritional supplement,1,Zaman Medicine Agency,06/25,130,65.54,44.8,Garwychem Healthcare,0.6553846154
+02/08/2024,R Loc,tablet,Reduces stomach acidity.,Antacid,2,Zaman Medicine Agency,08/26,45,35.33,29.1,Zydus Cadila,0.3533333333
+25/07/2024,Pan D,capsule,Reduces acidity and reflux.,Antacid,1,Zaman Medicine Agency,03/26,231,22.40,179.25,Alkem Laboratories Ltd,0.224025974
+25/07/2024,Cafragin,tablet,used to prevent and treat migraine.,Antimigraine Agents,5,Zaman Medicine Agency,02/26,50,42.80,28.6,Agrosaf Pharmaceuticals,0.428
+25/07/2024,Cepodem 50 mg,syrup,Antibiotic for infections.,Antibiotics,2,Zaman Medicine Agency,06/25,96,30.17,67.04,Sun Pharmaceutical Industries Ltd,0.3016666667
+25/07/2024,Colimex DF,drop,Relieves stomach cramps.,Antispasmodic,1,Zaman Medicine Agency,11/25,74.5,21.58,58.42,Wallace Pharmaceuticals Pvt Ltd,0.2158389262
+25/07/2024,Cepodem 100,syrup,Antibiotic for infections.,Antibiotics,1,Zaman Medicine Agency,08/25,199,30.16,138.99,Sun Pharmaceutical Industries Ltd,0.3015577889
+25/07/2024,Mupivate oint,cream,Treats skin infections.,Antibiotics,5,Zaman Medicine Agency,10/25,113.62,72.72,31,Alkem Laboratories Ltd,0.7271607111
+25/07/2024,Zerotuss D syp,syrup,Cough relief syrup.,Cough Syrup,1,Zaman Medicine Agency,12/24,89,22.40,69.06,Aristo Pharmaceuticals Pvt Ltd,0.2240449438
+25/07/2024,Zocef Dry syp,syrup,Antibiotic for bacterial infections.,Antibiotics,1,Zaman Medicine Agency,06/25,173.78,22.40,134.85,Alkem Laboratories Ltd,0.2240188744
+25/07/2024,Dart 10 tab,tablet,Pain and fever relief.,NSAIDs / Analgesics,1,Zaman Medicine Agency,10/26,59.25,35.31,38.33,Juggat Pharma,0.3530801688
+25/07/2024,Linzomek-600,tablet,Antibiotic for severe infections.,Antibiotics,1,Zaman Medicine Agency,07/25,356.27,73.33,95,Macleods Pharmaceuticals Pvt Ltd,0.7333483033
+25/07/2024,Cetritreat LM,tablet,Allergy and cold relief.,Cold & Allergy Medicine,10,Zaman Medicine Agency,12/25,110,84.73,16.8,Smartways Wellness,0.8472727273
+26/07/2024,Hemoway syp,syrup,Blood booster supplement.,Nutritional supplement,1,Zaman Medicine Agency,09/25,160,54.50,72.8,Smartways Wellness,0.545
+26/07/2024,Apwell syp,syrup,Nutritional health supplement.,Nutritional supplement,3,Zaman Medicine Agency,03/26,131,76.34,31,Ajanta Pharma Ltd,0.7633587786
+26/07/2024,Pan MPS syp,syrup,Relieves acidity and gas.,Antacid,1,Zaman Medicine Agency,03/27,114,30.15,79.63,Alkem Laboratories Ltd,0.3014912281
+26/07/2024,Pantodac IV,injection,Injection for acidity relief.,Antacid,5,Zaman Medicine Agency,12/25,56.5,60.58,22.27,Zydus Cadila,0.605840708
+26/07/2024,Genoplex L,syrup,Multivitamin supplement for overall health.,Nutritional supplement,1,Zaman Medicine Agency,09/24,96.75,30.17,67.56,Geno Pharmaceuticals Ltd,0.3017054264
+26/07/2024,Zentel Syp 10ml,syrup,used to treat intestine worm,Anthelmintics,2,Zaman Medicine Agency,02/27,20.05,22.39,15.56,Glaxo SmithKline Pharmaceuticals Ltd,0.2239401496
+26/07/2024,Bevon syp,syrup,Vitamin and mineral supplement.,Nutritional supplement,1,Zaman Medicine Agency,09/25,201.4,35.33,130.24,Zuventus Healthcare Ltd,0.353326713
+26/07/2024,Cypon Syp,syrup,Appetite stimulant.,Appetite Stimulant,1,Zaman Medicine Agency,04/27,136,30.15,95,Geno Pharmaceuticals Ltd,0.3014705882
+26/07/2024,Surfaz SN,cream,Antifungal skin cream.,Antifungals,1,Zaman Medicine Agency,04/25,96,29.95,67.25,Franco-Indian Pharmaceuticals Pvt Ltd,0.2994791667
+26/07/2024,Betnovate GM,cream,Skin infection cream.,Antibiotics,2,Zaman Medicine Agency,08/25,41.15,21.60,32.26,Glaxo SmithKline Pharmaceuticals Ltd,0.2160388821
+26/07/2024,Betnovate C,cream,Anti-inflammatory skin cream.,Steroids,2,Zaman Medicine Agency,01/26,64.45,21.60,50.53,Glaxo SmithKline Pharmaceuticals Ltd,0.2159813809
+26/07/2024,Rantac Infant syp,syrup,Reduces stomach acidity.,Antacid,2,Zaman Medicine Agency,10/25,48.5,22.39,37.64,J B Chemicals and Pharmaceuticals Ltd,0.2239175258
+26/07/2024,Ondem syp,syrup,Treats nausea and vomiting.,Antiemetics,2,Zaman Medicine Agency,04/26,42.19,30.13,29.48,Alkem Laboratories Ltd,0.3012562219
+26/07/2024,Sumo-L drop,syrup,Pain and fever relief.,NSAIDs / Analgesics,2,Zaman Medicine Agency,04/26,33,28.64,23.55,Alkem Laboratories Ltd,0.2863636364
+26/07/2024,Maxtra drop,syrup,Cold and congestion relief.,Cold & Allergy Medicine,2,Zaman Medicine Agency,02/26,100,34.94,65.06,Zuventus Healthcare Ltd,0.3494
+26/07/2024,Nasoclear drop,drop,Nasal saline drops.,Cold & Allergy Medicine,2,Zaman Medicine Agency,01/27,64.35,28.61,45.94,Zydus Cadila,0.2860916861
+26/07/2024,Topifort-NX,lotion,Skin treatment ointment.,Antibiotics,1,Zaman Medicine Agency,08/25,80,21.74,62.61,Franco-Indian Pharmaceuticals Pvt Ltd,0.217375
+26/07/2024,Colimex,syrup,Relieves stomach cramps.,Antispasmodic,2,Zaman Medicine Agency,01/27,61,22.36,47.36,Wallace Pharmaceuticals Pvt Ltd,0.2236065574
+26/07/2024,Ambrodil S Syp,syrup,Mucus relief cough syrup.,Cough Syrup,2,Zaman Medicine Agency,08/26,36.15,30.12,25.26,Aristo Pharmaceuticals Pvt Ltd,0.3012448133
+26/07/2024,Multiflow syp,syrup,Multivitamin supplement.,Nutritional supplement,2,Zaman Medicine Agency,07/25,130,65.51,44.84,Smart Laboratories Pvt Ltd,0.6550769231
+16/07/2024,Delpocure 50 syp,syrup,"treatment of a wide range of bacterial infections targeting the ears, eyes, nose, throat in children",Antibiotics,1,Zaman Medicine Agency,02/25,87.5,34.67,57.16,Delcure Life Sciences,0.3467428571
+16/07/2024,Cepodem 100 syp,syrup,"treatment of a wide range of bacterial infections targeting the ears, eyes, nose, throat, lungs,urinary tract in children",Antibiotics,1,Zaman Medicine Agency,12/24,189,30.15,132.01,Sun Pharmaceutical Industries Ltd,0.3015343915
+16/07/2024,Moxclav BD syp ,syrup,antibiotic to treat bacterial infections,Antibiotics,2,Zaman Medicine Agency,04/25,67.53,22.40,52.4,Sun Pharmaceutical Industries Ltd,0.224048571
+16/07/2024,Moxclav 156.25 syp,syrup,antibiotic to treat bacterial infections,Antibiotics,1,Zaman Medicine Agency,05/25,68.88,22.42,53.44,Sun Pharmaceutical Industries Ltd,0.2241579559
+16/07/2024,Moxclav Drop 10 ml,drop,antibiotic to treat bacterial infections,Antibiotics,1,Zaman Medicine Agency,06/25,101,22.40,78.38,Sun Pharmaceutical Industries Ltd,0.223960396
+16/07/2024,Mega CV forte,syrup,antibiotic to treat bacterial infections,Antibiotics,2,Zaman Medicine Agency,07/25,153,35.33,98.95,Aristo Pharmaceuticals Pvt Ltd,0.3532679739
+16/07/2024,Zocef Dry syp,syrup,treat bacterial infection of respiratory systems and urinary tract infections,Antibiotics,1,Zaman Medicine Agency,06/25,173.78,22.40,134.85,Alkem Laboratories Ltd,0.2240188744
+16/07/2024,Potrate MB6,syrup,treat and prevent kidney stone,Kidney Health,1,Zaman Medicine Agency,08/25,244,22.40,189.34,Intas Pharmaceuticals Ltd,0.2240163934
+16/07/2024,Cepodem 50 mg,syrup,treatment of a wide range of bacterial infection in children,Antibiotics,2,Zaman Medicine Agency,06/25,96,30.17,67.04,Sun Pharmaceutical Industries Ltd,0.3016666667
+16/07/2024,Cystone 60,tablet,maintains kidney health,Kidney Health,1,Zaman Medicine Agency,03/27,200,25.31,149.38,Himalaya Wellness Company,0.2531
+16/07/2024,Famocid 40 mg,tablet,Reduces stomach acid production.,Antacid,6,Zaman Medicine Agency,01/27,10.5,22.38,8.15,Sun Pharmaceutical Industries Ltd,0.2238095238
+16/07/2024,Volini spray 40 gm,spray,Topical pain relief spray.,NSAIDs / Analgesics,1,Zaman Medicine Agency,03/26,187,22.41,145.1,Sun Pharmaceutical Industries Ltd,0.2240641711
+16/07/2024,Pyrigesic syp 60 ml,syrup,Fever and pain reliever.,NSAIDs / Analgesics,1,Zaman Medicine Agency,05/26,36.29,30.15,25.35,East India Pharmaceutical Works Ltd,0.3014604574
+16/07/2024,Omnacortil drops 10 ml,syrup,Steroid for inflammation control.,Steroids,2,Zaman Medicine Agency,09/26,44.25,21.58,34.7,Macleods Pharmaceuticals Pvt Ltd,0.215819209
+16/07/2024,Niftas 100 tab,tablet,Treats urinary tract infections.,Antibiotics,1,Zaman Medicine Agency,02/27,127.01,22.34,98.63,Intas Pharmaceuticals Ltd,0.2234469727
+16/07/2024,Esam 2.5 10 tab,tablet,Manages high blood pressure.,Antihypertensives,1,Zaman Medicine Agency,10/25,82.55,21.60,64.72,Torrent Pharmaceuticals Ltd,0.2159903089
+16/07/2024,Flumont-LC,syrup,Relieves allergy symptoms.,Cold & Allergy Medicine,2,Zaman Medicine Agency,11/25,140,82.14,25,Aristo Pharmaceuticals Pvt Ltd,0.8214285714
+16/07/2024,Betnovate GM 20 gm,cream,Treats skin infections and inflammation.,Antibiotics,2,Zaman Medicine Agency,08/25,41.15,21.60,32.26,Glaxo SmithKline Pharmaceuticals Ltd,0.2160388821
+16/07/2024,Cataspa tab,tablet,Relieves muscle spasms and pain.,NSAIDs / Analgesics,5,Zaman Medicine Agency,04/26,43.2,21.60,33.87,USV Ltd,0.2159722222
+16/07/2024,Relikast-LC tab,tablet,Manages asthma and allergies.,Cold & Allergy Medicine,3,Zaman Medicine Agency,12/25,130,78.46,28,Leeford Healthcare Ltd,0.7846153846
+16/07/2024,Clofresh dusting powder,powder,Antifungal body powder.,Antifungals,3,Zaman Medicine Agency,03/27,110,57.57,46.67,Smart Laboratories Pvt Ltd,0.5757272727
+16/07/2024,Drep ear drop,drop,Treats ear infections.,Ear Care,1,Zaman Medicine Agency,07/25,96,29.43,67.75,DWD Pharmaceuticals Ltd,0.2942708333
+16/07/2024,Drep wax,drop,Earwax softening drops.,Ear Care,2,Zaman Medicine Agency,01/26,112,22.40,86.91,DWD Pharmaceuticals Ltd,0.2240178571
+16/07/2024,Drotin 15 tab,tablet,Alleviates abdominal cramps.,NSAIDs / Analgesics,1,Zaman Medicine Agency,05/26,139.96,22.40,108.61,Walter Bushnell,0.2239925693
+19/07/2024,Zerodol P,tablet,Pain reliever and anti-inflammatory.,NSAIDs / Analgesics,2,B.S Medical Hall,02/26,73,22.40,56.65,Ipca Laboratories Ltd,0.2239726027
+19/07/2024,Socril,tablet,Multivitamin supplement.,Nutritional supplement,1,B.S Medical Hall,03/25,234,22.40,181.59,Sun Pharmaceutical Industries Ltd,0.223974359
+19/07/2024,Calpol 650,tablet,Fever and pain reducer.,NSAIDs / Analgesics,6,B.S Medical Hall,02/26,33.6,35.33,21.73,Glaxo SmithKline Pharmaceuticals Ltd,0.3532738095
+19/07/2024,Taxim OF,tablet,Antibiotic for bacterial infections.,Antibiotics,2,B.S Medical Hall,01/26,175,22.38,135.83,Alkem Laboratories Ltd,0.2238285714
+19/07/2024,Cefiwok O,tablet,Antibiotic for bacterial infections.,Antibiotics,2,B.S Medical Hall,12/25,175,60.00,70,Dr Reddy's Laboratories Ltd,0.6
+19/07/2024,Neurobion forte,tablet,treats numbness and tingling sensations in palm and feet.,Neuropathy Agents,2,B.S Medical Hall,08/25,41.91,18.54,34.14,Procter & Gamble Health Ltd,0.1853972799
+19/07/2024,Criz-M,tablet,Antihistamine for allergy relief.,Cold & Allergy Medicine,2,B.S Medical Hall,02/26,173,30.14,120.86,Alkem Laboratories Ltd,0.3013872832
+19/07/2024,ATM 500mg,tablet,Antibiotic for bacterial infections.,Antibiotics,2,B.S Medical Hall,01/26,131.94,35.28,85.39,Indoco Remedies Ltd,0.3528118842
+19/07/2024,Zerodol SP,tablet,Pain reliever and anti-inflammatory.,NSAIDs / Analgesics,2,B.S Medical Hall,06/26,130.1,22.40,100.96,Ipca Laboratories Ltd,0.2239815527
+19/07/2024,Mega CV forte,syrup,Antibiotic for bacterial infections.,Antibiotics,1,B.S Medical Hall,07/25,153,35.33,98.95,Aristo Pharmaceuticals Pvt Ltd,0.3532679739
+19/07/2024,Genoplex L,syrup,Multivitamin and mineral supplement.,Nutritional supplement,1,B.S Medical Hall,03/25,96.75,30.17,67.56,Geno Pharmaceuticals Ltd,0.3017054264
+19/07/2024,Doxt-SL,capsule,Antibiotic for bacterial infections.,Antibiotics,1,B.S Medical Hall,01/26,133,30.15,92.9,Dr Reddy's Laboratories Ltd,0.3015037594
+19/07/2024,Clenora gel,gel,Pain relieving gel for gums and mouth.,NSAIDs / Analgesics,1,B.S Medical Hall,01/26,108,22.40,83.81,DWD Pharmaceuticals Ltd,0.2239814815
+19/07/2024,Rantac,tablet,Reduces stomach acid production.,Antacid,3,B.S Medical Hall,09/25,49,29.80,34.4,J B Chemicals and Pharmaceuticals Ltd,0.2979591837
+19/07/2024,Pan D,capsule,Treats acid reflux and heartburn.,Antacid,1,B.S Medical Hall,02/26,231,22.40,179.25,Alkem Laboratories Ltd,0.224025974
+19/07/2024,Eltroxin 25 mcg,tablet,Thyroid hormone replacement.,Thyroid Hormone Replacement,1,B.S Medical Hall,04/25,193.54,22.39,150.2,Glaxo SmithKline Pharmaceuticals Ltd,0.2239330371
+19/07/2024,Omizac-D,capsule,Treats acid reflux and heartburn.,Antacid,4,B.S Medical Hall,03/26,125,80.80,24,Torrent Pharmaceuticals Ltd,0.808
+19/07/2024,Etodash TH,tablet,Pain reliever and muscle relaxant.,NSAIDs / Analgesics,2,B.S Medical Hall,09/24,150,62.67,56,Olamic Healthcare,0.6266666667
+19/07/2024,Cefuway 250,tablet,Antibiotic for bacterial infections.,Antibiotics,2,B.S Medical Hall,12/25,175,52.00,84,Smartways Wellness,0.52
+19/07/2024,Cefuway 500,tablet,Antibiotic for bacterial infections.,Antibiotics,1,B.S Medical Hall,01/26,330,49.66,166.13,Smartways Wellness,0.4965757576
+19/07/2024,Zentel 400 mg,tablet,Antiparasitic for worm infections,Anthelmintics,10,B.S Medical Hall,02/27,9.09,22.33,7.06,Glaxo SmithKline Pharmaceuticals Ltd,0.2233223322
+19/07/2024,Nor Metrogyl TZ,tablet,Antibiotic and antiprotozoal combination.,Antibiotics,2,B.S Medical Hall,11/32,106.37,69.91,32.01,J B Chemicals and Pharmaceuticals Ltd,0.6990692865
+19/07/2024,Amlokind At 10,tablet,Manages high blood pressure.,Antihypertensives,1,B.S Medical Hall,01/26,53.95,28.84,38.39,Mankind Pharma Ltd,0.2884151993
+19/07/2024,Ambrodil S Syp,syrup,Mucus-relieving cough syrup.,Cough Syrup,2,B.S Medical Hall,08/26,36.15,30.12,25.26,Aristo Pharmaceuticals Pvt Ltd,0.3012448133
+19/07/2024,HH Linctus syp,syrup,Cough suppressant syrup.,Cough Syrup,1,B.S Medical Hall,09/25,109,22.40,84.58,Hegde and Hegde Pharmaceutical LLP,0.2240366972
+19/07/2024,Asthakind DX,syrup,Cough suppressant and decongestant.,Cold & Allergy Medicine,1,B.S Medical Hall,12/25,102.5,35.34,66.28,Mankind Pharma Ltd,0.3533658537
+19/07/2024,Chericof,syrup,Cough suppressant syrup.,Cough Syrup,1,B.S Medical Hall,01/26,118,22.39,91.58,Sun Pharmaceutical Industries Ltd,0.2238983051
+19/07/2024,V-wash plus,liquid,Intimate hygiene wash.,Antiseptics,1,B.S Medical Hall,05/25,180,19.16,145.51,Hindustan Unilever Ltd,0.1916111111
+10/07/2024,Cefiwok O,tablet,Treat various types of bacterial infections.,Antibiotics,4,Zaman Medicine Agency,12/25,175,57.71,74,Dr Reddy's Laboratories Ltd,0.5771428571
+10/07/2024,Omee Alkem,capsule,Reduces acidity and reflux.,Antacid,3,Zaman Medicine Agency,10/25,64.29,61.11,25,Alkem Laboratories Ltd,0.6111370353
+10/07/2024,Omepraz D,capsule,Reduces acidity and reflux.,Antacid,3,Zaman Medicine Agency,10/25,200,85.00,30,Alkem Laboratories Ltd,0.85
+10/07/2024,Rantac,tablet,Reduces amount of acid in stomach.,Antacid,2,Zaman Medicine Agency,09/25,49,29.80,34.4,J B Chemicals and Pharmaceuticals Ltd,0.2979591837
+10/07/2024,Ciplox eye drop,drop,Treats bacterial eye/ear infections.,Ear Care,2,Zaman Medicine Agency,01/27,17.13,21.95,13.37,Cipla Ltd,0.2194979568
+10/07/2024,Clenora gel,gel,Pain relieving gel for gums and mouth.,NSAIDs / Analgesics,1,Zaman Medicine Agency,01/26,108,21.59,84.68,DWD Pharmaceuticals Ltd,0.2159259259
+10/07/2024,Drep ear drop,drop,Treat infections in the ear caused by bacteria and fungus.,Ear Care,1,Zaman Medicine Agency,11/25,96,29.43,67.75,DWD Pharmaceuticals Ltd,0.2942708333
+10/07/2024,Meftal spas,tablet,provide symptomatic relief from menstrual pain and cramps.,NSAIDs / Analgesics,2,Zaman Medicine Agency,02/27,50,30.14,34.93,Blue Cross Laboratories Ltd,0.3014
+10/07/2024,Linzomek-600,tablet,Used in the treatment of severe bacterial infections.,Antibiotics,1,Zaman Medicine Agency,07/25,356.27,73.33,95,Macleods Pharmaceuticals Pvt Ltd,0.7333483033
+04/07/2024,Zentel 400 mg,tablet,Deworming medicine for intestinal worms.,Anthelmintics,10,M/S Jeevan Deep,06/26,9.09,22.33,7.06,Glaxo SmithKline Pharmaceuticals Ltd,0.2233223322
+04/07/2024,Nock 2 mg,tablet,Helps in relieving the pain and inflammation.,NSAIDs / Analgesics,2,M/S Jeevan Deep,11/26,71.25,35.31,46.09,Wanbury Ltd,0.353122807
+04/07/2024,ATM 500 mg,tablet,treats various types of bacterial infection.,Antibiotics,2,M/S Jeevan Deep,01/26,131.94,35.28,85.39,Indoco Remedies Ltd,0.3528118842
+04/07/2024,Criz-M,tablet,"treats allergic symptoms like runny nose, sneezing.",Cold & Allergy Medicine,2,M/S Jeevan Deep,07/25,173,30.16,120.83,Alkem Laboratories Ltd,0.3015606936
+04/07/2024,Atarax 10,tablet,used to treat anxiety and helps to get relaxed before or after surgery.,Anxiolytics,1,M/S Jeevan Deep,08/25,52.5,22.40,40.74,Dr Reddy's Laboratories Ltd,0.224
+04/07/2024,Calpol 500 mg,tablet,Pain and fever relief.,NSAIDs / Analgesics,3,M/S Jeevan Deep,01/26,14.95,22.41,11.6,Glaxo SmithKline Pharmaceuticals Ltd,0.2240802676
+04/07/2024,Zyrcold syp,syrup,treats cough.,Cough Syrup,1,M/S Jeevan Deep,06/25,105,21.83,82.08,Dr Reddy's Laboratories Ltd,0.2182857143
+04/07/2024,Asthakind DX,syrup,"suppresses dry, hacking coughs and allergic symptoms like sneezing, runny nose.",Cold & Allergy Medicine,2,M/S Jeevan Deep,12/25,102.5,30.16,71.59,Mankind Pharma Ltd,0.3015609756
+04/07/2024,Chericof,syrup,used in the treatment of common cold and cough.,Cold & Allergy Medicine,1,M/S Jeevan Deep,10/24,107,22.39,83.04,Sun Pharmaceutical Industries Ltd,0.2239252336
+04/07/2024,Azithral XL,syrup,effective antibiotic that is used for the treatment of many bacterial infections.,Antibiotics,1,M/S Jeevan Deep,01/26,114.24,22.40,88.65,Alembic Pharmaceuticals Ltd,0.2240021008
+04/07/2024,Montas-L,tablet,"treats allergic symptoms like runny nose, sneezing.",Cold & Allergy Medicine,5,M/S Jeevan Deep,12/25,151,86.75,20,Intas Pharmaceuticals Ltd,0.8675496689
+04/07/2024,Cypon Syp,syrup,treats loss of appetitte.,Appetite Stimulant,1,M/S Jeevan Deep,01/27,124,30.16,86.6,Geno Pharmaceuticals Ltd,0.3016129032
+04/07/2024,Pan MPS syp,syrup,"treats acidity, heartburn and stomach ulcers.",Antacid,1,M/S Jeevan Deep,03/27,114,35.33,73.72,Alkem Laboratories Ltd,0.3533333333
+04/07/2024,Cepodem 100,syrup,kills the infection-causing bacteria in the body.,Antibiotics,1,M/S Jeevan Deep,12/24,189,30.15,132.01,Sun Pharmaceutical Industries Ltd,0.3015343915
+04/07/2024,Zofer MD,tablet,used to control nausea and vomiting due to certain medical conditions.,Antiemetics,2,M/S Jeevan Deep,12/25,57.45,22.40,44.58,Sun Pharmaceutical Industries Ltd,0.2240208877
+04/07/2024,Stemetil injection,injection,used in the treatment of nausea and vomiting caused by various conditions.,Antiemetics,4,M/S Jeevan Deep,02/27,24.78,22.36,19.24,Abbott,0.2235673931
+04/07/2024,Emty,syrup,used to treat constipation.,Laxatives,1,M/S Jeevan Deep,03/26,129.15,22.38,100.25,Alkem Laboratories Ltd,0.2237708091
+06/08/2024,Alkasol,syrup,used in the treatment of gout and kidney stones.,NSAIDs / Analgesics,1,Zaman Medicine Agency,11/26,349.9,22.40,271.53,Stadmed Pvt Ltd,0.2239782795
+06/08/2024,Clavam,tablet,used in the treatment of Bacterial infections.,Antibiotics,1,Zaman Medicine Agency,09/25,204.94,35.33,132.54,Alkem Laboratories Ltd,0.353274129
+06/08/2024,Stemetil MD tab,tablet,"used to treat nausea, vomiting, and dizziness.",Antiemetics,1,Zaman Medicine Agency,08/25,172.7,22.40,134.02,Abbott,0.2239722061
+06/08/2024,Veloz D,tablet,Reduces acidity and reflux.,Antacid,1,Zaman Medicine Agency,12/25,225,22.23,174.98,Torrent Pharmaceuticals Ltd,0.2223111111
+06/08/2024,Ondem syp,syrup,Treats nausea and vomiting.,Antiemetics,2,Zaman Medicine Agency,04/26,42.19,30.13,29.48,Alkem Laboratories Ltd,0.3012562219
+06/08/2024,Taxim OF,tablet,used to treat various types of bacterial infections.,Antibiotics,1,Zaman Medicine Agency,01/26,175,30.15,122.23,Alkem Laboratories Ltd,0.3015428571
+06/08/2024,Moxclav BD syp ,syrup,"helps treat bacterial infections of the ear, nose, throat.",Antibiotics,2,Zaman Medicine Agency,10/25,67.53,22.38,52.42,Sun Pharmaceutical Industries Ltd,0.2237524063
+06/08/2024,Karpin,lotion,treats fungal infection.,Antifungals,1,Zaman Medicine Agency,12/25,66,21.61,51.74,Deys Medical,0.2160606061
+06/08/2024,Volini active,cream,"relieves pain in back, knee, joint.",NSAIDs / Analgesics,10,Zaman Medicine Agency,02/26,10,29.40,7.06,Sun Pharmaceutical Industries Ltd,0.294
+09/06/2024,Pan D,capsule,Reduces acidity and reflux.,Antacid,1,Sarkar Medicine Agency,01/26,231,23.20,177.4,Alkem Laboratories Ltd,0.232034632
+09/06/2024,R Loc,tablet,Reduces stomach acidity.,Antacid,5,Sarkar Medicine Agency,02/26,45,33.31,30.01,Zydus Cadila,0.3331111111
+09/06/2024,Omez DSR,capsule,Reduces acidity and reflux.,Antacid,1,Sarkar Medicine Agency,05/25,204,23.01,157.05,Dr Reddy's Laboratories Ltd,0.2301470588
+09/06/2024,Cypon Syp,syrup,appetite stimulant.,Appetite Stimulant,1,Sarkar Medicine Agency,02/27,124,30.87,85.72,Geno Pharmaceuticals Ltd,0.3087096774
+09/06/2024,Famocid 40 mg,tablet,used to treat acid reflux.,Antacid,6,Sarkar Medicine Agency,11/26,10.5,23.24,8.06,Sun Pharmaceutical Industries Ltd,0.2323809524
+11/05/2024,Duphalac,syrup,"used to treat constipation, intestine preperation before any surgery.",Laxatives,1,Sarkar Medicine Agency,02/26,193.72,20.00,154.98,Abbott,0.1999793516
+11/05/2024,Colimex,syrup,"treats stomach pain, bloating and abdominal cramps.",Antispasmodic,1,Sarkar Medicine Agency,11/26,61,20.02,48.79,Wallace Pharmaceuticals Pvt Ltd,0.2001639344
+21/05/2024,Criz-M,tablet,"treats allergic symptoms such as runny nose, sneezing.",Cold & Allergy Medicine,2,Sarkar Medicine Agency,12/25,173,27.99,124.57,Alkem Laboratories Ltd,0.2799421965
+21/05/2024,Hemfer,syrup,treats biotin deficiency and manage the formation of red blood cells and nerve tissues.,Nutritional supplement,1,Sarkar Medicine Agency,04/25,178,36.00,113.92,Alkem Laboratories Ltd,0.36
+21/05/2024,Pan D,capsule,Reduces acidity and reflux.,Antacid,1,Sarkar Medicine Agency,12/25,210,23.20,161.29,Alkem Laboratories Ltd,0.231952381
+21/05/2024,Taxim OF,tablet,Treats various types of bacterial infections.,Antibiotics,1,Sarkar Medicine Agency,12/25,175,28.00,126,Alkem Laboratories Ltd,0.28
+21/05/2024,Foracort,inhaler,treats asthma and chronic pulmonary obstructive disease.,Cold & Allergy Medicine,1,Sarkar Medicine Agency,12/26,510.72,20.00,408.58,Cipla Ltd,0.1999921679
+21/05/2024,Zerodol SP,tablet,"relieves pain, inflammation and swelling.",NSAIDs / Analgesics,1,Sarkar Medicine Agency,03/26,130.1,19.99,104.09,Ipca Laboratories Ltd,0.199923136
+21/05/2024,Augpen HS,syrup,"treats bacterial infections of the ear, nose and throat.",Antibiotics,2,Sarkar Medicine Agency,05/25,67.87,27.98,48.88,Zuventus Healthcare Ltd,0.2797996169
+21/05/2024,Moxclav DS,syrup,"treats bacterial infections of the ear, nose and throat.",Antibiotics,1,Sarkar Medicine Agency,12/25,159,33.33,106.01,Sun Pharmaceutical Industries Ltd,0.3332704403
+21/05/2024,Nasoclear drop,drop,relieves congestion and dry stuffy nose.,Cold & Allergy Medicine,2,Sarkar Medicine Agency,12/26,64.35,26.65,47.2,Zydus Cadila,0.2665112665
+16/05/2024,Supracal,tablet,nutritional supplement and improves vit D.,Nutritional supplement,1,Sarkar Medicine Agency,09/25,197,20.01,157.59,Pharmed Ltd,0.2000507614
+16/05/2024,Predmet 8,tablet,"treats different inflammatory and allergic conditions including arthritis, lupus, psoriasis, etc.",Steroids,1,Sarkar Medicine Agency,12/26,104,19.99,83.21,Sun Pharmaceutical Industries Ltd,0.1999038462
+16/05/2024,Nexpro-40,tablet,"relieves the discomfort caused by excessive stomach acid, such as burning sensations.",Antacid,1,Sarkar Medicine Agency,01/26,174,19.99,139.21,Torrent Pharmaceuticals Ltd,0.1999425287
+28/07/2024,Moxiford eye drop,drop,treats bacterial eye infections.,Antibiotics,3,Zaman Medicine Agency,01/26,66,69.70,20,Leeford Healthcare Ltd,0.696969697
+28/07/2024,Tormoxin Clave,tablet,"treats bacterial infections of the ear, nose and throat.",Antibiotics,3,Zaman Medicine Agency,11/25,220,63.64,80,Torrent Pharmaceuticals Ltd,0.6363636364
+28/07/2024,Famocid 20 mg,tablet,Reduces amount of acid in stomach.,Antacid,6,Zaman Medicine Agency,02/27,5.9,22.37,4.58,Sun Pharmaceutical Industries Ltd,0.2237288136
+28/07/2024,Glyciphase 500,tablet,treats type 2 diabetes.,Antidiabetic Medications,1,Zaman Medicine Agency,10/26,41.65,22.40,32.32,Franco-Indian Pharmaceuticals Pvt Ltd,0.2240096038
+03/04/2024,Rexipra Lite,tablet,treats anxiety disorder.,Anxiolytics,1,Haque Medicine Supply,10/25,178,22.40,138.13,Intas Pharmaceuticals Ltd,0.223988764
+03/04/2024,Diovol mango flavour,syrup,addtional health supplement.,Nutritional supplement,1,Haque Medicine Supply,09/26,150.6,22.40,116.86,Wallace Pharmaceuticals Pvt Ltd,0.2240371846
+03/04/2024,Pan L,capsule,Treats acid reflux and heartburn.,Antacid,1,Haque Medicine Supply,02/25,262,22.40,203.31,Alkem Laboratories Ltd,0.2240076336
+03/04/2024,Vertin 16,tablet,treats a disorder of the inner ear.,Ear Care,1,Haque Medicine Supply,08/26,325.34,22.40,252.45,Abbott,0.2240425401
+03/04/2024,Stemetil MD tab,tablet,"used to treat nausea, vomiting, and dizziness.",Antiemetics,1,Haque Medicine Supply,04/25,172.7,22.40,134.01,Abbott,0.22403011
+13/12/2023,Providac,capsule,works as probiotic.,Nutritional supplement,1,Mazumdar Enterprise,01/25,437.65,28.57,312.61,Zydus Cadila,0.2857077573
+13/12/2023,Stamlo,tablet,"treatment of angina, high blood pressure etc.",Antihypertensives,1,Mazumdar Enterprise,08/26,83.9,28.57,59.93,Dr Reddy's Laboratories Ltd,0.2856972586
+13/12/2023,Vegaz OD,tablet,treats a type of bowel disease known as ulcerative colitis.,Gastrointestinal Agents,1,Mazumdar Enterprise,06/25,412.5,28.57,294.64,Dr Reddy's Laboratories Ltd,0.2857212121
+13/12/2023,Raciraft,syrup,"treats acidity, heartburn and stomach ulcers.",Antacid,1,Rup Enterprise,08/25,199,28.57,142.14,Sun Pharmaceutical Industries Ltd,0.2857286432
+06/11/2023,Cetzine,tablet,"relieves the symptoms of allergy. It is used to relieve runny nose, sneezing etc",Cold & Allergy Medicine,2,B.S Medical Hall,07/26,31.5,19.97,25.21,Dr Reddy's Laboratories Ltd,0.1996825397
+06/11/2023,Citizd,tablet,"relieves the symptoms of allergy. It is used to relieve runny nose, sneezing etc",Cold & Allergy Medicine,10,B.S Medical Hall,06/25,16.6,87.95,2,Medley Pharmaceuticals,0.8795180723
+06/11/2023,Thyrox 50,tablet,used to treat hypothyroidism.,Thyroid Hormone Replacement,1,B.S Medical Hall,01/25,123.64,20.00,98.91,Macleods Pharmaceuticals Pvt Ltd,0.200016176
+06/11/2023,KT 5 derm,cream,treats skin infections caused by microorganisms such as bacteria and fungi,Antifungals,2,B.S Medical Hall,01/25,105,84.76,16,Laborate Pharmaceuticals India Ltd,0.8476190476
+06/11/2023,Neo Clobenate GM,cream,treats skin infections caused by microorganisms such as bacteria and fungi.,Antifungals,2,B.S Medical Hall,04/25,76.8,86.98,10,Ind Swift Laboratories Ltd,0.8697916667
+06/11/2023,Cafragin,tablet,used to prevent and treat migraine.,Antimigraine Agents,3,B.S Medical Hall,01/25,50,42.78,28.61,Agrosaf Pharmaceuticals,0.4278
+06/11/2023,Anafortan,syrup,treats abdominal pain.,NSAIDs / Analgesics,1,B.S Medical Hall,10/24,101.73,20.00,81.38,Abbott,0.2000393198
+06/11/2023,Drep ear drop,drop,treats infections in the ear caused by bacteria and fungus.,Ear Care,1,B.S Medical Hall,01/25,92,27.24,66.94,DWD Pharmaceuticals Ltd,0.2723913043
+06/11/2023,Glynase MF,tablet,treats type 2 diabetes mellitus (DM),Antidiabetic Medications,2,B.S Medical Hall,12/24,20.35,20.00,16.28,USV Ltd,0.2
+06/11/2023,Ketofly,shampoo,anti-fungal medicine used for treatment of dandruff.,Antifungals,1,B.S Medical Hall,08/24,190,63.16,70,Leeford Healthcare Ltd,0.6315789474
+06/11/2023,Augmentin DDS,syrup,"an antibiotic medicine that helps treat bacterial infections of the ear, nose, throat etc.",Antibiotics,1,Zaman Medicine Agency,09/24,173,27.27,125.82,Glaxo SmithKline Pharmaceuticals Ltd,0.272716763
+06/11/2023,Augmentin duo,syrup,"an antibiotic medicine that helps treat bacterial infections of the ear, nose, throat etc.",Antibiotics,2,Zaman Medicine Agency,03/24,67.2,27.26,48.88,Glaxo SmithKline Pharmaceuticals Ltd,0.2726190476
+06/11/2023,Fourderm 5,cream,used for the treatment of various skin infections and inflammation caused by bacterial or fungal infection.,Antibiotics,2,Zaman Medicine Agency,01/25,56.65,77.07,12.99,Cipla Ltd,0.7706972639
+06/11/2023,Fourderm 10,cream,used for the treatment of various skin infections and inflammation caused by bacterial or fungal infection.,Antibiotics,2,Zaman Medicine Agency,11/24,107.25,77.62,24,Cipla Ltd,0.7762237762
+06/11/2023,Nock 2 mg,tablet,Helps in relieving the pain and inflammation.,NSAIDs / Analgesics,2,Zaman Medicine Agency,09/25,71.25,33.32,47.51,Wanbury Ltd,0.3331929825
+06/11/2023,Augpen HS,syrup,"antibiotic medicine that helps treat bacterial infections of the ear, nose, throat, chest etc.",Antibiotics,2,Zaman Medicine Agency,12/24,67.54,28.00,48.63,Zuventus Healthcare Ltd,0.2799822328
+06/11/2023,Atarax drops,drop,used to treat anxiety and helps to get relaxed before or after surgery.,Anxiolytics,1,Zaman Medicine Agency,07/24,69.75,20.00,55.8,Dr Reddy's Laboratories Ltd,0.2
+06/11/2023,Zentel 400 mg,tablet,Deworming medicine for intestinal worms.,Anthelmintics,10,Zaman Medicine Agency,06/26,9.09,23.87,6.92,Glaxo SmithKline Pharmaceuticals Ltd,0.2387238724
+06/11/2023,Omez 20 mg,capsule,"used in the treatment of Acidity,Heartburn and Acid reflux.",Antacid,2,Zaman Medicine Agency,07/26,64.2,23.19,49.31,Dr Reddy's Laboratories Ltd,0.2319314642
+06/11/2023,Rantac MPS,syrup,used to treat acidity and indigestion.,Antacid,1,Zaman Medicine Agency,06/25,143.74,33.33,95.83,J B Chemicals and Pharmaceuticals Ltd,0.3333101433
+13/11/2023,Dermadew baby lotion,lotion,neutral formula for gentle skin of the baby.,Infant Skin Care,1,Pal Medical Agency,04/25,140,32.20,94.92,Hegde and Hegde Pharmaceutical LLP,0.322
+13/11/2023,Gaspaz,capsule,relieves heartburn and acid reflux.,Antacid,2,Pal Medical Agency,06/24,26.54,42.88,15.16,Biological E Ltd,0.428786737
+13/11/2023,Augmentin duo,syrup,"an antibiotic medicine that helps treat bacterial infections of the ear, nose, throat, chest etc.",Antibiotics,1,Pal Medical Agency,10/24,67.54,35.36,43.66,Glaxo SmithKline Pharmaceuticals Ltd,0.3535682558
+13/11/2023,Junior lanzol 30,tablet,"used in the treatment of Acidity, Acid reflux.",Antacid,1,Pal Medical Agency,01/25,191.63,28.57,136.88,Cipla Ltd,0.2857068309
+13/11/2023,Chericof 12,syrup,"suppresses dry, hacking coughs.",Cough Syrup,1,Pal Medical Agency,09/24,107,28.57,76.43,Sun Pharmaceutical Industries Ltd,0.2857009346
+13/11/2023,Decolic,drop,"treats stomach pain, bloating, and abdominal cramps, and pain associated with excessive acidity.",Antacid,1,Pal Medical Agency,05/27,73,28.58,52.14,Kontest Chemicals Ltd,0.2857534247
+10/11/2023,Gelusil MPS,liquid,"treats Acidity, Hurtburns, Gas",Antacid,1,Pal Medical Agency,05/24,139.13,35.71,89.44,Pfizer Ltd,0.3571479911
+10/11/2023,Liv 52 DS,syrup,maintains liver health,Nutritional supplement,1,Pal Medical Agency,11/25,275,31.24,189.1,Himalaya Wellness Company,0.3123636364
+10/11/2023,Lupidine,liquid,"an antiseptic and disinfectant that treats and prevents infections in the skin, wounds, and mouth",Antiseptics,1,Pal Medical Agency,03/25,48.15,52.36,22.94,Lupin Ltd,0.5235721703
+10/11/2023,Duphalac,syrup,stool softener,Laxatives,1,Pal Medical Agency,03/25,193.72,23.80,147.61,Abbott,0.2380239521
+10/11/2023,Livercool UD,tablet,reduces the amount of cholesterol in the blood and helps dissolve gallbladder stones,Gastrointestinal Agents,1,Pal Medical Agency,01/25,350,23.81,266.67,Therapia Sanjeevani,0.2380857143
+10/11/2023,Neurobion forte,tablet,"prevents numbness, tinging sensations in palm and feet.",Neuropathy Agents,1,Pal Medical Agency,10/24,38.1,24.96,28.59,Procter & Gamble Health Ltd,0.2496062992
+10/11/2023,Digene (O),tablet,"relieves from acidity and its symptoms such as heartburn, stomach discomfort.",Antacid,3,Pal Medical Agency,10/25,24.14,35.58,15.55,Abbott,0.3558409279
+16/11/2023,Cheri ,syrup,"provides essential nutrients, including iron, vitamin B12, and folic acid.",Nutritional supplement,1,Pal Medical Agency,06/24,180,45.06,98.9,Indchemie Health Specialities Pvt Ltd,0.4505555556
+16/11/2023,Cepodem XP 325,tablet,This medication is used to treat bacterial infection.,Antibiotics,1,Pal Medical Agency,07/24,364,28.57,260,Sun Pharmaceutical Industries Ltd,0.2857142857
+16/11/2023,Ceftum 500,capsule,antibiotic medicine used to treat bacterial infections in body.,Antibiotics,2,Pal Medical Agency,06/25,230.14,28.57,164.39,Glaxo SmithKline Pharmaceuticals Ltd,0.2856956635
+16/11/2023,Gabapin Me,tablet,used for the treatment of neuropathic pain.,Neuropathy Agents,2,Pal Medical Agency,11/24,327,28.57,233.58,Intas Pharmaceuticals Ltd,0.2856880734
+16/11/2023,Rabelin D,capsule,used to treat gastroesophageal reflux disease (Acid reflux).,Antacid,2,Pal Medical Agency,11/24,102,28.57,72.86,Linux Laboratories,0.2856862745
+16/11/2023,Lasilactone 50,tablet,"treats congestive heart failure, nephrotic syndrome, ascites associated with liver cirrhosis and high BP. ",Antihypertensives,2,Pal Medical Agency,11/25,58.94,28.57,42.1,Sanofi India Ltd,0.2857142857
+16/11/2023,Atril DS,tablet,"treats depression ,anxiety disorders, panic attacks and OCD.",Anxiolytics,2,Pal Medical Agency,11/24,52.9,28.58,37.78,Laxian Healthcare,0.2858223062
+16/11/2023,Asprito 5,tablet,used in the treatment of schizophrenia,Antipsychotics,2,Pal Medical Agency,03/26,135,28.57,96.43,Intas Pharmaceuticals Ltd,0.2857037037
+16/11/2023,Aciloc RD,tablet,used to treat gastroesophageal reflux disease (Acid reflux).,Antacid,1,Pal Medical Agency,06/25,168.6,35.04,109.52,Cadila Pharmaceuticals Ltd,0.3504151839
+24/11/2023,Follihair,tablet,help strengthen the hair and promote growth.,Nutritional supplement,1,Pal Medical Agency,11/24,371,32.20,251.53,Abbott,0.3220215633
+23/11/2023,Otrivin (adult),spray,relieves nasal blockage.,Cold & Allergy Medicine,1,Pal Medical Agency,12/25,106.48,27.66,77.03,Glaxo SmithKline Pharmaceuticals Ltd,0.2765777611
+23/11/2023,Omnacortil syrup,syrup,"treatments inflammatory conditions,autoimmune conditions,allergic reactions.",Steroids,2,Pal Medical Agency,11/25,32.92,28.55,23.52,Macleods Pharmaceuticals Pvt Ltd,0.2855407047
+23/11/2023,Augmentin DDS,syrup,"antibiotic medicine that helps treat bacterial infections of the ear, nose, throat, chestetc.",Antibiotics,1,Pal Medical Agency,09/24,173,28.57,123.57,Glaxo SmithKline Pharmaceuticals Ltd,0.2857225434
+23/11/2023,Mefkind DS,syrup,used to reduce pain and swelling in various conditions.,NSAIDs / Analgesics,2,Pal Medical Agency,05/25,50.57,40.48,30.1,Mankind Pharma Ltd,0.4047854459
+23/11/2023,Zentel,tablet,Deworming medicine for intestinal worms.,Anthelmintics,10,Pal Medical Agency,02/26,9.09,28.60,6.49,Glaxo SmithKline Pharmaceuticals Ltd,0.2860286029
+23/11/2023,Zentel,syrup,Deworming medicine for intestinal worms.,Anthelmintics,2,Pal Medical Agency,03/26,20.05,28.58,14.32,Glaxo SmithKline Pharmaceuticals Ltd,0.2857855362
+23/11/2023,Stayfree XL,sanitary pad,soaks menstrual waste and keeps safe from infection.,Antiseptics,2,Pal Medical Agency,,42,14.29,36,Johnson & Johnson Pvt LTD,0.1428571429
+17/11/2023,Betadine 5% sol,antiseptic solution,an antiseptic and disinfectant agent.,Antiseptics,1,Frank Ross Pharmacy,07/25,240.8,16.94,200,Win-Medicare Pvt Ltd,0.1694352159
+19/11/2023,Centilin plus,tablet,used in stroke rehabilitation and as a cognitive enhancer.,Cognitive Enhancers,1,Pal Medical Agency,02/25,725,21.60,568.42,Lyceum Life Sciences Pvt Ltd,0.2159724138
+19/11/2023,Ecosprin AV,capsule,used to prevent heart attack and stroke.,Antiplatelets,1,Pal Medical Agency,12/24,60.65,17.64,49.95,USV Ltd,0.176422094
+09/12/2023,CTD T AM,tablet,used to treat hypertension when a single medication is not effective.,Antihypertensives,1,Pal Medical Agency,03/25,229.15,21.60,179.65,Ipca Laboratories Ltd,0.2160157102
+09/12/2023,Storvas CV,capsule,prevents heart attack and stroke.,Antiplatelets,1,Pal Medical Agency,09/24,270,21.60,211.67,Sun Pharmaceutical Industries Ltd,0.216037037
+09/12/2023,Met XL,tablet,"treats of heart-related chest pain, heart attack, high blood pressure,migraine etc.",Antihypertensives,1,Pal Medical Agency,03/26,130.81,21.60,102.55,Ajanta Pharma Ltd,0.2160385292
+09/12/2023,Obetohep 10,tablet,treat primary biliary cirrhosis.,Gastrointestinal Agents,1,Pal Medical Agency,04/25,396,21.60,310.46,Alkem Laboratories Ltd,0.216010101
+09/12/2023,Ranolaz,tablet,decreases the oxygen requirement of the heart by relaxing heart muscle.,Antihypertensives,1,Pal Medical Agency,02/24,274.25,21.60,215.01,Torrent Pharmaceuticals Ltd,0.2160072926
+09/12/2023,T-Bact ointment,cream,antibiotic medicine used to treat certain skin infections.,Antibiotics,1,Pal Medical Agency,10/24,113.62,21.60,89.08,Glaxo SmithKline Pharmaceuticals Ltd,0.2159831016
+09/12/2023,Mupivate ointment,cream,topical antibiotic used to treat skin infection caused by bacteria.,Antibiotics,2,Pal Medical Agency,09/24,140,77.20,31.92,Alkem Laboratories Ltd,0.772
+09/12/2023,Rantac dom,tablet,relieves symptoms of gastroesophageal reflux disease.,Antacid,2,Pal Medical Agency,01/25,67.12,27.55,48.63,J B Chemicals and Pharmaceuticals Ltd,0.275476758
+09/12/2023,Alkasol,syrup,treats gout and kidney stones.,Gastrointestinal Agents,1,Pal Medical Agency,03/26,134.23,21.60,105.24,Stadmed Pvt Ltd,0.2159725844
+09/12/2023,Kit Kat 6,tablet,deworming medicine for intestinal worms.,Anthelmintics,3,Pal Medical Agency,09/25,21.83,31.47,14.96,Mapra Laboratories Pvt Ltd,0.314704535
+09/12/2023,Sitaday M 1000,tablet,controls high blood sugar levels in people with type 2 diabetes mellitus.,Antidiabetic Medications,1,Pal Medical Agency,07/24,163.5,21.60,128.19,Mankind Pharma Ltd,0.2159633028
+15/12/2023,Loxof,tablet,"antibiotic, used in the treatment of bacterial infections.",Antibiotics,10,Frank Ross Pharmacy,03/25,53.98,17.00,44.8034,Sun Pharmaceutical Industries Ltd,0.17
+15/12/2023,Gemer P2,tablet,helps to control high blood glucose (sugar) levels.,Antidiabetic Medications,10,Frank Ross Pharmacy,07/25,192,18.00,157.44,Sun Pharmaceutical Industries Ltd,0.18
+15/12/2023,Montek AB,tablet,prevents and treat asthma and chronic obstructive pulmonary disorder.,Cold & Allergy Medicine,10,Frank Ross Pharmacy,10/25,268,18.00,219.76,Sun Pharmaceutical Industries Ltd,0.18
+25/01/2024,Similac 2,dried powder,a spray dried infant milk substitute for newborn baby from 6 to 12 months.,Nutritional supplement,1,Rishav Medical Agency,,546,2.00,535.08,Abbott,0.02
+25/01/2024,Horlicks,dried powder,sweet nutritional drink,Nutritional supplement,2,Rishav Medical Agency,,434,1.94,425.565,Hindustan Unilever Limited,0.01943548387
+25/01/2024,Nivea soft,facial cream,used to soften skin.,Skin Care,1,Rishav Medical Agency,,52,28.00,37.44,NIVEA India Pvt,0.28
+06/01/2024,Zyrcold syp,syrup,treats cough.,Cough Syrup,1,,05/25,96.25,34.06,63.47,Dr Reddy's Laboratories Ltd,0.3405714286
+17/11/2023,Augmentin,syrup,Vitamins and Minerals enhance different immune functions and provide strong nerve support.,Nutritional supplement,1,Haque Medicine Supply,12/24,191.8,22.17,149.28,Zuventus Healthcare Ltd,0.2216892596
+17/11/2023,A to Z,syrup,Multivitamins help to prevent nutritional deficiencies in the body.,Nutritional supplement,1,Haque Medicine Supply,12/24,99,29.45,69.84,Alkem Laboratories Ltd,0.2945454545
+17/11/2023,Yees D,capsule,treat acidity and heartburn.,Antacid,1,Haque Medicine Supply,04/25,128,22.40,99.33,Alkem Laboratories Ltd,0.223984375
+17/11/2023,Roles D,capsule,treat acidity and heartburn.,Antacid,1,Haque Medicine Supply,05/25,146,22.40,113.3,Sun Pharmaceutical Industries Ltd,0.2239726027
+17/11/2023,Dolonex DT,tablet,"short-term relief of pain, inflammation, and swelling in joints and muscles.",NSAIDs / Analgesics,1,Haque Medicine Supply,12/24,196.22,22.39,152.28,Pfizer Ltd,0.2239323209
+17/11/2023,Golbi SR,tablet,used to dissolve certain gallstones and prevent them from forming.,Gastrointestinal Agents,1,Haque Medicine Supply,04/25,779.5,22.40,604.88,Intas Pharmaceuticals Ltd,0.2240153945
+17/11/2023,Medrol,tablet,"treats allergic conditions, skin disorders, eye disorders, rheumatic disorder.",Steroids,1,Haque Medicine Supply,12/27,52.59,22.40,40.81,Pfizer Ltd,0.2239969576
+17/11/2023,Lizolid,tablet,an antibiotic medicine used in the treatment of severe bacterial infections.,Antibiotics,1,Haque Medicine Supply,07/25,399,22.40,309.63,Integrace Pvt Ltd,0.2239849624
+18/12/2023,Pregaba M,capsule,treats neuropathic pain.,Neuropathy Agents,1,Frank Ross Pharmacy,12/24,319.9,18.10,262,Torrent Pharmaceuticals Ltd,0.1809940606
+18/12/2023,Maxtra,syrup,"relieves common cold in children, such as blocked nose, runny nose, watery eyes.",Cold & Allergy Medicine,1,Pal Medical Agency,05/25,105.55,33.33,70.37,Zuventus Healthcare Ltd,0.3333017527
+18/12/2023,Mefkind DS,syrup,reduces pain and swelling in various conditions.,NSAIDs / Analgesics,1,Pal Medical Agency,05/25,50.57,33.32,33.72,Mankind Pharma Ltd,0.3332015029
+18/12/2023,Omnacortil,syrup,"treats Inflammatory conditions,Autoimmune conditions,Severe allergic reactions.",Steroids,1,Pal Medical Agency,11/25,32.92,21.60,25.81,Macleods Pharmaceuticals Pvt Ltd,0.2159781288
+18/12/2023,Nasivion (PAED),spray,clears bloked nose in children.,Cold & Allergy Medicine,1,Pal Medical Agency,02/26,88.5,26.09,65.41,Procter & Gamble Health Ltd,0.2609039548
+18/12/2023,Moxclav DS,syrup,"an antibiotic medicine that helps treat bacterial infections of the ear, nose, throat, chest etc.",Antibiotics,1,Pal Medical Agency,01/25,155,33.33,103.34,Sun Pharmaceutical Industries Ltd,0.3332903226
+18/12/2023,Augmentin DDS,syrup,"an antibiotic medicine that helps treat bacterial infections of the ear, nose, throat, chest etc.",Antibiotics,1,Pal Medical Agency,01/24,173,28.01,124.55,Glaxo SmithKline Pharmaceuticals Ltd,0.2800578035
+18/12/2023,Clobeta GM,cream,used to treat various types of skin infections such as fungal infections.,Antifungals,2,Pal Medical Agency,02/25,73.75,85.57,10.64,Laborate Pharmaceuticals India Ltd,0.8557288136
+18/12/2023,Dinogest,tablet,treats pelvic pain associated with endometriosis.,NSAIDs / Analgesics,2,Pal Medical Agency,11/24,602.8,21.60,472.6,Koye Pharmaceuticals Pvt ltd,0.2159920372
+18/12/2023,Sitaday DM Forte,tablet,control high blood glucose levels.,Antidiabetic Medications,1,Pal Medical Agency,06/25,358.5,21.41,281.75,Mankind Pharma Ltd,0.2140864714
+16/08/2024,Zerodol SP,tablet,used in the treatment of Pain relief.,NSAIDs / Analgesics,2,Sarkar Medicine Agency,04/26,130.1,23.19,99.93,Ipca Laboratories Ltd,0.2318985396
+16/08/2024,Moxiford D eye drop,drop,treats bacterial eye infections.,Antibiotics,3,Sarkar Medicine Agency,07/25,90,73.33,24,Leeford Healthcare Ltd,0.7333333333
+16/08/2024,O2 suspension,syrup,an antibiotic medicine that is effective against a wide range of bacterial and parasitic infections.,Antibiotics,2,Sarkar Medicine Agency,02/26,75.5,35.32,48.83,Medley Pharmaceuticals,0.3532450331
+16/08/2024,Citralka liquid,syrup,treats gout and kidney stones.,Gastrointestinal Agents,1,Sarkar Medicine Agency,09/25,115,30.16,80.32,Pfizer Ltd,0.3015652174
+16/08/2024,Nexito plus,tablet,treats anxiety disorders and depression.,Antidepressants,1,Sarkar Medicine Agency,02/26,124,20.01,99.19,Sun Pharmaceutical Industries Ltd,0.2000806452
+16/08/2024,Moxclav BD syp,syrup,"an antibiotic medicine that helps treat bacterial infections of the ear, nose, throatetc.",Antibiotics,2,Sarkar Medicine Agency,06/25,67.53,23.19,51.87,Sun Pharmaceutical Industries Ltd,0.2318969347
+16/08/2024,Colimex,syrup,"treats stomach pain, bloating, abdominal cramps and pain associated with excessive acidity.",Antispasmodic,2,Sarkar Medicine Agency,01/27,61,23.20,46.85,Wallace Pharmaceuticals Pvt Ltd,0.2319672131
+16/08/2024,NS saline,liquid,"an intravenous fluid used for hydration, fluid replacement and other problems.",IV Fluids,6,Sarkar Medicine Agency,05/26,39.04,43.65,22,Baxter India Pvt Ltd,0.4364754098
+16/08/2024,Tyza cream,cream,"treat topical fungal infections like ringworm, jock itch etc.",Antifungals,1,Sarkar Medicine Agency,05/26,88.2,22.39,68.45,Abbott,0.2239229025
+16/08/2024,Amoxyclav 375,tablet,used to treat bacterial infections.,Antibiotics,3,Sarkar Medicine Agency,11/24,356.92,76.15,85.12,Abbott,0.7615151855
+16/08/2024,Darolac mini,liquid,probiotic food.,Nutritional supplement,6,Sarkar Medicine Agency,11/24,37.5,23.17,28.81,Aristo Pharmaceuticals Pvt Ltd,0.2317333333
+16/08/2024,Mefkind DS,syrup,used to treat aches and pains.,NSAIDs / Analgesics,2,Sarkar Medicine Agency,05/26,55.62,35.33,35.97,Mankind Pharma Ltd,0.3532901834
+16/08/2024,Pan 40 Injection,injection,"treatment of Acidity, Acid reflux,Peptic ulcer disease etc.",Antacid,5,Sarkar Medicine Agency,11/25,56.5,59.98,22.61,Alkem Laboratories Ltd,0.5998230088
+16/08/2024,Sumo L,drop,ease pain and bring down high body temperature (fever),NSAIDs / Analgesics,2,Sarkar Medicine Agency,12/25,33,22.39,25.61,Alkem Laboratories Ltd,0.2239393939
+16/08/2024,Xone,injection,an antibiotic used to treat bacterial infections.,Antibiotics,6,Sarkar Medicine Agency,09/26,69.87,59.98,27.96,Alkem Laboratories Ltd,0.5998282525
+16/08/2024,Pan D,capsule,"treatment of Acidity, Acid reflux,Peptic ulcer disease etc.",Antacid,1,Sarkar Medicine Agency,01/26,231,23.20,177.41,Alkem Laboratories Ltd,0.231991342
+16/08/2024,Taxim Injection,injection,an antibiotic used to treat bacterial infections.,Antibiotics,6,Sarkar Medicine Agency,07/26,44.75,30.15,31.26,Alkem Laboratories Ltd,0.301452514
+16/08/2024,Taxim OF,tablet,an antibiotic used to treat bacterial infections.,Antibiotics,2,Sarkar Medicine Agency,12/25,175,30.15,122.23,Alkem Laboratories Ltd,0.3015428571
+16/08/2024,Meftal spas,tablet,provides relief from menstrual (period-related) pain and cramps.,NSAIDs / Analgesics,4,Sarkar Medicine Agency,02/27,50,30.14,34.93,Blue Cross Laboratories Ltd,0.3014
+16/08/2024,RL,liquid,used in short term fluid replacement that replenishes salt and electrolyte levels in the body.,IV Fluids,6,Sarkar Medicine Agency,,54.44,53.43,25.35,Shree KrishnaKeshav Laboratories Ltd,0.5343497428
+16/08/2024,Stamlo,tablet,"treats heart-related chest pain,Hypertension ,arrhythmia etc.",Antihypertensives,1,Sarkar Medicine Agency,09/26,83.9,23.21,64.43,Dr Reddy's Laboratories Ltd,0.2320619785
+16/08/2024,Surfaz SN,cream,used to treat skin infections caused by microorganisms such as bacteria and fungi.,Antifungals,1,Sarkar Medicine Agency,,96.3,28.87,68.5,Franco-Indian Pharmaceuticals Pvt Ltd,0.2886812046
+16/08/2024,Rams Infusion Set,infusion set,used for safe and efficient administration of fluids to patients.,IV Fluids,5,Sarkar Medicine Agency,11/28,162,88.94,17.92,Romsons Scientific & Surgical Pvt Ltd,0.889382716
+16/08/2024,Hexigel,gel,used in the treatment of inflammation of gums.,Antiseptics,1,Sarkar Medicine Agency,02/26,68.75,22.39,53.36,Icpa Health Products Ltd,0.2238545455
+24/08/2024,Feriwave Red,syrup,used in the treatment of iron deficiency.,Nutritional supplement,1,Zaman Medicine Agency,05/26,165,59.27,67.2,Smart Laboratories Pvt Ltd,0.5927272727
+24/08/2024,Cheri,syrup,"nutritional supplement containing ferric ammonium citrate 1P, cyanocobalamin IP, and folic acid IP.",Nutritional supplement,1,Zaman Medicine Agency,12/25,190,45.15,104.22,Indchemie Health Specialities Pvt Ltd,0.4514736842
+24/08/2024,Calpol 250 mg,syrup,helps to ease pain and fever.,NSAIDs / Analgesics,2,Zaman Medicine Agency,06/25,45.02,28.85,32.03,Glaxo SmithKline Pharmaceuticals Ltd,0.2885384274
+24/08/2024,Mefkind DS,syrup,used to treat aches and pains.,NSAIDs / Analgesics,2,Zaman Medicine Agency,05/26,55.62,35.33,35.97,Mankind Pharma Ltd,0.3532901834
+24/08/2024,Kit Kat,syrup,"treat a variety of worm infections like pinworm, hookworm, tapeworm, and roundworm.",Anthelmintics,2,Zaman Medicine Agency,01/27,28.56,30.99,19.71,Mapra Laboratories Pvt Ltd,0.3098739496
+24/08/2024,Genoplex L 60 ml,syrup,prescribed to treat vitamin and other nutritional deficiencies.,Nutritional supplement,1,Zaman Medicine Agency,09/25,46,23.65,35.12,Geno Pharmaceuticals Ltd,0.2365217391
+24/08/2024,Genoplex L 200 ml,syrup,prescribed to treat vitamin and other nutritional deficiencies.,Nutritional supplement,1,Zaman Medicine Agency,03/25,96.7,30.08,67.61,Geno Pharmaceuticals Ltd,0.3008273009
+24/08/2024,Omizac-D,capsule,Treats acid reflux and heartburn.,Antacid,1,Zaman Medicine Agency,11/25,125,81.60,23,Torrent Pharmaceuticals Ltd,0.816
+24/08/2024,Moxclav DS,syrup,"antibiotic medicine that helps treat bacterial infections of the ear, nose, throat, chest etc.",Antibiotics,2,Zaman Medicine Agency,03/26,159,33.33,106,Sun Pharmaceutical Industries Ltd,0.3333333333
+24/08/2024,Pan D,capsule,Treats acid reflux and heartburn.,Antacid,1,Zaman Medicine Agency,04/26,231,22.40,179.25,Alkem Laboratories Ltd,0.224025974
+24/08/2024,Nor Metrogyl O,syrup,treats wide range of bacterial and parasitic infections.,Antibiotics,2,Zaman Medicine Agency,02/25,52.86,33.79,35,J B Chemicals and Pharmaceuticals Ltd,0.3378736285
+24/08/2024,Pyrigesic,syrup,painkiller used to treat aches and pains.,NSAIDs / Analgesics,2,Zaman Medicine Agency,11/25,40.99,30.15,28.63,East India Pharmaceutical Works Ltd,0.3015369602
+24/08/2024,Cepodem,syrup,antibiotic that treats wide range of bacterial infections.,Antibiotics,1,Zaman Medicine Agency,09/25,199,30.16,138.99,Sun Pharmaceutical Industries Ltd,0.3015577889
+24/08/2024,ATM 100,syrup,antibiotic that treats wide range of bacterial infections.,Antibiotics,1,Zaman Medicine Agency,01/26,57.29,30.16,40.01,Indoco Remedies Ltd,0.30162332
+24/08/2024,ATM XL,syrup,antibiotic that treats wide range of bacterial infections.,Antibiotics,1,Zaman Medicine Agency,11/25,114.24,29.95,80.03,Indoco Remedies Ltd,0.2994572829
+24/08/2024,Drep wax,drop,used to treat pain in the ear and soften ear wax.,Ear Care,1,Zaman Medicine Agency,02/26,112,22.39,86.92,DWD Pharmaceuticals Ltd,0.2239285714
+24/08/2024,Telvas 3D,tablet,treat hypertension when a single medication is not effective.,Antihypertensives,1,Zaman Medicine Agency,02/26,114,22.39,88.47,Aristo Pharmaceuticals Pvt Ltd,0.2239473684
+24/08/2024,Pan MPS syp,syrup,"helpful in treating acidity, heartburn and stomach ulcers.",Antacid,1,Zaman Medicine Agency,05/27,114,35.33,73.72,Alkem Laboratories Ltd,0.3533333333
+24/08/2024,Aculip H 20,tablet,treats depression associated with anxiety.,Antidepressants,1,Zaman Medicine Agency,11/26,97.4,21.60,76.36,Shine Pharmaceuticals Ltd,0.2160164271
+24/08/2024,Tricutis 200,capsule,an antifungal medication that kills fungi.,Antifungals,2,Zaman Medicine Agency,08/25,247.74,61.65,95.01,Torrent Pharmaceuticals Ltd,0.6164930976
+27/08/2024,Cefuway 500,tablet,antibiotic used to treat bacterial infections in body.,Antibiotics,2,Zaman Medicine Agency,05/26,330,49.66,166.13,Smartway Wellness,0.4965757576
+27/08/2024,Cefuway 250,tablet,antibiotic used to treat bacterial infections in body.,Antibiotics,2,Zaman Medicine Agency,12/25,175,52.00,84,Smartway Wellness,0.52
+27/08/2024,Podoxim 200,tablet,antibiotic used to treat bacterial infections in your body.,Antibiotics,3,Zaman Medicine Agency,10/25,189.7,57.83,80,Smartway Wellness,0.5782814971
+27/08/2024,Cefkem OF,tablet,antibiotics to treat various bacterial infections.,Antibiotics,4,Zaman Medicine Agency,11/24,165,55.76,73,Alkem Laboratories Ltd,0.5575757576
+27/08/2024,Feriwave Red,syrup,treats iron deficiency in body.,Nutritional supplement,1,Zaman Medicine Agency,05/26,165,59.27,67.2,Smart Laboratories Pvt Ltd,0.5927272727
+27/08/2024,Etodash TH,tablet,effective relief from muscular pain while also relaxing the muscles.,NSAIDs / Analgesics,2,Zaman Medicine Agency,09/24,150,62.67,56,Olamic Healthcare,0.6266666667
+27/08/2024,Nasoclear drop,drop,provides a natural way to soothe dryness in nose.,Cold & Allergy Medicine,2,Zaman Medicine Agency,01/27,64.35,28.61,45.94,Zydus Cadila,0.2860916861
+27/08/2024,Zerodol CR 10,tablet,"used in the treatment of Fever,Pain relief,Headache,Dental pain,Post operative pain etc.",NSAIDs / Analgesics,2,Zaman Medicine Agency,11/25,100,21.85,78.15,Ipca Laboratories Ltd,0.2185
+27/08/2024,Pan D,capsule,Treats acid reflux and heartburn.,Antacid,1,Zaman Medicine Agency,04/26,231,22.40,179.25,Alkem Laboratories Ltd,0.224025974
+27/08/2024,Sevista 60,tablet,used as an oral contraceptive pill.,Oral Contraceptives,1,Zaman Medicine Agency,05/26,472,21.60,370.04,Torrent Pharmaceuticals Ltd,0.2160169492
+27/08/2024,Lizomac,tablet,an antibiotic that stops bacterial growth,Antibiotics,1,Zaman Medicine Agency,03/27,399.39,22.38,310,Macleods Pharmaceuticals Pvt Ltd,0.2238163199
+27/08/2024,Bilasure M,tablet,"provides relief from allergic symptoms such as blocked or runny nose, sneezing etc.",Cold & Allergy Medicine,1,Zaman Medicine Agency,03/26,189,22.40,146.67,Sun Pharmaceutical Industries Ltd,0.223968254
+27/08/2024,Citizd,tablet,relieves the symptoms of allergy.,Cold & Allergy Medicine,10,Zaman Medicine Agency,04/26,16.6,87.95,2,Medley Pharmaceuticals,0.8795180723
+07/08/2024,Taxim injection,injection,an antibiotic medicine used to treat bacterial infections in the body.,Antibiotics,3,Zaman Medicine Agency,08/26,44.75,30.19,31.24,Alkem Laboratories Ltd,0.3018994413
+07/08/2024,Taxim injection,injection,an antibiotic medicine used to treat bacterial infections in the body.,Antibiotics,3,Zaman Medicine Agency,08/26,18.8,26.60,13.8,Alkem Laboratories Ltd,0.2659574468
+07/08/2024,Moxclav 156.25,syrup,"antibiotic that treats bacterial infections of the ear, nose, throat, chest etc.",Antibiotics,2,Zaman Medicine Agency,05/25,68.88,18.03,56.46,Sun Pharmaceutical Industries Ltd,0.1803135889
+07/08/2024,Cypon Syp,syrup,used to treat loss of appetite.,Appetite Stimulant,1,Zaman Medicine Agency,03/27,136,30.15,94.99,Geno Pharmaceuticals Ltd,0.3015441176
+07/08/2024,Biogesic-AP,syrup,"used for short term relief of pain, inflammation, and swelling in joints and muscles.",NSAIDs / Analgesics,6,Zaman Medicine Agency,02/25,80.15,80.04,16,Biochem Pharmaceutical Industries,0.8003742982
+07/08/2024,Zerodol P,tablet,used in the treatment of Pain relief.,NSAIDs / Analgesics,2,Zaman Medicine Agency,02/26,73,22.40,56.65,Ipca Laboratories Ltd,0.2239726027
+07/08/2024,Gerbisa,tablet,treats recent or long-term constipation.,Laxatives,5,Zaman Medicine Agency,12/25,13.1,22.44,10.16,Zydus Cadila,0.2244274809
+07/08/2024,Azithral XL,syrup,an antibiotic medication.,Antibiotics,1,Zaman Medicine Agency,12/25,114.56,22.40,88.9,Alembic Pharmaceuticals Ltd,0.2239874302
+07/08/2024,Metrogyl DG,gel,treats mouth infection.,Antibiotics,1,Zaman Medicine Agency,03/26,74.76,22.38,58.03,J B Chemicals and Pharmaceuticals Ltd,0.2237827715
+07/08/2024,Thrombophob gel,gel,treat thrombophlebitis.,Anticoagulants,1,Zaman Medicine Agency,04/27,207.6,22.40,161.1,Zydus Cadila,0.2239884393
+07/08/2024,Omez,capsule,treats acidity.,Antacid,2,Zaman Medicine Agency,03/27,64.2,23.19,49.31,Dr Reddy's Laboratories Ltd,0.2319314642
+07/08/2024,Evion 400,capsule,vitamin E supplement with antioxidant and anti-inflammatory properties.,Nutritional supplement,2,Zaman Medicine Agency,06/26,86.87,22.39,67.42,Procter & Gamble Health Ltd,0.2238977783
+07/08/2024,Ibugesic plus,syrup,helps lower body temperature (fever) and reduce pain and inflammation,NSAIDs / Analgesics,2,Zaman Medicine Agency,10/26,39.44,30.17,27.54,Cipla Ltd,0.3017241379
+07/08/2024,Zyrcold syp,syrup,treats cough.,Cough Syrup,1,Zaman Medicine Agency,06/25,105,21.83,82.08,Dr Reddy's Laboratories Ltd,0.2182857143
+07/08/2024,Mefkind DS,syrup,treat aches and pains.,NSAIDs / Analgesics,2,Zaman Medicine Agency,11/25,50.57,35.34,32.7,Mankind Pharma Ltd,0.3533715642
+07/08/2024,Ambrodil S,syrup,treats cough.,Cough Syrup,2,Zaman Medicine Agency,08/26,36.15,30.12,25.26,Aristo Pharmaceuticals Pvt Ltd,0.3012448133
+10/08/2024,Multiblist,syrup,"multivitamin and mineral supplement, enriched with Zinc.",Nutritional supplement,3,Zaman Medicine Agency,07/25,140,61.23,54.28,Smartway Wellness,0.6122857143
+10/08/2024,Cyprovita,syrup,used to treat loss of appetite.,Appetite Stimulant,3,Zaman Medicine Agency,02/26,140,63.20,51.52,Biocare Remedies,0.632
+10/08/2024,Nor Metrogyl TZ,tablet,antibiotics that effectively treat diarrhea and dysentery.,Antibiotics,2,Zaman Medicine Agency,11/32,106.37,69.91,32.01,J B Chemicals and Pharmaceuticals Ltd,0.6990692865
+10/08/2024,Liv 52 DS,syrup,protects the liver against alcohol toxicity.,Gastrointestinal Agents,1,Zaman Medicine Agency,12/26,195,25.31,145.65,Himalaya Wellness Company,0.2530769231
+10/08/2024,O2 suspension,syrup,antibiotic that treats bacterial and parasitic infections.,Antibiotics,2,Zaman Medicine Agency,03/26,75,34.91,48.82,Medley Pharmaceuticals,0.3490666667
+10/08/2024,Liv 52 drop,drop,known to exhibit potent hepatoprotective properties against infective hepatitis.,Gastrointestinal Agents,1,Zaman Medicine Agency,08/26,125,25.32,93.35,Himalaya Wellness Company,0.2532
+10/08/2024,Maxtra,drop,"relieves symptoms of common cold in children like blocked nose, runny nose, watery eyes.",Cold & Allergy Medicine,2,Zaman Medicine Agency,02/26,100,34.94,65.06,Zuventus Healthcare Ltd,0.3494
+10/08/2024,Socril,tablet,multivitamin supplement that contains iron.,Nutritional supplement,1,Zaman Medicine Agency,05/25,234,21.60,183.46,Sun Pharmaceutical Industries Ltd,0.215982906
+10/08/2024,Sumo L,drop,relieve pain and fever.,NSAIDs / Analgesics,2,Zaman Medicine Agency,04/26,33,28.64,23.55,Alkem Laboratories Ltd,0.2863636364
+10/08/2024,Mucolite,drop,treats wet cough.,Cough Syrup,2,Zaman Medicine Agency,12/25,40.98,22.38,31.81,Dr Reddy's Laboratories Ltd,0.2237676916
+10/08/2024,Omnacortil drop,drop,treats wide range of allergic reactions and inflammation in the body,Steroids,2,Zaman Medicine Agency,09/26,44.25,21.58,34.7,Macleods Pharmaceuticals Pvt Ltd,0.215819209
+10/08/2024,Cefiwok O,tablet,used to treat various types of bacterial infections.,Antibiotics,3,Zaman Medicine Agency,12/25,175,57.71,74,Dr Reddy's Laboratories Ltd,0.5771428571
+10/08/2024,Cetritreat LM,tablet,relief from allergy symptoms.,Cold & Allergy Medicine,10,Zaman Medicine Agency,12/25,110,84.73,16.8,Smartway Wellness,0.8472727273
+10/08/2024,Zenovit,capsule,nutritional supplement.,Nutritional supplement,2,Zaman Medicine Agency,10/25,120,87.49,15.01,Zen Labs India,0.8749166667
+10/08/2024,Clobeta GM,cream,treats fungal infections.,Antifungals,3,Zaman Medicine Agency,11/25,67,85.07,10,Laborate Pharmaceuticals India Ltd,0.8507462687
+10/08/2024,Nock 2 mg,tablet,relieves pain.,NSAIDs / Analgesics,2,Zaman Medicine Agency,10/26,71.25,34.65,46.56,Wanbury Ltd,0.3465263158
+10/08/2024,Cepodem,syrup,an antibiotic medicine used to treat bacterial infections in the body.,Antibiotics,1,Zaman Medicine Agency,08/25,102,30.16,71.24,Sun Pharmaceutical Industries Ltd,0.3015686275
+10/08/2024,Toba eye drop,drop,an antibiotic medicine that is used to treat bacterial infections of the eye.,Antibiotics,1,Zaman Medicine Agency,02/26,125,21.60,98,Sun Pharmaceutical Industries Ltd,0.216
+10/08/2024,Ascoril D junior,syrup,"suppresses dry, hacking coughs.",Cough Syrup,1,Zaman Medicine Agency,07/25,107,27.57,77.5,Glenmark Pharmaceuticals Ltd,0.2757009346
+10/08/2024,Methergin,tablet,"used to control bleeding from the uterus, that may occur after childbirth or an abortion.",Anticoagulants,1,Zaman Medicine Agency,10/26,100,21.60,78.4,Dr Reddy's Laboratories Ltd,0.216
+10/08/2024,Nebracin,cream,an antibiotic medicine that is used to treat bacterial infections of the eye.,Antibiotics,1,Zaman Medicine Agency,05/25,62,20.00,49.6,Sunways India Pvt Ltd,0.2
+10/08/2024,Sternon G,gel,combination of antibiotics and steroids used to treat bacterial skin infections.,Antibiotics,1,Zaman Medicine Agency,01/26,103,20.01,82.39,Palsons Derma Pvt Ltd,0.2000970874
+10/08/2024,Baby wipes,wipes,wipes for baby hygiene.,Infant Skin Care,1,Zaman Medicine Agency,09/25,99,22.84,76.39,Piramal,0.2283838384
+10/08/2024,Drep ear drop,drop,treat infections in the ear caused by bacteria and fungus.,Ear Care,2,Zaman Medicine Agency,09/25,96,29.43,67.75,DWD Pharmaceuticals Ltd,0.2942708333
+10/08/2024,Drep wax,drop,softens ear wax.,Ear Care,2,Zaman Medicine Agency,02/26,112,22.40,86.91,DWD Pharmaceuticals Ltd,0.2240178571
+04/02/2025,Etoshine MR,tablet,used in the treatment of pain due to muscle spasms.,NSAIDs / Analgesics,1,Zaman Medicine Agency,08/26,299,22.40,232.02,Sun Pharmaceutical Industries Ltd,0.2240133779
+04/02/2025,Thyronorm,tablet,used to treat hypothyroidism.,Thyroid Hormone Replacement,1,Zaman Medicine Agency,12/25,192.89,22.40,149.69,Abbott,0.2239618435
+04/02/2025,Volitra gel,gel,gives fast relief from pain and swelling in the muscles and joints.,NSAIDs / Analgesics,1,Zaman Medicine Agency,04/25,148,26.95,108.11,Sun Pharmaceutical Industries Ltd,0.269527027
+04/02/2025,Rzole DSR,capsule,treats acidity and acid reflux.,Antacid,2,Zaman Medicine Agency,09/25,105.87,83.94,17,Abbott,0.8394257108
+03/02/2025,Cheri syrup,syrup,"manages anaemia, boosts energy levels and overall wellbeing. ",Nutritional supplement,1,Zaman Medicine Agency,06/25,190,40.93,112.24,Indchemie Health Specialities Pvt Ltd,0.4092631579
+03/02/2025,Multiblist,syrup,multivitamin and mineral supplement enriched with zinc.,Nutritional supplement,2,Zaman Medicine Agency,08/26,140,61.23,54.28,Smartway Wellness,0.6122857143
+03/02/2025,Bevon,syrup,"enriched with minerals, multivitamins and antioxidants to help meet nutritional needs.",Nutritional supplement,1,Zaman Medicine Agency,10/25,201.4,35.33,130.24,Zuventus Healthcare Ltd,0.353326713
+03/02/2025,Surcalfate O,syrup,"used in the treatment of acidity, stomach ulcer, and heartburn.",Antacid,1,Zaman Medicine Agency,09/25,230,73.04,62,Strassenburg Pharmaceuticals.Ltd,0.7304347826
+03/02/2025,Augpen HS,syrup,"antibiotic medicine that helps treat bacterial infections of the ear, nose, throat, chest etc.",Antibiotics,2,Zaman Medicine Agency,04/26,67.87,30.16,47.4,Zuventus Healthcare Ltd,0.3016060115
+03/02/2025,Omnacortil,syrup,used to treat inflammatory and allergic conditions.,Steroids,2,Zaman Medicine Agency,03/27,32.92,22.39,25.55,Macleods Pharmaceuticals Pvt Ltd,0.2238760632
+03/02/2025,Nor metrogyl O,syrup,antibiotic medicine for wide range of bacterial and parasitic infections.,Antibiotics,2,Zaman Medicine Agency,02/26,58.11,39.77,35,J B Chemicals and Pharmaceuticals Ltd,0.3976940286
+03/02/2025,Naxdom 500,tablet,blocks chemicals responsible for pain sensation and prevents nausea/vomiting associated with migraines.,Antimigraine Agents,1,Zaman Medicine Agency,07/27,171,22.40,132.7,Sun Pharmaceutical Industries Ltd,0.2239766082
+03/02/2025,Metlin NT,tablet,used to treat long-lasting (chronic) pain caused by nerve damage.,Neuropathy Agents,1,Zaman Medicine Agency,07/26,398.61,19.99,318.94,Alteus Biogenics Pvt Ltd,0.1998695467
+03/02/2025,Calguard D3 max,capsule,ensures the adequate supply of calcium to bones.,Nutritional supplement,1,Zaman Medicine Agency,05/26,230,19.99,184.03,Sycap Pharma,0.1998695652
+03/02/2025,Ovral L 21,tablet,used for contraception (to prevent pregnancy) and in the treatment of irregular periods.,Oral Contraceptives,1,Zaman Medicine Agency,05/26,66.5,16.39,55.6,Pfizer Ltd,0.1639097744
+03/02/2025,Migrabeta Plus,tablet,improve the flow of blood in brain and prevents migraines.,Antiplatelets,1,Zaman Medicine Agency,06/25,155,21.60,121.52,Alkem Laboratories Ltd,0.216
+03/02/2025,Aztor 20,tablet,used to lower cholesterol and to reduce the risk of heart diseases.,Antiplatelets,2,Zaman Medicine Agency,08/27,210.84,22.40,163.61,Sun Pharmaceutical Industries Ltd,0.224008727
+03/02/2025,Cogmentin 5,tablet,used to treat Alzheimer's disease.,Cognitive Enhancers,1,Zaman Medicine Agency,08/26,289.41,20.00,231.52,Alteus Biogenics Pvt Ltd,0.2000276424
+03/02/2025,Amaryl 1mg,tablet,an antidiabetic medication.,Antidiabetic Medications,1,Zaman Medicine Agency,05/27,124.32,21.61,97.46,Sanofi India Ltd,0.2160553411
+03/02/2025,Amaryl 2mg,tablet,an antidiabetic medication.,Antidiabetic Medications,1,Zaman Medicine Agency,07/27,194.54,21.60,152.52,Sanofi India Ltd,0.2159967102
+03/02/2025,Calcidoc 500,tablet,treats low calcium levels in the body.,Nutritional supplement,1,Zaman Medicine Agency,06/26,105,90.47,10.01,Morepen Laboratories Ltd,0.9046666667
+03/02/2025,P 40 DSR,capsule,"treats Acid reflux, indigestion etc.",Antacid,2,Zaman Medicine Agency,09/25,175,90.29,17,Cachet Pharmaceuticals Pvt Ltd,0.9028571429
+31/01/2025,B-PROTIN,powder,"a nutritional powder supplement that contains a blend of whey, soy, and casein proteins.",Nutritional supplement,1,Zaman Medicine Agency,07/26,305,22.40,236.69,British Biologicals,0.2239672131
+31/01/2025,Budecort repulses,nebulizer inhaler,prevents the symptoms of asthma.,Cold & Allergy Medicine,5,Zaman Medicine Agency,05/26,26.65,22.40,20.68,Cipla Ltd,0.2240150094
+31/01/2025,Levoline 0.31 rfsp,nebulizer inhaler,"treats asthma and COPD such as coughing, wheezing and breathlessness.",Cold & Allergy Medicine,5,Zaman Medicine Agency,02/26,5.94,22.56,4.6,Cipla Ltd,0.2255892256
+31/01/2025,Bioline,pregnancy kit,used to confirm pregnency at home.,Pregnancy Test,5,Zaman Medicine Agency,09/26,55,81.80,10.01,A.C.P,0.818
+31/01/2025,V-Total,tablet,"contribute to overall health, including eye health, skin health, and metabolism regulation.",Nutritional supplement,1,Zaman Medicine Agency,11/25,115,22.39,89.25,Aristo Pharmaceuticals Pvt Ltd,0.2239130435
+31/01/2025,Janumet 50/500,tablet,control high blood sugar levels in people with type 2 diabetes mellitus.,Antidiabetic Medications,1,Zaman Medicine Agency,05/26,375,21.60,294,MSD Pharmaceuticals Pvt Ltd,0.216
+31/01/2025,Amlokind,tablet,treats high blood pressure.,Antihypertensives,2,Zaman Medicine Agency,02/27,24.83,22.35,19.28,Mankind Pharma Ltd,0.2235199356
+31/01/2025,Unwanted 72,tablet,emergency contraceptive tablet used to prevent unwanted pregnancy.,Oral Contraceptives,4,Zaman Medicine Agency,08/26,110.8,73.74,29.1,Mankind Pharma Ltd,0.7373646209
+01/02/2025,Alkaston B6,syrup,used to prevent and treat kidney stones and promote optimal kidney health.,Gastrointestinal Agents,1,Zaman Medicine Agency,01/26,229.55,21.60,179.96,Ipca Laboratories Ltd,0.2160313657
+01/02/2025,Calpol 650 mg,tablet,prevents fever and pain.,NSAIDs / Analgesics,6,Zaman Medicine Agency,07/26,33.6,30.15,23.47,Glaxo SmithKline Pharmaceuticals Ltd,0.3014880952
+01/02/2025,Darkroom Chocolate ultrathin,condom,used for protected intercourse. not used orally.,Barrier Contraceptives,3,Zaman Medicine Agency,03/27,30,55.00,13.5,Smart Laboratories Pvt Ltd,0.55
+01/02/2025,Moxclav drop,drop,"antibiotic medicine that helps treat bacterial infections of the ear, nose, throat, chest etc.",Antibiotics,2,Zaman Medicine Agency,12/25,101,22.40,78.38,Sun Pharmaceutical Industries Ltd,0.223960396
+01/02/2025,Tixylix,syrup,treats dry cough.,Cough Syrup,2,Zaman Medicine Agency,03/26,112.53,22.39,87.33,Abbott,0.2239402826
+01/02/2025,Criz-M,syrup,"treats allergic symptoms such as runny nose, stuffy nose, sneezing.",Cold & Allergy Medicine,1,Zaman Medicine Agency,10/26,106,30.15,74.04,Alkem Laboratories Ltd,0.301509434
+01/02/2025,Calcidoc 500,tablet,"treats various conditions caused by low calcium levels in the body, such as osteoporosis.",Nutritional supplement,1,Zaman Medicine Agency,06/26,105,90.47,10.01,Morepen Laboratories Ltd,0.9046666667
+17/01/2025,Feronia XT,tablet,transport oxygen throughout the body and maintains red blood cells.,Nutritional supplement,1,Zaman Medicine Agency,05/26,270.6,30.16,188.98,Zuventus Healthcare Ltd,0.3016260163
+17/01/2025,Monocef O CV 200,tablet,This medication is used to treat bacterial infection.,Antibiotics,1,Zaman Medicine Agency,03/26,370,35.33,239.27,Aristo Pharmaceuticals Pvt Ltd,0.3533243243
+17/01/2025,Shelcal XT,tablet,nutritional supplement used to prevent low blood calcium levels.,Nutritional supplement,1,Zaman Medicine Agency,07/26,429,22.40,332.9,Torrent Pharmaceuticals Ltd,0.224009324
+17/01/2025,Enzoflam-SP,tablet,"used for short-term relief of pain, inflammation, and swelling in conditions affecting joints and muscles.",NSAIDs / Analgesics,1,Zaman Medicine Agency,05/26,133,22.40,103.21,Alkem Laboratories Ltd,0.2239849624
+17/01/2025,Gemer DS 2,tablet,treat type 2 diabetes mellitus in adults.,Antidiabetic Medications,1,Zaman Medicine Agency,09/26,225,22.40,174.59,Sun Pharmaceutical Industries Ltd,0.2240444444
+17/01/2025,Chymoral forte,tablet,used in the treatment of pain and inflammation.,NSAIDs / Analgesics,1,Zaman Medicine Agency,09/27,476,22.40,369.38,Torrent Pharmaceuticals Ltd,0.2239915966
+17/01/2025,P 40 DSR,capsule,treats acid reflux and indigestion.,Antacid,2,Zaman Medicine Agency,09/25,175,90.29,17,Cachet Pharmaceuticals Pvt Ltd,0.9028571429
+17/01/2025,Supra power 4G,capsule,nutritional supplement.,Nutritional supplement,1,Zaman Medicine Agency,08/26,240,81.25,45,Innovative Pharma,0.8125
+17/01/2025,Walyte P 4.2G,powder,retrieves electrolytes in body fluid.,ORS,10,Zaman Medicine Agency,07/27,5.07,30.18,3.54,Wallace Pharmaceuticals Pvt Ltd,0.3017751479
+21/11/2024,Voveran Plus,tablet,helps in relieving pain.,NSAIDs / Analgesics,2,Zaman Medicine Agency,12/25,71.25,21.84,55.69,Novartis India Ltd,0.2183859649
+21/11/2024,Cetritreat LM,tablet,antihistamine that effectively alleviates symptoms associated with allergic conditions.,Cold & Allergy Medicine,6,Zaman Medicine Agency,10/25,110,84.73,16.8,Smartway Wellness,0.8472727273
+21/11/2024,Step Up liquid,liquid,"treats allergic conditions,Vertigo,Appetite stimulant,Morning sickness etc.",Cold & Allergy Medicine,1,Zaman Medicine Agency,01/27,165,27.24,120.05,Emcee Pharmaceuticals Pvt Ltd,0.2724242424
+21/11/2024,Pyrigesic,drop,relieves pain and fever.,NSAIDs / Analgesics,2,Zaman Medicine Agency,06/26,30.1,29.50,21.22,East India Pharmaceutical Works Ltd,0.2950166113
+21/11/2024,Dicoliv gel,gel,"effective pain relief in sprains and strains, inflammation.",NSAIDs / Analgesics,5,Zaman Medicine Agency,10/25,37.95,73.65,10,Ind Swift Laboratories Ltd,0.7364953887
+21/11/2024,P 500,tablet,relieve pain and fever.,NSAIDs / Analgesics,10,Zaman Medicine Agency,07/27,15.12,28.84,10.76,Apex Laboratories Pvt Ltd,0.2883597884
+21/11/2024,P 250,tablet,relieve pain and fever.,NSAIDs / Analgesics,2,Zaman Medicine Agency,06/27,17.4,22.36,13.51,Apex Laboratories Pvt Ltd,0.2235632184
+21/11/2024,Megamentin 625,tablet,antibiotics to treat various bacterial infections.,Antibiotics,2,Zaman Medicine Agency,12/24,223.4,66.42,75.01,Intas Pharmaceuticals Ltd,0.6642345568
+21/11/2024,Kofset softgel,capsule,relieves cough.,Cough Syrup,2,Zaman Medicine Agency,02/26,54,62.96,20,Amwin Pharmaceuticals,0.6296296296
+21/11/2024,Calpol 650 mg,tablet,relieves fever and pain.,NSAIDs / Analgesics,6,Zaman Medicine Agency,06/26,33.6,30.15,23.47,Glaxo SmithKline Pharmaceuticals Ltd,0.3014880952
+21/11/2024,Parasafe 650,tablet,relieves fever and pain.,NSAIDs / Analgesics,2,Zaman Medicine Agency,08/27,33.76,30.12,23.59,Strassenburg Pharmaceuticals.Ltd,0.3012440758
+21/11/2024,Zanocin plus,tablet,used to treat various types of bacterial infections.,Antibiotics,2,Zaman Medicine Agency,06/26,185,28.86,131.6,Sun Pharmaceutical Industries Ltd,0.2886486486
+21/11/2024,Elosone-HT cream,cream,treats melasma (dark spots on skin).,Steroids,2,Zaman Medicine Agency,02/26,135,76.29,32.01,Leeford Healthcare Ltd,0.7628888889
+21/11/2024,Dermiford,cream,treat bacterial and fungal infections in skin.,Antifungals,1,Zaman Medicine Agency,06/26,100,72.00,28,Leeford Healthcare Ltd,0.72
+21/11/2024,KZ lotion,cream,an antifungal medicine.,Antifungals,1,Zaman Medicine Agency,08/26,305,22.40,236.68,Hegde and Hegde Pharmaceutical LLP,0.224
+21/11/2024,Vasograin,tablet,prevent and treat migraine.,Antimigraine Agents,1,Zaman Medicine Agency,06/26,211.4,22.39,164.06,Cadila Pharmaceuticals Ltd,0.223935667
+21/11/2024,Monotax O 200,tablet,antibiotic medicine used to treat bacterial infections in the body.,Antibiotics,2,Zaman Medicine Agency,03/26,151,35.33,97.65,Zydus Healthcare Limited,0.3533112583
+21/11/2024,Monotax CV 200,tablet,antibiotic medicine used to treat bacterial infections in the body.,Antibiotics,2,Zaman Medicine Agency,09/25,272,35.29,176.01,Zydus Healthcare Limited,0.3529044118
+21/11/2024,xone-o,tablet,used to treat various types of bacterial infections.,Antibiotics,1,Zaman Medicine Agency,01/26,308,22.40,239,Alkem Laboratories Ltd,0.224025974
+21/11/2024,Stiloz 100,tablet,treats pain in legs due to insufficient blood flow.,Neuropathy Agents,1,Zaman Medicine Agency,06/26,692,19.94,554,Integrace Pvt Ltd,0.1994219653
+22/11/2024,Taxim injection,injection,an antibiotic medicine used to treat bacterial infections in the body.,Antibiotics,6,Zaman Medicine Agency,02/26,44.75,30.19,31.24,Alkem Laboratories Ltd,0.3018994413
+22/11/2024,Biogesic-AP,syrup,"short term relief of pain, inflammation, and swelling in joints and muscles.",NSAIDs / Analgesics,3,Zaman Medicine Agency,04/26,80.15,75.05,20,Biochem Pharmaceutical Industries,0.7504678727
+22/11/2024,Acemiz Plus,tablet,"short term relief of pain, inflammation, and swelling in joints and muscles.",NSAIDs / Analgesics,6,Zaman Medicine Agency,03/26,99.5,84.92,15,Lupin Ltd,0.8492462312
+22/11/2024,Delpocure 100,syrup,an antibiotic that stops bacterial growth.,Antibiotics,1,Zaman Medicine Agency,11/25,184.8,28.72,131.72,Delcure Life Sciences,0.2872294372
+22/11/2024,Moxclav DS,syrup,antibiotic medicine that helps treat bacterial infections.,Antibiotics,2,Zaman Medicine Agency,05/26,159,35.33,102.82,Sun Pharmaceutical Industries Ltd,0.3533333333
+22/11/2024,Moxclav drop,drop,antibiotic medicine that helps treat bacterial infections.,Antibiotics,2,Zaman Medicine Agency,11/25,101,22.40,78.38,Sun Pharmaceutical Industries Ltd,0.223960396
+22/11/2024,Moxclav BD syp,syrup,antibiotic medicine that helps treat bacterial infections.,Antibiotics,2,Zaman Medicine Agency,11/25,62.53,16.20,52.4,Sun Pharmaceutical Industries Ltd,0.1620022389
+22/11/2024,Ambrodil S,syrup,used in the treatment of cough.,Cough Syrup,2,Zaman Medicine Agency,01/27,36.15,27.99,26.03,Aristo Pharmaceuticals Pvt Ltd,0.279944675
+27/01/2025,O2 suspension,syrup,antibiotic medicine that is effective against a wide range of bacterial and parasitic infections.,Antibiotics,2,Zaman Medicine Agency,08/27,75.5,35.34,48.82,Medley Pharmaceuticals,0.3533774834
+27/01/2025,O2 tablet,tablet,antibiotic medicine that is effective against a wide range of bacterial and parasitic infections.,Antibiotics,1,Zaman Medicine Agency,07/28,189,30.15,132.01,Medley Pharmaceuticals,0.3015343915
+27/01/2025,Taxim O 200,tablet,antibiotic used to treat a variety of bacterial infections.,Antibiotics,1,Zaman Medicine Agency,07/26,109.49,22.40,84.96,Alkem Laboratories Ltd,0.224038725
+27/01/2025,Metrogyl 400,tablet,antibiotic prevent an infection after surgery.,Antibiotics,3,Zaman Medicine Agency,08/28,34.04,15.51,28.76,J B Chemicals and Pharmaceuticals Ltd,0.1551116334
+27/01/2025,Deviry 10,tablet,contains progesterone that is important in the regulation of ovulation and menstruation.,Progestin,2,Zaman Medicine Agency,06/27,69.88,22.32,54.28,Torrent Pharmaceuticals Ltd,0.2232398397
+27/01/2025,Candid CL suppository,tablet,treat various types of vaginal infections.,Antifungals,1,Zaman Medicine Agency,07/26,174,22.41,135.01,Glenmark Pharmaceuticals Ltd,0.2240804598
+27/01/2025,Pause 500,tablet,prevent or reduce heavy bleeding post surgery and in conditions such as heavy periods.,Anticoagulants,1,Zaman Medicine Agency,08/28,194.67,22.40,151.07,Emcure Pharmaceuticals Ltd,0.2239687677
+27/01/2025,Neopeptine,syrup,boosts digestive system.,Nutritional supplement,1,Zaman Medicine Agency,01/26,132,22.39,102.44,Raptakos Brett & Co Ltd,0.2239393939
+27/01/2025,Metrogyl DG,gel,treatment of mouth infection.,Antibiotics,1,Zaman Medicine Agency,01/26,74.76,22.39,58.02,J B Chemicals and Pharmaceuticals Ltd,0.2239165329
+27/01/2025,Omee D,capsule,treats acid reflux.,Antacid,3,Zaman Medicine Agency,04/26,190,84.21,30,Alkem Laboratories Ltd,0.8421052632
+27/01/2025,Vitanova D3,drop,treats vitamin D deficiency and osteoporosis.,Nutritional supplement,1,Zaman Medicine Agency,02/26,110.35,30.02,77.22,Zuventus Healthcare Ltd,0.3002265519
+27/01/2025,Criz-M,syrup,"treats allergic symptoms such as runny nose, stuffy nose, sneezing etc.",Cold & Allergy Medicine,1,Zaman Medicine Agency,10/26,106,30.15,74.04,Alkem Laboratories Ltd,0.301509434
+27/01/2025,ZN 20,drop,treat and prevent zinc deficiency.,Nutritional supplement,1,Zaman Medicine Agency,07/26,103,22.41,79.92,Wallace Pharmaceuticals Pvt Ltd,0.2240776699
+27/01/2025,Rantac RD,capsule,treats acid reflux.,Antacid,1,Zaman Medicine Agency,04/26,56.98,30.17,39.79,J B Chemicals and Pharmaceuticals Ltd,0.3016848017
+27/01/2025,Crixan,syrup,an antibiotic medication.,Antibiotics,1,Zaman Medicine Agency,10/26,154.56,21.60,121.17,Sun Pharmaceutical Industries Ltd,0.2160326087
+27/01/2025,Zocef Dry,syrup,"treats bacterial infections of the ear, nose, throat, lungs, skin etc.",Antibiotics,1,Zaman Medicine Agency,01/26,173.78,22.40,134.85,Alkem Laboratories Ltd,0.2240188744
+24/01/2025,Nilmil moong dal,baby food,an ideal complimentary food for infants.,Infant Nutrition / Baby Food,1,A.A.Medical Agency,02/26,288,10.00,259.21,A.C.P,0.09996527778
+24/01/2025,Betadine Lotion,antiseptic solution,an antiseptic and disinfectant lotion.,Antiseptics,1,A.A.Medical Agency,10/26,107.52,17.68,88.51,Win-Medicare Pvt Ltd,0.1768043155
+19/01/2025,Pantolup DSR,capsule,treats acid reflux.,Antacid,3,Zaman Medicine Agency,02/26,125.9,84.11,20,Lupin Ltd,0.8411437649
+19/01/2025,Rzole DSR,capsule,treats acid reflux.,Antacid,5,Zaman Medicine Agency,09/25,105.87,83.94,17,Abbott,0.8394257108
+19/01/2025,Cosvate GM,cream,treats skin infections caused by bacteria and fungi.,Antifungals,3,Zaman Medicine Agency,09/27,38.93,22.37,30.22,Oaknet Healthcare Pvt Ltd,0.2237349088
+19/01/2025,Betnovate GM,cream,treats skin infections caused by bacteria and fungi.,Antifungals,2,Zaman Medicine Agency,11/25,45,21.98,35.11,Glaxo SmithKline Pharmaceuticals Ltd,0.2197777778
+19/01/2025,Ivrea,shampoo,help support scalp care.,Hair Care,1,Zaman Medicine Agency,03/25,123.5,11.27,109.58,Ajanta Pharma Ltd,0.1127125506
+19/01/2025,Forcef CV,tablet,"treat bacterial infections such as ear, sinus, throat etc.",Antibiotics,1,Zaman Medicine Agency,03/26,502,35.33,324.63,Aristo Pharmaceuticals Pvt Ltd,0.3533266932
+23/10/2024,Pan D,capsule,treats acidity and acid reflux.,Antacid,1,Sarkar Medicine Agency,03/26,231,23.20,177.41,Alkem Laboratories Ltd,0.231991342
+23/10/2024,Sorbiline syrup,syrup,"helps to reduce cholesterol levels, thereby improving overall health of the liver.",Lipid-Lowering Agents,1,Sarkar Medicine Agency,03/27,168,28.65,119.87,Franco-Indian Pharmaceuticals Pvt Ltd,0.2864880952
+23/10/2024,Hepamerz,tablet,used in the treatment of liver disease.,Hepatoprotective Agents,1,Sarkar Medicine Agency,12/25,267,22.40,207.19,Win-Medicare Pvt Ltd,0.2240074906
+08/10/2024,Ambrodil S,syrup,used in the treatment of cough.,Cough Syrup,3,Zaman Medicine Agency,09/26,36.15,27.99,26.03,Aristo Pharmaceuticals Pvt Ltd,0.279944675
+08/10/2024,Moxclav BD syp,syrup,"an antibiotic medicine that helps treat bacterial infections of the ear, nose, throat etc.",Antibiotics,2,Zaman Medicine Agency,06/25,67.53,22.38,52.42,Sun Pharmaceutical Industries Ltd,0.2237524063
+08/10/2024,Moxclav 156.25,syrup,"an antibiotic medicine that helps treat bacterial infections of the ear, nose, throat etc.",Antibiotics,1,Zaman Medicine Agency,05/25,68.88,22.42,53.44,Sun Pharmaceutical Industries Ltd,0.2241579559
+08/10/2024,Metrogyl 400,tablet,used to treat and prevent bacterial and parasitic infections.,Anthelmintics,1,Zaman Medicine Agency,06/28,34.04,16.42,28.45,J B Chemicals and Pharmaceuticals Ltd,0.1642185664
+08/10/2024,Volini,gel,pain relief gel.,NSAIDs / Analgesics,1,Zaman Medicine Agency,03/26,44,16.07,36.93,Sun Pharmaceutical Industries Ltd,0.1606818182
+08/10/2024,Diprobate plus,cream,"treats the symptoms of dermatitis such as dry, itchy, swollen skin.",Steroids,1,Zaman Medicine Agency,12/25,83,22.40,64.41,Mepromax Life Sciences Pvt Ltd,0.2239759036
+08/10/2024,Acera D,capsule,treats acidity and acid reflux.,Antacid,1,Zaman Medicine Agency,09/25,143,22.29,111.12,Ipca Laboratories Ltd,0.2229370629
+08/10/2024,Zerodol SP,tablet,"used for short-term relief of pain, inflammation etc.",NSAIDs / Analgesics,1,Zaman Medicine Agency,12/26,139,22.39,107.88,Ipca Laboratories Ltd,0.2238848921
+08/10/2024,Chlormist cool eye drop,drop,relieves burning and discomfort due to dryness of the eye.,Cold & Allergy Medicine,2,Zaman Medicine Agency,12/25,75,68.89,23.33,Smart Laboratories Pvt Ltd,0.6889333333
+08/10/2024,Cepodem XP 100,syrup,treats respiratory tract infections.,Antibiotics,1,Zaman Medicine Agency,07/25,205,22.40,159.08,Sun Pharmaceutical Industries Ltd,0.224
+08/10/2024,Cepodem XP 50,syrup,treats respiratory tract infections.,Antibiotics,1,Zaman Medicine Agency,06/25,130,22.41,100.87,Sun Pharmaceutical Industries Ltd,0.2240769231
+29/01/2025,Ambrodil S,syrup,used in the treatment of cough.,Cough Syrup,3,Zaman Medicine Agency,03/27,36.15,30.15,25.25,Aristo Pharmaceuticals Pvt Ltd,0.3015214385
+29/01/2025,Omee MPS,syrup,"treatment of acidity, bloating.",Antacid,2,Zaman Medicine Agency,02/26,98,67.34,32.01,Alkem Laboratories Ltd,0.6733673469
+29/01/2025,Cyclopam,tablet,treats abdominal pain.,Antispasmodic,2,Zaman Medicine Agency,01/26,60.4,30.15,42.19,Indoco Remedies Ltd,0.3014900662
+29/01/2025,Pan D,capsule,treats acidity and acid reflux.,Antacid,1,Zaman Medicine Agency,08/26,231,22.40,179.25,Alkem Laboratories Ltd,0.224025974
+29/01/2025,Famocid 40,tablet,"treats acid reflux,Peptic ulcer disease,Heartburn.",Anti-ulcer Agents,6,Zaman Medicine Agency,08/27,11.5,22.35,8.93,Sun Pharmaceutical Industries Ltd,0.2234782609
+29/01/2025,Famocid 20,tablet,"treats acid reflux,Peptic ulcer disease,Heartburn.",Anti-ulcer Agents,6,Zaman Medicine Agency,08/27,6.45,22.33,5.01,Sun Pharmaceutical Industries Ltd,0.223255814
+29/01/2025,Shelcal XT,tablet,treats low blood calcium level.,Nutritional supplement,1,Zaman Medicine Agency,10/26,429,22.39,332.96,Torrent Pharmaceuticals Ltd,0.2238694639
+29/01/2025,Cetritreat LM,tablet,relief from allergy symptoms.,Cold & Allergy Medicine,5,Zaman Medicine Agency,09/26,110,83.03,18.67,Smartway Wellness,0.8302727273
+29/01/2025,Zanocin OZ,tablet,antibiotic that treats bacterial and parasitic infections.,Anthelmintics,1,Zaman Medicine Agency,08/26,185,30.16,129.2,Sun Pharmaceutical Industries Ltd,0.3016216216
+29/01/2025,Lopamide,tablet,treats diarrhoea.,Gastrointestinal Agents,1,Zaman Medicine Agency,08/27,25.48,22.41,19.77,Torrent Pharmaceuticals Ltd,0.2240973312
+29/01/2025,Taxim OF,tablet,antibiotic that treats bacterial infections.,Antibiotics,1,Zaman Medicine Agency,09/26,192,30.16,134.09,Alkem Laboratories Ltd,0.3016145833
+29/01/2025,Pantolup DSR,capsule,treats acidity and acid reflux.,Antacid,2,Zaman Medicine Agency,02/26,125.9,84.11,20,Lupin Ltd,0.8411437649
+29/01/2025,Volini spray,spray,treats muscle and joint pain.,NSAIDs / Analgesics,2,Zaman Medicine Agency,09/26,76,25.45,56.66,Sun Pharmaceutical Industries Ltd,0.2544736842
+29/01/2025,Cheri,capsule,treats iron deficiency and nutritional deficiencies.,Nutritional supplement,1,Zaman Medicine Agency,10/25,195,21.60,152.88,Indchemie Health Specialities Pvt Ltd,0.216
+29/01/2025,Omez DSR,capsule,treats acidity and acid reflux.,Antacid,1,Zaman Medicine Agency,11/25,224,22.94,172.62,Dr Reddy's Laboratories Ltd,0.229375
+29/01/2025,Feronia XT,tablet,"manages oxygen throughout the body and maintains red blood cells, prvents anaemia.",Nutritional supplement,1,Zaman Medicine Agency,05/26,270.6,30.16,188.98,Zuventus Healthcare Ltd,0.3016260163
+29/01/2025,Omez 20,capsule,treats acidity and acid reflux.,Antacid,1,Zaman Medicine Agency,07/27,64.2,23.19,49.31,Dr Reddy's Laboratories Ltd,0.2319314642
+29/01/2025,Domstal baby,drop,used to treat nausea (feeling sick) and vomiting (being sick).,Antiemetics,1,Zaman Medicine Agency,06/26,96.5,22.40,74.88,Torrent Pharmaceuticals Ltd,0.2240414508
+29/01/2025,P 40,tablet,treats acidity and acid reflux.,Antacid,2,Zaman Medicine Agency,06/26,125,84.00,20,Jaiwik Biotech,0.84
+25/12/2024,Colimex DF,drop,"helps treat stomach pain, bloating, and abdominal cramps.",Antispasmodic,2,Aayat Medical Store,01/26,74.5,28.56,53.22,Wallace Pharmaceuticals Pvt Ltd,0.2856375839
+25/12/2024,Colimex suspension,syrup,"helps treat stomach pain, bloating, and abdominal cramps.",Antispasmodic,2,Aayat Medical Store,06/27,67,28.57,47.86,Wallace Pharmaceuticals Pvt Ltd,0.2856716418
+25/12/2024,Ambrodil S,syrup,treats cough.,Cough Syrup,5,Aayat Medical Store,03/27,36.15,28.58,25.82,Aristo Pharmaceuticals Pvt Ltd,0.2857538036
+25/12/2024,Rantac infant syr,syrup,reduces the amount of acid in stomach.,Antacid,1,Aayat Medical Store,01/26,48.5,28.58,34.64,J B Chemicals and Pharmaceuticals Ltd,0.2857731959
+25/12/2024,O2 syr,syrup,antibiotic medicine that is effective against a wide range of bacterial and parasitic infections.,Antibiotics,2,Aayat Medical Store,01/26,75.5,28.56,53.94,Medley Pharmaceuticals,0.2855629139
+25/12/2024,Rantac syr,syrup,reduces the amount of acid in stomach.,Antacid,1,Aayat Medical Store,02/26,162,28.57,115.72,J B Chemicals and Pharmaceuticals Ltd,0.2856790123
+25/12/2024,Rantac RD,capsule,reduces the amount of acid in stomach.,Antacid,5,Aayat Medical Store,07/26,56.98,28.57,40.7,J B Chemicals and Pharmaceuticals Ltd,0.2857142857
+25/12/2024,Zn 20,drop,effective zinc supplement.,Nutritional supplement,1,Aayat Medical Store,08/26,113,28.58,80.71,Wallace Pharmaceuticals Pvt Ltd,0.2857522124
+25/12/2024,Dart,tablet,"treat Headache, Migraine, Muscle aches, Arthritis, Backache, Dental pain etc.",NSAIDs / Analgesics,3,Aayat Medical Store,10/27,59.25,28.52,42.35,Juggat Pharma,0.2852320675
+19/11/2024,Pan D,capsule,treats acidity and acid reflux.,Antacid,1,Aariz Medical Center,07/26,231,22.40,179.25,Alkem Laboratories Ltd,0.224025974
+19/11/2024,Gemer DS 2,tablet,treats type 2 diabetes mellitus in adults.,Antidiabetic Medications,1,Aariz Medical Center,05/26,225,21.60,176.4,Sun Pharmaceutical Industries Ltd,0.216
+19/11/2024,Terbest cream,cream,antifungal medication that treats skin infections.,Antifungals,1,Aariz Medical Center,01/26,70.5,21.60,55.27,Systopic Laboratories Pvt Ltd,0.2160283688
+19/11/2024,Thyronorm,tablet,treats hypothyroidism.,Thyroid Hormone Replacement,1,Aariz Medical Center,11/25,138.43,21.61,108.52,Abbott,0.2160658817
+11/10/2024,Pan D,capsule,treats acidity and acid reflux.,Antacid,2,Zaman Medicine Agency,06/26,231,22.40,179.26,Alkem Laboratories Ltd,0.223982684
+11/10/2024,Cypon drop,drop,increases appetite.,Appetite Stimulant,2,Zaman Medicine Agency,05/27,67,30.16,46.79,Geno Pharmaceuticals Ltd,0.301641791
+11/10/2024,Sevista 30,tablet,used as an oral contraceptive pill.,Oral Contraceptives,1,Zaman Medicine Agency,01/26,141.79,22.41,110.02,Torrent Pharmaceuticals Ltd,0.2240637563
+11/10/2024,T T Vial (DANO),injection,used for vaccination against tetanus.,Antiseptics,2,Zaman Medicine Agency,09/26,26.8,2.99,26,Dano Vaccines & Biologicals Pvt Ltd,0.02985074627
+11/10/2024,Primosa boost softgel,capsule,"health supplement for managing several PMS symptoms in women such as menopause, hot flashes etc.",Nutritional supplement,10,Frank Ross Pharmacy,03/26,381,18.00,312.42,Universal NutriScience,0.18
+11/10/2024,Budetrol inhaler,inhaler,treats asthama and chronic POD.,Cold & Allergy Medicine,1,Frank Ross Pharmacy,11/26,394.57,18.00,323.5474,Macleods Pharmaceuticals Pvt Ltd,0.18
+14/11/2024,Digipen junior,syrup,aids in digestion process in children.,Appetite Stimulant,1,Zaman Medicine Agency,01/26,153,28.88,108.82,Alkem Laboratories Ltd,0.2887581699
+14/11/2024,Ivrea,shampoo,supports scalp care and protects hair.,Hair Care,2,Zaman Medicine Agency,04/26,130,20.00,104,Ajanta Pharma Ltd,0.2
+14/11/2024,Podoxim 200,tablet,an antibiotic medicine used to treat bacterial infections in body.,Antibiotics,5,Zaman Medicine Agency,01/26,189,57.67,80,Dr Reddy's Laboratories Ltd,0.5767195767
+14/11/2024,Delpocure 100,tablet,an antibiotic medicine used to treat bacterial infections in body.,Antibiotics,1,Zaman Medicine Agency,11/25,184.8,28.72,131.72,Delcure Life Sciences,0.2872294372
+14/11/2024,Zecuf syr,syrup,treats cough.,Cough Syrup,1,Zaman Medicine Agency,11/26,148.43,35.33,95.99,J B Chemicals and Pharmaceuticals Ltd,0.3532978508
+14/11/2024,Walamycin DS syp,syrup,an antibiotic medicine used to treat bacterial infections in body.,Antibiotics,1,Zaman Medicine Agency,01/26,123,22.73,95.04,Wallace Pharmaceuticals Pvt Ltd,0.2273170732
+14/11/2024,Walamycin syp,syrup,an antibiotic medicine used to treat bacterial infections in body.,Antibiotics,1,Zaman Medicine Agency,01/26,62.5,22.40,48.5,Wallace Pharmaceuticals Pvt Ltd,0.224
+14/11/2024,Pan MPS,syrup,"treats acidity, heartburn and stomach ulcers.",Anti-ulcer Agents,1,Zaman Medicine Agency,06/27,114,35.33,73.72,Alkem Laboratories Ltd,0.3533333333
+14/11/2024,Cafragin,tablet,used to prevent and treat migraine.,Antimigraine Agents,1,Zaman Medicine Agency,05/26,50,42.78,28.61,Agrosaf Pharmaceuticals,0.4278
+14/11/2024,Nexpro 40,tablet,"relieve the discomfort caused by excessive stomach acid, such as burning sensations, sour stomach, or acid regurgitation.",Antacid,3,Zaman Medicine Agency,05/26,190,22.39,147.45,Torrent Pharmaceuticals Ltd,0.2239473684
+14/11/2024,Deviry 10,tablet,"contains progesterone, a female hormone that is important in the regulation of ovulation and menstruation.",Progestin,1,Zaman Medicine Agency,09/26,69.88,22.40,54.23,Torrent Pharmaceuticals Ltd,0.223955352
+14/11/2024,Moxclav DS syp,syrup,"an antibiotic medicine that helps treat bacterial infections of the ear, nose, throat etc.",Antibiotics,2,Zaman Medicine Agency,05/26,159,35.33,102.82,Sun Pharmaceutical Industries Ltd,0.3533333333
+14/11/2024,Moxclav BD syp,syrup,"an antibiotic medicine that helps treat bacterial infections of the ear, nose, throat etc.",Antibiotics,2,Zaman Medicine Agency,04/25,67.53,22.39,52.41,Sun Pharmaceutical Industries Ltd,0.2239004887
+14/11/2024,Zocef Dry,syrup,"treats bacterial infections of the ear, nose, throat, lungs, skin etc.",Antibiotics,1,Zaman Medicine Agency,10/25,173.78,22.40,134.85,Alkem Laboratories Ltd,0.2240188744
+14/11/2024,T Bact,cream,used to treat certain skin infections.,Antibiotics,1,Zaman Medicine Agency,10/25,113.62,22.40,88.17,Glaxo SmithKline Pharmaceuticals Ltd,0.2239922549
+14/11/2024,Pan D,capsule,treats acidity and acid reflux.,Antacid,1,Zaman Medicine Agency,05/26,231,22.40,179.25,Alkem Laboratories Ltd,0.224025974
+14/11/2024,Ondem syp,syrup,controls nausea and bouts of vomiting reflex in children.,Antiemetics,1,Zaman Medicine Agency,05/26,42.19,30.10,29.49,Alkem Laboratories Ltd,0.3010191989
+14/11/2024,Tracet,tablet,"relieves pain in conditions like menstrual cramp, arthritis, headache, muscle aches etc.",NSAIDs / Analgesics,1,Zaman Medicine Agency,06/26,286.8,20.93,226.77,Icarus Healthcare Pvt Ltd,0.2093096234
+28/03/2024,Taxim vial,injection,antibiotic medicine used to treat bacterial infections in your body.,Antibiotics,10,Zaman Medicine Agency,03/27,27.86,28.03,20.05,Alkem Laboratories Ltd,0.2803302225
+28/03/2024,Cepodem,tablet,used to treat bacterial infections.,Antibiotics,1,Zaman Medicine Agency,04/27,205,30.20,143.1,Sun Pharmaceutical Industries Ltd,0.3019512195
+28/03/2024,Augpen HS,syrup,antibiotic medicine.,Antibiotics,2,Zaman Medicine Agency,02/26,67.87,30.04,47.48,Zuventus Healthcare Ltd,0.3004272875
+28/03/2024,Lizolid 600,tablet,antibiotic medicine used in the treatment of severe bacterial infections.,Antibiotics,1,Zaman Medicine Agency,11/26,399,27.60,288.88,Integrace Pvt Ltd,0.2759899749
+28/03/2024,Gemer DS 2,tablet,treats type 2 diabetes mellitus in adults.,Antidiabetic Medications,1,Zaman Medicine Agency,09/26,225,22.40,174.59,Sun Pharmaceutical Industries Ltd,0.2240444444
+28/03/2024,T Bact,cream,antibiotic medicine used to treat certain skin infections.,Antibiotics,1,Zaman Medicine Agency,02/26,113.62,22.40,88.17,Glaxo SmithKline Pharmaceuticals Ltd,0.2239922549
+28/03/2024,Mupivate,cream,topical antibiotic used to treat skin infection,Antibiotics,3,Zaman Medicine Agency,12/25,113,75.13,28.1,Alkem Laboratories Ltd,0.7513274336
+28/03/2024,Zocef Dry,syrup,"treats bacterial infections of the ear, nose, throat, lungs etc.",Antibiotics,1,Zaman Medicine Agency,04/26,173.78,22.40,134.85,Alkem Laboratories Ltd,0.2240188744
+28/03/2024,Clavam ES dry,syrup,"treat bacterial infections like, tonsillitis, sinusitis etc.",Antibiotics,1,Zaman Medicine Agency,05/26,206,22.88,158.86,Alkem Laboratories Ltd,0.2288349515
+28/03/2024,Maxtra,syrup,relieves symptoms associated with common cold in children.,Cold & Allergy Medicine,1,Zaman Medicine Agency,09/26,116,35.33,75.02,Zuventus Healthcare Ltd,0.3532758621
+06/03/2024,Pan D,capsule,controls acid reflux.,Antacid,1,Zaman Medicine Agency,10/26,231,22.40,179.25,Alkem Laboratories Ltd,0.224025974
+06/03/2024,Maxtra,syrup,,Cold & Allergy Medicine,2,Zaman Medicine Agency,08/26,116,80.16,23.02,Zuventus Healthcare Ltd,0.8015517241
+06/03/2024,Delpoclav,syrup,,Antibiotics,2,Zaman Medicine Agency,04/26,66.6,30.17,46.51,Delcure Life Sciences,0.3016516517
+06/03/2024,Taxim O forte,syrup,,Antibiotics,1,Zaman Medicine Agency,04/26,80.24,59.78,32.27,Alkem Laboratories Ltd,0.5978315055
+06/03/2024,Nasoclear,drop,,Cold & Allergy Medicine,2,Zaman Medicine Agency,10/27,64.34,28.60,45.94,Zydus Cadila,0.2859807274
+06/03/2024,Cepodem,syrup,,Antibiotics,1,Zaman Medicine Agency,11/25,199,30.13,139.04,Sun Pharmaceutical Industries Ltd,0.3013065327
+06/03/2024,Cetritreat LM,syrup,,Cold & Allergy Medicine,5,Zaman Medicine Agency,10/26,90,70.97,26.13,Smartway Wellness,0.7096666667
+06/03/2024,Hemfer 225,syrup,,Nutritional supplement,1,Zaman Medicine Agency,01/26,195,37.91,121.07,Alkem Laboratories Ltd,0.3791282051
+06/03/2024,Alday kid,syrup,,Cold & Allergy Medicine,1,Zaman Medicine Agency,08/26,93.55,35.14,60.68,S H Pharmaceuticals Ltd,0.3513629075
+06/03/2024,Taxim O dry,syrup,,Antibiotics,1,Zaman Medicine Agency,09/26,54.62,22.28,42.45,Alkem Laboratories Ltd,0.2228121567
+09/03/2024,Choliv L,syrup,,Gastrointestinal Agents,1,Zaman Medicine Agency,03/27,145.58,30.16,101.68,Caplet India Pvt Ltd,0.301552411
+09/03/2024,Alpino syrup,syrup,used to treat constipation.,Laxatives,2,Zaman Medicine Agency,05/26,100,65.00,35,Alkem Laboratories Ltd,0.65
+09/03/2024,Omnacortil forte,syrup,,Steroids,1,Zaman Medicine Agency,07/27,57.74,19.92,46.24,Macleods Pharmaceuticals Pvt Ltd,0.1991686872
+09/03/2024,Dicoliv gel,gel,,NSAIDs / Analgesics,3,Zaman Medicine Agency,03/26,37.95,73.54,10.04,Ind Swift Laboratories Ltd,0.7354413702
